@@ -1487,7 +1487,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">遇到急轉彎時利用甩尾&#10;就能在奔跑時轉彎！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在急弯道上使用漂移&#10;就能保持奔跑转弯！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">급커브에서는 드리프트 조작을&#10;하면 커브를 돌면서 달릴 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">При беге можно резко входить в&#10;повороты с помощью дрифтинга!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você pode virar em curvas fechadas enquanto&#10;corre com um Drift!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Podczas biegu możesz ciasno wchodzić&#10;w zakręty dzięki driftowaniu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1503,7 +1503,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就算在半空中也能移動，&#10;可別太大意囉！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在半空中也是可以移动的&#10;所以不要大意！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">다이빙 중에도&#10;움직일 수 있으니까 방심하지 마!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ты можешь двигаться при нырке,&#10;так что не ослабляй&#10;внимание!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você ainda pode mover-se ao afundar,&#10;então não abaixe a guarda!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Podczas nurkowania możesz się ruszać,&#10;więc uważaj!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1519,7 +1519,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">移動：[btn_move]&#10;加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">移动：[btn_move]&#10;加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">이동: [btn_move]&#10;가속: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Перемещение: [btn_move]&#10;Ускорение: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mover: [btn_move]&#10;Acelerar: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch: [btn_move]&#10;Przyspieszenie: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s102">
@@ -1535,7 +1535,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">在身上有彩色威斯時，&#10;發動彩色變身的話，</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">在拥有彩色威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">컬러 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Смена облика при наличии&#10;цветного виспа</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Se você mudar de forma quando&#10;tiver um Wisp Colorido</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Jeśli zmienisz formę, kiedy posiadasz&#10;kolorowego wispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s102">
@@ -1551,7 +1551,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">就能使用彩色變身能力！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">就可以使用缤纷能力！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">컬러즈 파워 액션을 쓸 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">открывает особые способности!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">você pode utilizar habilidades especiais!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">możesz użyć umiejętności specjalnych!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s104">
@@ -1567,7 +1567,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在身上有海藍威斯時，&#10;發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有海蓝威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">시안 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик бирюзовым виспом,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mude de forma com um Wisp Ciano</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Zmień formę przy pomocy turkusowego wispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s104">
@@ -1583,7 +1583,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就會變成可以高速移動的&#10;海藍雷射！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就能变为可以&#10;高速移动的海蓝激光！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">고속 이동하는&#10;시안 레이저로 변해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">чтобы стать быстрым лазером!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">para ter a super-rápida Forma de Laser!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by przybrać superszybką formę lasera!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105" ss:StyleID="s105">
@@ -1599,7 +1599,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Активируй силу виспа, удерживая кнопку виспа и используя средства управления движением для прицеливания. Отпусти кнопку, когда будешь готов к стрельбе!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ative o poder do Wisp pressionando o [btn_phantom] e use os controles de movimento para mirar. Solte quando estiver pronto para lançar!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Aktywuj moc wispa trzymając przycisk wispa i użyj sterowania postacią, aby wycelować. Puść, kiedy będziesz gotowy!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1615,7 +1615,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">身上有金黃威斯時，&#10;可以挖掘地面或彩色方塊喔！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">如果拥有金黄威斯，可以挖开地面或&#10;彩色立方体前进。</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">옐로 위스프를 들고 있으면 땅속이나&#10;컬러 큐브를 파면서 달릴 수 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Используй Желтую Дымку, чтобы сверлить мягкую землю и хроматические кубы.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o Wisp Amarelo para cavar no chão macio e em Cubos Croma.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Użyj żółtego wispa, aby przewiercić się przez miękkie podłoże oraz chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s101">
@@ -1631,7 +1631,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">消耗量表進行加速的話，&#10;就可以跑得更快喔！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">如果消耗能量槽，&#10;可以加速前进。</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">게이지를 사용해 부스트를 쓰면&#10;더 빨리 달릴 수 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Используй ускорение, чтобы потратить дополнительную энергию и двигаться быстрее!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o boost para gastar energia extra e ir mais rápido!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Użyj turbo, aby zużyć energię i poruszać się szybciej!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1647,7 +1647,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">移動：[btn_move]&#10;加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">移动：[btn_move]&#10;加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">이동: [btn_move]&#10;가속: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Перемещение: [btn_move]&#10;Бурить быстрее: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mover: [btn_move]&#10;Cavar mais rápido: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch: [btn_move]&#10;Przyspieszenie w formie wiertła: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1663,7 +1663,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">身上有金黃威斯時，&#10;在水中發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有金黄威斯时&#10;在水中进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">옐로 위스프를 들고 있을 때&#10;물속에서 컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик желтым виспом,&#10;находясь в воде,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mude de forma com um Wisp Amarelo&#10;enquanto estiver na água</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">W wodzie zmień formę przy pomocy żółtego&#10;wispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1679,7 +1679,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就會變成可以在水中&#10;自由游動的金黃鑽頭！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就能变为可以在水中&#10;自由穿梭的金黄钻头！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">물속을 자유롭게 헤엄치는&#10;옐로 드릴로 변해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">чтобы превратиться в торпеду!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para ter o nado-livre da Forma de Torpedo!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">aby przybrać formę Torpedy!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1695,7 +1695,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">移動：[btn_move]&#10;加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">移动：[btn_move]&#10;加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">이동: [btn_move]&#10;가속: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Перемещение: [btn_move]&#10;Плыть быстрее: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mover: [btn_move]&#10;Nadar mais rápido: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch: [btn_move]&#10;Szybsze pływanie: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1711,7 +1711,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在身上有橙黃威斯時，&#10;發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有橙色威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">오렌지 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик оранжевым виспом,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mude de forma com um Wisp Laranja</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Zmień formę przy pomocy pomarańczowego wispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1727,7 +1727,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就會變成可以跳很高的&#10;橙黃火箭！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就能变为可以进行&#10;超远程跳跃的橙色火箭！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">엄청 높이 점프할 수 있는&#10;오렌지 로켓으로 변해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">чтобы превратиться в летающую&#10;высоко ракету!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para ter a Forma de&#10;Foguete!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by przybrać latającą formę rakiety!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1743,7 +1743,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">飛躍移動：[btn_move]&#10;飛躍降落：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">飞跃移动：[btn_move]&#10;飞跃下落：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">다이빙 이동: [btn_move]&#10;다이빙 낙하: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Нырок: [btn_move]&#10;Погружение: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Movimento na queda: [btn_move]&#10;Maior velocidade na queda: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch podczas nurkowania: [btn_move]&#10;Nur w dół: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1759,7 +1759,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在身上有粉紅威斯時，&#10;發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有粉红威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">핑크 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик розовым виспом,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mude de forma com um Wisp Rosa</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Zmień formę przy pomocy różowego wispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1775,7 +1775,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">變成粉紅釘球時，&#10;還可以破壞彩色磚塊！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">在粉红针球形态下&#10;还能破坏彩色方块！</Data></Cell>
     <Cell ss:StyleID="s108"><Data ss:Type="String">핑크 스파이크 상태 중엔&#10;컬러 블록도 부술 수 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">В этом облике также можно&#10;разбивать хроматические кубы.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para andar nas paredes e no teto&#10;com a Forma Espinhosa!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">W formie kolców możesz też&#10;rozbijać chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1791,7 +1791,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">移動：[btn_move]&#10;跳躍：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">移动：[btn_move]&#10;跳跃：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">이동: [btn_move]&#10;점프: [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Перемещение: [btn_move]&#10;Прыжок: [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mover: [btn_move]&#10;Pular: [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch: [btn_move]&#10;Skok: [btn_jump]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1807,7 +1807,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">가속: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ускорение: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Acelerar: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Przyspieszenie: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1823,7 +1823,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在身上有改造過的威斯時，&#10;發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有经过改造的威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">개조된 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик нега-виспом,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mude de forma com um Wisp Nega</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Zmień formę przy pomocy negawispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1839,7 +1839,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就會變成有著狂暴力量的&#10;紫色狂魔！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就能变为拥有&#10;狂暴力量的紫色狂暴！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">폭주하는 힘을 가진&#10;퍼플 프렌지로 변해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">чтобы впасть в бешенство!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para entrar no modo Frenesi!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by przybrać berserkerską formę szału!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1855,7 +1855,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">移動：[btn_move]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">移动：[btn_move]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">이동: [btn_move]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Перемещение: [btn_move]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mover: [btn_move]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch: [btn_move]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1871,7 +1871,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在身上有翠綠威斯時，&#10;發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有翠绿威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">그린 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик зеленым виспом,&#10;чтобы парить в воздухе!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mude de forma com um Wisp Verde&#10;Para ter a Forma Flutuante!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Zmień formę przy pomocy zielonego wispa,&#10;by przybrać formę lotu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s101">
@@ -1887,7 +1887,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就會變成可以飛行的翠綠飛船！&#10;在金環旁邊可以飛得更快！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">这是能飞翔的翠绿旋盘！&#10;在金环附近时，可以高速飞行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">하늘을 나는 그린 호버로 변해!&#10;링 옆에선 빠르게 날 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Используй кольца, чтобы лететь быстрее!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Use anéis para voar mais rápido!</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Użyj pierścieni, by lecieć szybciej</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1903,7 +1903,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">方向：[btn_move]&#10;起飛：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">方向：[btn_move]&#10;起飞：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">방향: [btn_move]&#10;발진: [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Управление: [btn_move]&#10;Полет: [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Guiar: [btn_move]&#10;Voar: [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Sterowanie: [btn_move]&#10;Latanie: [btn_jump]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1919,7 +1919,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">金環衝刺：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">金环冲刺：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">링 대시: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Кольцевой рывок: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Seguir anéis: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Skok pierścieniowy: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1935,7 +1935,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在身上有天藍威斯時，&#10;發動五彩變身的話，</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在拥有蔚蓝威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">블루 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Измени облик синим виспом,&#10;чтобы превратиться в куб.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ative o poder do Wisp Azul para bater com força no chão!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Zmień formę przy pomocy niebieskiego&#10;wispa, by przybrać formę kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -1951,7 +1951,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">就會變成可以改變&#10;天藍道具的天藍方塊！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">就能变为可以变化&#10;蔚蓝道具的蔚蓝立方！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">블루 아이템을 변화시키는&#10;블루 큐브로 변해!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Ударные волны будут наносить урон&#10;врагам и разбивать хроматические кубы.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ondas de choque desse poder irão destruir inimigos, e quebrar Cubos Croma!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Fale uderzeniowe zadają obrażenia&#10;wrogom i rozbijają chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s102">
@@ -1967,7 +1967,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">В облике куба:&#10;синие кольца ⇔ синие кубы</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Toda vez que você bater no chão, anéis azuis ⇔ blocos azuis</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">W formie kostki:&#10;Niebieskie pierścienie ⇔ niebieskie kostki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s102">
@@ -1983,7 +1983,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">站上這塊板子，&#10;就可以做出花式跳躍！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">使用这块踏板&#10;就可以进行花式跳跃！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">이 보드에 접속하면&#10;트릭 점프를 할 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Используй доску для трюков в воздухе.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Use esta rampa para fazer manobras.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Użyj skoczni, by wykonywać triki w locie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s102">
@@ -1999,7 +1999,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">如果在空中跳躍成功，&#10;就可以延長滯空距離！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">在空中利用它进行跳跃&#10;可以延长飞行距离哦！</Data></Cell>
     <Cell ss:StyleID="s114"><Data ss:Type="String">공중에서 점프에 성공하면&#10;비거리를 늘릴 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">При выполнении трюка в воздухе&#10;преодолеваемое расстояние увеличивается!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Fazer manobras no ar&#10;farão sua distância aumentar!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Wykonywanie trików w powietrzu&#10;zwiększa dystans!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2015,7 +2015,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Чтобы начать, нажми кнопку прыжка&#10;одновременно с подсказкой на экране.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Para começar, aperte [btn_jump]&#10;ao aparecer o comando na tela.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Aby zacząć, naciskaj przycisk skoku&#10;zgodnie ze wskazówkami na ekranie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2031,7 +2031,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Затем нажимай кнопку прыжка,&#10;проходя сквозь каждое световое кольцо.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">E então, aperte [btn_jump] ao passar&#10;por cada anel de luz.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Następnie naciskaj przycisk skoku,&#10;aby przeskoczyć przez każdy pierścień światła.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -2047,7 +2047,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">這個箱子可以推動！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这个箱子可以推动！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">이 상자는 밀 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ты можешь двигать эту коробку!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você pode empurrar essa caixa!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Możesz przesuwać tę skrzynię!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -2063,7 +2063,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在推動箱子時按下[btn_boost]&#10;就可以把箱子踢走！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">推箱子的时候按[btn_boost]&#10;还可以把它踢开哦！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">밀 때 [btn_boost]을&#10;누르면 찰 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Толкая предмет, нажми [btn_boost],&#10;чтобы пнуть его!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_boost] enquanto empurra algo&#10;para chutá-lo.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_boost] podczas pchania,&#10;aby kopnąć.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -2079,7 +2079,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">看來這裡必須&#10;利用追蹤攻擊通過！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这里要用追踪攻击&#10;才能跨越！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">여기는 호밍 어택을 사용해서&#10;건너가는 곳이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ты можешь попасть туда с помощью&#10;самонаводящейся атаки!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você pode passar por aqui&#10;usando o Homing Attack!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Możesz przedostać się przy użyciu&#10;ataku naprowadzanego!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -2095,7 +2095,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">看到準心之後，&#10;就按下[btn_homing]！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">看一眼锁定准星，&#10;然后按下[btn_homing]吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">조준 표시를 확인한 뒤에&#10;[btn_homing]을 눌러!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Увидев значок прицеливания,&#10;нажми [btn_homing]!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Assim que você ver a mira,&#10;aperte [btn_homing]!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Kiedy pojawi się kursor nakierowania,&#10;naciśnij [btn_homing]!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2111,7 +2111,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">利用跳躍衝刺或空氣加速&#10;就可以通過這裡！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里要用跳跃冲刺或&#10;空中加速才能跨越！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 점프 대시나&#10;에어 부스트로 건널 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Чтобы попасть туда, используй&#10;рывок в прыжке или воздушное ускорение.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Use o Dash Aéreo ou o Boost Aéreo &#10;para passar por aqui.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Użyj wyskoku lub powietrznego turbo,&#10;by się przedostać.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s102">
@@ -2127,7 +2127,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">記得在跳躍時按下【加速鍵】！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">在跳跃中按下【加速键】！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">점프 중에 [부스트 버튼]을 눌러!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Подпрыгни, а затем нажми кнопку ускорения!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Pule, e então aperte [btn_boost]!</Data></Cell>
     <Cell ss:StyleID="s93"><Data ss:Type="String">Skocz, a następnie naciśnij przycisk turbo!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2143,7 +2143,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">這裡必須一邊二段跳&#10;一邊小心通過！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里要一边二段跳&#10;一边慎重地前进哦！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 2단 점프를 하면서&#10;신중하게 지나가자!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Осторожнее! Чтобы пройти здесь,&#10;используй двойной прыжок.</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Cuidado aí!&#10;Use um pulo duplo para progredir.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Uważaj! Użyj podwójnego skoku,&#10;aby się przedostać.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s102">
@@ -2159,7 +2159,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">二段跳的跳法是&#10;跳躍時再按一次【跳躍鍵】！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">要进行二段跳&#10;就在跳跃时再按一次【跳跃键】！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">2단 점프는 점프 중에&#10;한 번 더 [점프 버튼]을 눌러!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Удерживай кнопку приседания,&#10;чтобы спускаться ниже!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Continue aguentando [btn_sliding]&#10;para continuar descendo!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Trzymaj przycisk kucnięcia,&#10;aby dalej przemieszczać się w dół!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -2175,7 +2175,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">這裡必須用下墜攻擊&#10;破壞踏板才能前進！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这里要使用下坠攻击&#10;破坏地板再前进哦！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">여기는 스톰핑 어택으로&#10;발판을 부수면서 가자!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">О, эту платформу можно преодолеть&#10;с помощью растаптывающей атаки!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Oh, você pode quebrar aquela&#10;plataforma usando um stomp!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Uuu, możesz przebić się przez platformę&#10;dzięki atakowi naskokiem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2191,7 +2191,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">長按【下蹲鍵】&#10;就可以連續破壞踏板！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">长按【下蹲键】&#10;就可以连续破坏地板！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">[웅크리기 버튼]을 누르고 있으면&#10;연속으로 부술 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Удерживай кнопку приседания, чтобы&#10;выполнить несколько растаптываний подряд!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Continue segurando [btn_sliding] para realizar&#10;vários stomps seguidos!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Trzymaj przycisk kucnięcia, aby wykonać&#10;serię ataków naskokiem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s102">
@@ -2207,7 +2207,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">看來這裡必須利用三角跳爬上去！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里要用三角跳跃攀登上去！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 삼각 뛰기로 올라가야 해!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Здесь пригодится прыжок на стену.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Você vai ter que fazer um Wall Jump aí.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Musisz tutaj wykonać skok od ściany.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2223,7 +2223,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">反覆使出三角跳&#10;就能爬上高處！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">连续使用三角跳跃&#10;就可以攀登到高处！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">삼각 뛰기를 반복하면&#10;높은 곳까지 올라갈 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Продолжай в том же духе,&#10;пока не взберешься наверх!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Apenas continue até chegar ao topo!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Wykonuj skoki, aż&#10;znajdziesz się na górze!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s102">
@@ -2239,7 +2239,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">這裡可以&#10;用滑行通過！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里可以用滑行&#10;通过哦！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 슬라이딩으로&#10;지나갈 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Здесь можно пробраться с помощью&#10;скольжения!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Você poderia ter passado&#10;se tivesse Deslizado!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Możesz się przedostać, jeśli wykonasz&#10;ślizg!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -2255,7 +2255,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">利用加速&#10;就可以在水面上奔跑！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">只要使用加速&#10;就可以在水面上奔跑！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">부스트를 쓰면 물에 빠지지 않고&#10;물 위를 달릴 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">При ускорении можно бежать по&#10;поверхности воды!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Se usar o boost, pode correr&#10;na água sem cair!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jeśli użyjesz turbo, możesz przebiec po wodzie&#10;bez wpadania do niej!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2271,7 +2271,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">前面只要利用甩尾&#10;就可以順暢地奔跑！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">前面如果使用漂移&#10;就能很顺利地前进！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기서부터 드리프트를 사용하면&#10;수월하게 달릴 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Дрифтуй при входе в этот поворот,&#10;чтобы не терять скорость!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Use o Drift nessa curva&#10;para manter a sua velocidade!</Data></Cell>
     <Cell ss:StyleID="s93"><Data ss:Type="String">Wykonaj drift w tym zakręcie,&#10;aby nabierać prędkości!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2287,7 +2287,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">這邊可以利用加速&#10;在奔跑時彈飛敵人！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里可以利用加速&#10;把敌人撞飞的同时前进！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 부스트로 적을&#10;튕겨 내면서 달릴 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">С помощью ускорения можно&#10;расшвырять врагов во время бега!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Você pode usar o boost para&#10;fazer os inimigos voarem enquanto corre!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Możesz użyć turbo, aby podczas biegu&#10;rozrzucić wrogów!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -2303,7 +2303,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">看來這裡可以用&#10;金黃鑽頭鑽進去！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这里可以用金黄钻头&#10;下潜！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">여기는 옐로 드릴로&#10;파고들어 갈 수 있는 곳이야!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Здесь можно закопаться в облике бура!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Você pode cavar aqui com a Forma de Broca!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">W formie wiertła możesz tu kopać!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s105">
@@ -2319,7 +2319,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">利用金黃鑽頭就可以&#10;在這裡輕鬆移動！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里用金黄钻头&#10;就可以很轻松地移动！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 옐로 드릴을 사용하면&#10;편하게 이동할 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Плевое дело для торпеды!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Isso seria molezinha na Forma de Torpedo!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">W formie torpedy to byłaby bułka z masłem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s105">
@@ -2335,7 +2335,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">看來這裡必須利用天藍方塊&#10;來尋找道路。</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里要用蔚蓝立方&#10;找路才行。</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 블루 큐브를 사용해서&#10;길을 찾아야겠네</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Попробуй найти проход&#10;в облике куба.</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Você vai ter que encontrar&#10;um jeito na Forma de Cubo.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Musisz znaleźć drogę dalej&#10;w formie kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s105">
@@ -2351,7 +2351,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">看來這裡必須&#10;拿旁邊的箱子來當踏板！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里要搬动&#10;前面的箱子当垫脚石！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 앞에 있던 상자를&#10;가져와서 발판으로 써야겠어!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">О, принеси сюда ту коробку&#10;и используй ее как платформу.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ooh, você tem que trazer a caixa&#10;aqui e usá-la como plataforma.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Uuu, musisz tu przyciągnąć tę skrzynię,&#10;aby z niej skoczyć.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s105">
@@ -2367,7 +2367,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">只要破壞蛋頭博士的機器，&#10;就能救出這些威斯！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">只要破坏蛋头博士的机械&#10;就能帮助威斯们！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">에그맨의 로봇을 부수면&#10;위스프들을 구할 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Уничтожь роботов Эггмана,&#10;чтобы освободить бедных виспов!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">УDestrua os robôs do Eggman&#10;para salvar os pobres Wisps!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Zniszcz roboty Eggmana, by uwolnić&#10;biedne wispy!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s105">
@@ -2383,7 +2383,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">前面沒有地方可以當踏板，&#10;記得用跳躍衝刺！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">前面没有落脚点，&#10;所以要用跳跃冲刺！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기부터는 발판이 없으니까&#10;점프 대시를 쓰자!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Не вижу платформ. Используй&#10;рывок в прыжке!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Não vejo nenhuma plataforma.&#10;Use o Dash Aéreo!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Nie widzę żadnych platform. Użyj&#10;wyskoku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s105">
@@ -2399,7 +2399,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">前面好像有很多敵人，&#10;記得用加速！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">前面好像有很多敌人，&#10;所以要用加速！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">이 앞에는 적이 많은 것 같으니&#10;부스트를 쓰자!</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Похоже, впереди много злодеев.&#10;Пришло время для ускорения!</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Parece que tem vários inimigos à sua frente.&#10;Hora de dar um Boost!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Przed tobą sporo wrogów.&#10;Czas na turbo!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s105">
