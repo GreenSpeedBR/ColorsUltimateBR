@@ -975,7 +975,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">現在進入快步模式！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">接下来就是快步模式了！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">여기부터는 퀵스텝 모드야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Agora você está no modo de passo rápido!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Agora você está no modo de Quick Step!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jesteś w trybie szybkiego kroku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -991,7 +991,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">左右移動避開障礙物吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">左右移动可以躲开障碍物哦！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">장애물을 좌우 이동으로 피해 봐!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Mova-se para a esquerda e direita&#10;para evitar obstáculos!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mova-se para a esquerda e para a direita&#10;para evitar obstáculos!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Przesuwaj się w lewo i prawo, by omijać&#10;przeszkody!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1023,7 +1023,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">站上滑軌&#10;就可以在軌道上滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">跳上轨道&#10;就可以进行轨道滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">그라인드에 접속하면&#10;그라인드 주행으로 이동이 가능해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Suba nas rails para fazer grind!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Suba nos rails para fazer grind!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Wskakuj na szyny, by je grindować!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s67">
@@ -1071,7 +1071,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">輕按[btn_jump]再立刻放開，&#10;就可以低空跳躍！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">轻按[btn_jump]然后立刻放开，&#10;就可以进行小跳跃！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">[btn_jump]을 살짝 눌렀다&#10;바로 떼면 숏 점프야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte levemente [btn_jump]&#10;para ter um pulo curto.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_jump]&#10;para Saltar</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_jump],&#10;by wykonać krótki skok.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s67">
@@ -1087,7 +1087,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">低空跳躍：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">小跳跃： [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">숏 점프: [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Pulo curto: [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Saltar: [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krótki skok: [btn_jump]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s67">
@@ -1119,7 +1119,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">可以比普通的跳躍&#10;跳得更高！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这样可以比一般跳跃&#10;跳得更高！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">보통 점프보다 더 높이&#10;점프할 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Isto vai te levar mais para cima,&#10;diferente de um pulo normal!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Isso vai te levar mais para cima,&#10;diferente de um salto normal!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Dzięki temu skoczysz wyżej niż w przypadku&#10;zwykłego skoku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1263,7 +1263,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">就可以空氣加速！量表全空時，&#10;則會使出跳躍衝刺！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">会进行空中加速；如果能量槽为空，&#10;那就会进行跳跃冲刺！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">에어 부스트, 게이지가 없으면&#10;점프 대시야!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Para dar um Boost aéreo! Se sua barra estiver&#10;vazia, você dará apenas um Dash Aéreo.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Para dar um Boost Aéreo! Se sua barra estiver&#10;vazia, você dará apenas um Dash Aéreo.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">by wykonać powietrzne turbo!&#10;Jeśli pasek jest pusty, wykonasz wyskok.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s97">
@@ -1311,7 +1311,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就可以使出追蹤攻擊！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就可以进行追踪攻击！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">호밍 어택이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Para um Homing Attack!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para dar um Homing Attack!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by wykonać atak naprowadzany!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s87">
@@ -1631,7 +1631,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">消耗量表進行加速的話，&#10;就可以跑得更快喔！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">如果消耗能量槽，&#10;可以加速前进。</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">게이지를 사용해 부스트를 쓰면&#10;더 빨리 달릴 수 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o boost para gastar energia extra e ir mais rápido!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o Boost para gastar energia extra e ir mais rápido!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Użyj turbo, aby zużyć energię i poruszać się szybciej!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -4398,7 +4398,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">有我看著你就沒事！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">我看着呢！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">내가 보고 있을게!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ainda tem tempo!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ainda dá tempo!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Jest jeszcze czas!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s150">
@@ -4462,7 +4462,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">沒問題的，試試看吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">别担心，试试看！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">괜찮아, 해 보자!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Vai lá, tente!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Vai lá, tenta aí!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Dalej, spróbuj!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s150">
@@ -4478,7 +4478,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">嘿，索尼克！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">喂，索尼克！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">야, 소닉!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">E aí, Sonic!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ei, Sonic!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Hej, Sonic!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s150">
@@ -4510,7 +4510,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克，你能陪在我身邊，&#10;我真的很高興喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">有你在身边&#10;我真的很开心。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉이 있어서&#10;난 정말 기뻐</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Estou tão feliz que você é meu herói!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tô tão feliz que você é meu herói!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Jesteś moim bohaterem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s150">
@@ -4654,7 +4654,7 @@
     <Cell ss:StyleID="s92"><Data ss:Type="String">哇～！蛋頭博士的機器人&#10;因為這個開關出現了！</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">糟了～！那个开关&#10;召来了蛋头博士的机器人！</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">우와~! 스위치에 반응해서&#10;에그맨의 로봇이 나타났어!</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Oh não, aquele botão fez aparecer mais robôes do Eggman.</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Oh não! Aquele botão fez aparecer mais robôes do Eggman.</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">O nie, ta dźwignia właśnie uwolniła roboty Eggmana.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -4686,7 +4686,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">這個開關讓火箭&#10;發射了！小心一點！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">那个开关&#10;发射了火箭！小心点！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">그 스위치로 로켓이&#10;발사됐어! 조심해!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Sonic, aquele botão lançou esses foguetes! Tome cuidado!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Sonic, aquele botão lançou esses foguetes! Toma cuidado!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">SONIC! Ta dźwignia właśnie odpaliła rakiety! Uważaj!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s150">
@@ -4910,7 +4910,7 @@
     <Cell ss:StyleID="s92"><Data ss:Type="String">方向：[btn_move]&#10;發射：放開[btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">方向：[btn_move]&#10;发射：松开[btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">방향: [btn_move]&#10;발사: [btn_phantom] 떼기</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Mirar: удерживай [btn_move] na direção desejada&#10;Mover: soltar [btn_phantom]</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Mirar: [btn_move] na direção desejada&#10;Mover: soltar [btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Celowanie: Przytrzymaj [btn_move] w odpowiednim kierunku&#10;Ruch: Puść [btn_phantom]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s150">
