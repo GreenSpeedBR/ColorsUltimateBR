@@ -581,7 +581,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">各位嘉賓！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">到场的各位游客！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">손님 여러분!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Добро пожаловать&#10;в Потрясающий межзвездный парк развлечений Эггмана, </Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Bem-vindos ao&#10;Incrível Parque de Diversões Interestelar do Eggman, </Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Witamy w&#10;Niesamowitym Międzygwiezdnym Parku Rozrywki Eggmana, </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s67">
