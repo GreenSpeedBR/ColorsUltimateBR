@@ -4718,7 +4718,7 @@
     <Cell ss:StyleID="s92"><Data ss:Type="String">你看！輪軸降下來了！</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">看！滑轮滑下来了！</Data></Cell>
     <Cell ss:StyleID="s152"><Data ss:Type="String">저것 봐! 도르래가 내려왔어!</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Olhe lá, algo acabou de cair.</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Olhe lá, uma polia acabou de cair.</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Patrz, krążek zjechał.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5054,7 +5054,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">變成海藍雷射時，&#10;可以決定前進方向喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用海蓝激光时，&#10;可以决定前进方向。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">시안 레이저로 진행 방향을&#10;정할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Na forma de Laser, você pode mirar para qualquer direção.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Na Forma de Laser, você pode mirar para qualquer direção.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Będąc w formie lasera, możesz celować w dowolnym kierunku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90" ss:StyleID="s102">
@@ -5070,7 +5070,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">天藍方塊的衝擊力&#10;可以破壞敵人和彩色磚塊。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">蔚蓝立方的冲击&#10;可以破坏敌人或彩色方块。</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">블루 큐브의 충격으로&#10;적이나 컬러 블록을 부술 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ударные волны от облика куба могут уничтожить хроматические кубы и нанести урон ближайшим врагам.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ondas de choque na Forma de Cubo irão destruir Cubos Croma e inimigos próximos.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Fale uderzeniowe formy kostki rozbijają chromatyczne kostki&#10;i zadają obrażenia pobliskim wrogom.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s150">
@@ -5086,7 +5086,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">只要放出最完美的追蹤攻擊，&#10;就可以獲得加速效果和能量喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">如果成功使出最佳的追踪攻击，&#10;就可获得加速效果和能量。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">호밍 어택을 정확하게 맞히면&#10;부스트 효과와 에너지를 얻을 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Попав в уязвимое место врага, можно ускориться и получить дополнительную энергию. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você pode ganhar velocidade e energia de Boost ao acertar o ponto fraco de um inimigo.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Po celnym trafieniu w czuły punkt wroga otrzymasz dodatkowe turbo i energię. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5102,7 +5102,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">只要使用衝刺金環，&#10;就算在空中也可以加速喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用冲刺金环的话，&#10;在空中也可以进行加速！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">대시 링을 사용하면&#10;공중에서도 스피드 업을 할 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Кольца рывка ускоряют в прыжке! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Anéis de Dash te dão um impulso no meio do ar!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Pierścienie wyskoku chwilowo przyspieszają cię, gdy jesteś w powietrzu! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5118,7 +5118,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用衝刺金環除了能夠衝刺，&#10;還有提升分數的效果。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">冲刺金环除了让你加速，&#10;还能附加增加点数的效果。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">대시 링은 대시뿐만 아니라&#10;포인트 업 효과도 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Кольца рывка ускоряют и дают дополнительные очки! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Anéis de Dash também te dão um aumento de velocidade e pontos extra!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Pierścienie wyskoku zapewniają też turbo i dodatkowe punkty! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5134,7 +5134,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用碧綠威斯&#10;就可以變成碧綠鬼魂喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">用碧绿威斯，&#10;可以变成碧绿鬼魂。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">제이드 위스프로&#10;제이드 고스트가 될 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">С помощью изумрудного виспа можно превратиться в призрака.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Mude para a Forma Fantasma com um Wisp Jade.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Przybierz formę ducha dzięki nefrytowemu wispowi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5150,7 +5150,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">成為碧綠鬼魂時會變得透明，&#10;因此能夠穿透敵人和物品。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">碧绿鬼魂变透明之后，&#10;能够穿透敌人或物体。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">제이드 고스트는 투명한 상태로&#10;적이나 사물을 피해 갈 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">В облике призрака можно проходить сквозь препятствия и врагов.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Na Forma Fantasma, você pode flutuar e atravessar objetos e inimigos.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">W formie ducha możesz przenikać przedmioty i wrogów.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5166,7 +5166,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">所以要拿取道具時&#10;必須變回原本的樣子喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要变回原来的形态，&#10;才能拾取道具。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">아이템을 획득할 때는&#10;원래의 모습으로 돌아가야 해</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Чтобы собирать предметы, вернись в обычный облик.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Volte para a sua forma física para pegar itens.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Przybieraj formę fizyczną, aby zbierać przedmioty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s159">
@@ -5182,7 +5182,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">只要有剩餘的能量，&#10;就能再次變回碧綠鬼魂！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">若还有剩余能量，&#10;就能够变回碧绿鬼魂。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">에너지만 남아 있으면&#10;제이드 고스트의 모습으로 돌아갈 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Пока есть энергия, можно переключаться между призрачным и обычным обликами!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você pode mudar entre a Forma Fantasma e a forma física enquanto tiver energia!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Możesz przechodzić pomiędzy formą ducha a fizyczną,&#10;dopóki masz energię!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s159">
@@ -5198,7 +5198,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！&#10;那個箱子好像能移動喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！&#10;那箱子好像可以移动。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉!&#10;그 상자는 움직일 수 있는 것 같아</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Эй, Соник, ты можешь передвинуть эту коробку.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ei Sonic, você pode mover essa caixa.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Hej, Sonic, możesz przesunąć tę skrzynię.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s159">
@@ -5214,7 +5214,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要不要推推看那個箱子？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">不如试试推动那箱子？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">그 상자를 밀어 보면 어떨까?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Эту коробку можно убрать с дороги. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você pode empurrar essa caixa e tirá-la do caminho.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Możesz przesunąć skrzynię zastawiającą drogę. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s159">
@@ -5230,7 +5230,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">推推看這個箱子！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">试着推动这箱子。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이 상자를 밀어 봐</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ты можешь сдвинуть эту коробку перед собой. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Voc~e pode empurrar essa caixa na sua frente.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Możesz przesunąć skrzynię przed tobą. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s159">
@@ -5246,7 +5246,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">推推看那個箱子吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">试着推动那箱子吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">그 상자를 밀어 보자</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Эти коробки можно убрать с дороги. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você pode empurrar essas caixas e tirá-las do caminho.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Możesz przesunąć skrzynie zastawiające drogę. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s159">
@@ -5262,7 +5262,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！左右移動&#10;來把那個敵人彈飛！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！左右移动，&#10;把敌人撞飞吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉! 좌우로 움직여서&#10;그 적을 튕겨내 버려!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Соник, двигайся влево или вправо и столкни этих противных мотожуков с дороги. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Sonic, mova-se para a esquerda ou para a direita para tirar esses Moto Bugs do caminho!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Sonic, przesuwaj się w lewo lub w prawo, aby zbijać z drogi te irytujące Moto Bugi. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s160">
@@ -5278,7 +5278,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">衝到敵人的旁邊，&#10;再推出去就行了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">往敌人侧面冲过去，&#10;把敌人推出去就可以了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">적의 옆으로 달려들어&#10;밀쳐 내면 돼!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Тарань мотожуков сбоку, чтобы убрать их со своего пути.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Corra em direção aos Moto Bugs para tirá-los do caminho.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wbiegaj w Moto Bugi od boku, aby spychać je z drogi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s160">
@@ -5294,7 +5294,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">用下墜攻擊應該可以&#10;破壞那個磚塊喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用下坠攻击，&#10;可以破坏障碍！</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">스톰핑으로 그 블록을&#10;부술 수 있을 거야!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Используй растаптывающую атаку, чтобы сломать блоки! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Use o Stomp para quebrar esses blocos!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Użyj ataku naskokiem, aby zniszczyć te kostki! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s159">
@@ -5310,7 +5310,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克你看！這裡有輪軸！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克看！有滑轮！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉, 저것 봐! 도르래가 있어!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Смотри, Соник, здесь блок! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Olhe, Sonic! é uma polia!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Sonic, zobacz, krążek! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s160">
@@ -5326,7 +5326,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">是輪軸！快抓住！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">是滑轮！快抓住！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">도르래야! 그걸 붙잡아!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Блок! Хватай его!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Uma polia! Pegue ela!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Krążek! Złap go!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s159">
@@ -5342,7 +5342,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">抓住那個輪軸！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">抓住那滑轮！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">그 도르래를 붙잡아!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Схвати этот блок!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Pegue aquela polia!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Złap ten krążek!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -5358,7 +5358,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！&#10;有個挑戰在等著你喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！&#10;有人在挑战你呢。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉!&#10;누가 너에게 도전하려나 봐!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Эй, Соник, тебя вызвали на состязание в гонке! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ei Sonic! Te desafiaram para uma corrida!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Hej, Sonic! Dostałeś wyścigowe wyzwanie! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5374,7 +5374,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">金屬索尼克向你&#10;提出了競速對決！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">金属索尼克&#10;邀你竞速对决！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">메탈 소닉이&#10;레이스로 대결하자는데?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Метал Соник хочет потягаться с тобой в гонке!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Metal Sonic te desafia para uma corrida!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Metal Sonic rzuca ci wyzwanie!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5390,7 +5390,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要挑戰看看嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要挑战看看吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">도전해 볼래?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Хочешь посоревноваться? </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Está preparado para um desafio?</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Przyjmiesz wyzwanie? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5406,7 +5406,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">準備好競速了嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">准备好竞速了吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">레이스를 할 준비는 됐어?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Примешь участие в гонке? </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Está preparado para uma corrida?</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Gotowy do wyścigu? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5422,7 +5422,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">挑戰新紀錄吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">挑战新纪录吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">신기록에 도전해 보자!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Приготовься поставить новый рекорд. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Se prepare para ter um novo recorde.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Przygotuj się do ustanowienia kolejnego rekordu. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5438,7 +5438,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">會變成怎樣的競速呢？真令人期待！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">到底会是一场怎样的竞速呢？好期待！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">어떤 레이스가 될지 기대되는걸?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Это будет интересная гонка.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Essa corrida vai ser divertida de ver.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">To będzie pasjonujący wyścig.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5454,7 +5454,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">準備好了嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">准备好了吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">준비는 됐어?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Приготовься! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Se prepare! </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Przygotuj się! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5470,7 +5470,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String" x:Ticked="1">競速開始！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">竞速开始！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">레이스 시작이다!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Приготовься к гонке!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Se prepare para a corrida!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Przygotuj się do wyścigu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5486,7 +5486,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">上吧！索尼克！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">上吧，索尼克！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">가자, 소닉!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ты справишься, Соник!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você consegue, Sonic!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Dasz radę, Sonic!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5502,7 +5502,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">出發吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">上吧，冲啊！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">자, 가자!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Пора ускориться! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Hora de ir rápido! </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Czas na szybkość! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5518,7 +5518,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">盡全力衝吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要全力以赴！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">최선을 다해 봐!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Пора делать то, что получается у тебя лучше всего. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Hora de fazer o que você sabe fazer melhor.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Pora robić to, na czym się znasz najlepiej. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5534,7 +5534,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克一定會贏的！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克肯定能赢！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉이라면 이길 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">У тебя все получится, Соник. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você consegue, Sonic.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Poradzisz sobie, Sonic. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5550,7 +5550,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">加油！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">加油！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">힘내!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Назад дороги нет! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Não olhe para trás!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nie ma odwrotu! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5566,7 +5566,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克贏了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克赢了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉이 이겼어!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ура, победа!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você venceu!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wygrałeś!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5582,7 +5582,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克好厲害喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克好厉害！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">굉장하다, 소닉!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Победа за тобой!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você é o vencedor!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Jesteś zwycięzcą!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5598,7 +5598,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">你贏了耶！索尼克！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克，赢了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이겼구나, 소닉!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Очередная победа! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Mais uma vitória pra você!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Kolejna wygrana! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5614,7 +5614,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">太好了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">太好了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">야호~!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Получилось! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você conseguiu!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Udało się! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5630,7 +5630,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">抵達終點～！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">抵达终点！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">골~!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Вот так вот!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Acabou!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Koniec!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5646,7 +5646,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">太棒了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">干得漂亮！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">해냈구나!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">У тебя получилось! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você conseguiu! </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Dałeś radę! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5662,7 +5662,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要贏金屬索尼克根本輕輕鬆鬆。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">区区金属索尼克，小菜一碟。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">메탈 소닉은 상대가 안 되지</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Похоже, суставы Метал Соника уже начали ржаветь. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Acho que as juntas do Metal Sonic estão ficando um pouco enferrujadas.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Stawy Metal Sonica chyba zaczynają rdzewieć. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5678,7 +5678,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">金屬索尼克還需要改良呢。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">金属索尼克还需要多多改良呢。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">메탈 소닉은 개량이 필요하겠는걸</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Метал Сонику пора пройти техобслуживание.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Metal Sonic precisa de uma atualização de firmware.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Metal Sonic potrzebuje aktualizacji.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5694,7 +5694,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">我們才不會輸給冒牌貨！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">我们不会输给冒牌货！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">가짜한테 질 수야 없지!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Настоящего мастера никто не победит! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Nada vence o verdadeiro!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nic nie pobije oryginału! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5710,7 +5710,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">好厲害喔！是新紀錄！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">好厉害！是新纪录！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">굉장해! 신기록이야!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ух ты, побит еще один рекорд! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Uau, outro recorde batido!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wow, kolejny rekord pobity! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5726,7 +5726,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">居然還能刷新紀錄，真是不敢相信……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">居然刷新纪录了，难以置信……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">기록 경신이라니, 굉장하다…</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Не думал, что ты можешь разогнаться еще сильнее. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu não achei que era possível você ficar ainda mais rápido.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nie sądziłem, że możesz być jeszcze szybszy! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5742,7 +5742,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">刷新紀錄囉！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">刷新纪录了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">기록 경신이야!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Новый рекорд! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Um novo recorde! </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nowy rekord! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5758,7 +5758,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">一定沒有人能打破這條紀錄！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">没人能打破这纪录！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이 기록은 누구도 넘지 못하겠는걸!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Соник, тебя точно никто не победит! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ninguém pode vencer o Sonic!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nikt cię nie pokona, Sonic! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s65">
@@ -5774,7 +5774,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">試著拿下更高的得分和階級，&#10;並且收集紅星環吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">提高得分与排名，&#10;收集红星环吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">스코어나 랭크를 올리거나&#10;레드스타 링을 모아 봐</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Попробуй установить рекорд, улучшить ранг, время или собрать больше колец Red Star!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tente bater seu recorde pessoal, ganhar um rank maior, um tempo melhor, ou mais Red Star Rings!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Spróbuj pokonać rekord! Osiągnij lepszą rangę, szybszy czas i zdobądź więcej czerwonych pierścieni gwiezdnych!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s65">
@@ -5790,7 +5790,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">挑戰鬼魂跑者&#10;來收集樂園代幣吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">挑战竞速幽灵，&#10;收集游戏币吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">고스트 레이서에게 도전해서&#10;파크 토큰을 모으자</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Брось вызов гонщикам-призракам и победи их, чтобы выиграть жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Desafie e ganhe de Corredores Fantasma para ganhar Park Tokens.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Rzucaj wyzwania duchom i pokonuj je, aby otrzymywać parkowe żetony.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5806,7 +5806,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">每次贏過別人的紀錄，&#10;都能獲得樂園代幣喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">每次打破别人的纪录，&#10;都可获得游戏币。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">다른 사람의 기록을 뛰어넘으면&#10;매번 파크 토큰을 받을 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Побей чей-нибудь рекорд, чтобы выиграть жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ganhe Park Tokens cada vez que você bater o recorde de alguém.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Zdobywaj parkowe żetony za każdym razem, gdy pobijesz czyjś rekord.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s164">
@@ -5822,7 +5822,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">得到樂園代幣了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">获得游戏币了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">파크 토큰을 받았네!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ух ты! Жетоны парка!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Isso aí! Voc~e ganhou Park Tokens!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Super! Masz parkowe żetony!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5838,7 +5838,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用樂園代幣&#10;就能遊玩索尼克模擬器喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">使用游戏币，&#10;可以玩索尼克模拟器。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">파크 토큰으로&#10;소닉 시뮬레이터를 플레이할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Используй жетоны парка для игры в симулятор Соника.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Use Park Tokens para jogar Sonic Simulator.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Używaj parkowych żetonów, aby grać w Sonic Simulator.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s65">
@@ -5854,7 +5854,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">樂園代幣可以用來自訂各種設定&#10;還有兌換各種獎品喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">游戏币可以用来解锁自定义里的物品，&#10;或兑换各种特典。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">파크 토큰은 커스터마이즈나&#10;다양한 특전과 교환할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Измени внешний вид или получи&#10;дополнительные материалы за жетоны&#10;парка на спутнике настроек!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Gaste Park Tokens no Satélite de Opções&#10;para customizar o Sonic e ver conteúdo extra!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wydawaj parkowe żetony na dostosowywanie&#10;i dodatki w satelicie opcji!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5870,7 +5870,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">只要有樂園代幣，&#10;在挑戰模式中就能繼續遊戲喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">只要有游戏币，&#10;就能在挑战中继续游戏。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">파크 토큰이 있으면&#10;챌린지를 계속할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Для участия в режиме испытаний нужны жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Voc~e precisa de Park Tokens para continuar no Challenge Mode.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Potrzebujesz parkowych żetonów, aby kontynuować tryb wyzwania.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -5886,7 +5886,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">不錯耶！很帥喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">不错！很帅！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">좋아! 멋있어!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ух! Выглядишь потрясающе, Соник! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Woah! Muito bom, Sonic!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wow! Nieźle wyglądasz, Sonic! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5902,7 +5902,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">那個滿棒的～</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">这样挺好的～</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">그거 좋은데~</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Я тоже такое хочу! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu. Quero. Isso.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Też. Tego. Chcę. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5918,7 +5918,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">感覺不錯！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">感觉不错。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">괜찮은데!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Неплохо. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Boa.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Odjazd. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5934,7 +5934,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">好時髦喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">很时髦！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">세련됐는걸!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Классный вид. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Isso parece estiloso. </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Fajnie to wygląda. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5950,7 +5950,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">哇～感覺超棒的！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">哇～非常棒！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">와~ 정말 멋있다!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ух ты, какая красотища. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Uau, isso é incrível.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wow, super. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5966,7 +5966,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">很適合你喔！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">很合适！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">어울려!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Правильный выбор.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Boa decisão.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Dobry pomysł.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5982,7 +5982,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">那個不錯耶。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">这样挺不错的。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">그거 좋네</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Мне нравится.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu gosto disso.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Podoba mi się.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5998,7 +5998,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">很帥耶！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">很帅！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">멋있다!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Круто! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Muito legal!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Fajne! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6014,7 +6014,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">想玩索尼克模擬器的話，&#10;需要樂園代幣喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">必须要有游戏币，&#10;才能玩索尼克模拟器。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉 시뮬레이터를 플레이하려면&#10;파크 토큰이 필요해</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Используй жетоны парка для игры в симулятор Соника. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Use Park Tokens para jogar Sonic Simulator.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Używaj parkowych żetonów, aby korzystać z Sonic Simulator. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -6030,7 +6030,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">想在這裡遊玩的話，&#10;需要樂園代幣喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">必须要有游戏币，&#10;才能在这里玩。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">여기서 놀려면&#10;파크 토큰이 필요해</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Для игры в этом режиме нужны жетоны парка. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa de um Park Token para jogar aqui.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Potrzebujesz parkowego żetonu, aby tu zagrać. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6046,7 +6046,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">如果想遊玩的話，&#10;需要收集更多樂園代幣才行。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">想玩游戏，&#10;就必须收集更多的游戏币。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">플레이하려면 파크 토큰을&#10;좀 더 모아야 해</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Для игры в этом режиме тебе понадобятся жетоны парка. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa achar mais Park Tokens se quiser jogar.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz zdobyć więcej parkowych żetonów, jeśli chcesz zagrać. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6062,7 +6062,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">樂園代幣好像不夠喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">游戏币好像不够了。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">파크 토큰이 부족한 모양이야</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Для участия недостаточно жетонов парка.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você não possui Park Tokens o bastante para jogar.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Masz za mało parkowych żetonów, aby zagrać.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -6078,7 +6078,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">在模擬器裡面&#10;我沒辦法幫你喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">在模拟器中，&#10;我是无法帮你的。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">시뮬레이터 안에선&#10;내가 도와줄 수 없어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Я не смогу тебе помочь в симуляторе Эггмана. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu não posso te ajudar no simulador do Eggman.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nie mogę ci pomóc w symulatorze Eggmana. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6094,7 +6094,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">就算你在模擬器裡面掉下去，&#10;我也沒辦法幫你喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">在模拟器中即使掉下去了，&#10;我也无法帮你。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">시뮬레이터 안에서 떨어져도&#10;내가 도와줄 수 없어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Я не смогу тебя спасти, если ты потерпишь неудачу в симуляторе.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu não posso te salvar se você cair no simulador.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nie uratuję cię, jeśli spadniesz w symulatorze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6110,7 +6110,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">在模擬器裡面&#10;小心別掉下去囉。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">模拟器中一定要当心，&#10;不要掉下去哦。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">시뮬레이터에서는&#10;떨어지지 않도록 조심해야 해</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Здесь тебе придется рассчитывать только на себя, дружище. Удачи!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você tá por sua conta aqui. Boa sorte!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Jesteś tu zdany na siebie, stary. Powodzenia!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -6126,7 +6126,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">用滑行滑過去！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">利用滑行滑进去！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩으로 들어가!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Попасть туда можно с помощью скольжения. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa deslizar para passar por aí.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz wykonać ślizg, aby się pod to dostać. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6142,7 +6142,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">可以用滑行到另一邊喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">利用滑行就能到对面去。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩으로 건너편으로 갈 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Используй скольжение, чтобы попасть на другую сторону. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa deslizar para chegar no outro lado. </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz wykonać ślizg, aby się dostać na drugą stronę. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -6158,7 +6158,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">快滑行！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">用滑行吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩이야!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Скользи! Скользи!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Deslize! Deslize!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Ślizg! Ślizg!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6174,7 +6174,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">方向：[btn_move]&#10;啟動：放開[btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">方向：[btn_move]&#10;启动：松开[btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">방향: [btn_move]&#10;작동: [btn_phantom] 떼기</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Прицеливание: [btn_move]&#10;Активация: отпусти [btn_phantom]</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Mirar: [btn_move]&#10;Ativar: solte [btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Celowanie: [btn_move]&#10;Aktywacja: Puść [btn_phantom]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -6190,7 +6190,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">啟動：放開[btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">启动：松开[btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">작동: [btn_phantom] 떼기</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Активация: отпусти [btn_phantom]</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ativar: solte [btn_phantom]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Aktywacja: Puść [btn_phantom]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s164">
@@ -6206,7 +6206,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">當準心亮起綠光時，&#10;就是按下[btn_jump]的最佳時機。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">当锁定准星亮起绿光时，&#10;便是按下[btn_jump]的最佳时机。</Data></Cell>
     <Cell ss:StyleID="s154"><Data ss:Type="String">조준 표시가 녹색으로 빛날 때&#10;[btn_jump]을 누릅시다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Нажми [btn_jump], когда прицел мигает зеленым цветом, чтобы поразить врага в уязвимое место.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Aperte [btn_jump] quando a mira estiver verde para acertar o ponto fraco do inimigo.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Naciśnij [btn_jump], gdy wskaźnik namierzenia świeci na zielono, aby trafić w czuły punkt wroga.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s65">
@@ -6222,7 +6222,7 @@
     <Cell ss:StyleID="s154"><Data ss:Type="String">只要在最佳時機攻擊，&#10;就可以增加速度和能量。</Data></Cell>
     <Cell ss:StyleID="s166"><Data ss:Type="String">在最佳时机进行攻击，&#10;就可以增加速度和能量。</Data></Cell>
     <Cell ss:StyleID="s154"><Data ss:Type="String">베스트 타이밍으로 공격하면&#10;스피드 효과와 에너지를 얻을 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Идеально выверенный удар позволит ускориться и даст больше энергии! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Um acerto em tempo perfeito te dará um aumento de velocidade e energia extra!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Trafienie w idealnym momencie zapewni dodatkowe turbo i energię! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105" ss:StyleID="s65">
@@ -6238,7 +6238,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">成功上傳鬼魂資料囉！可以挑戰全世界的鬼魂跑者喔！</Data></Cell>
     <Cell ss:StyleID="s167"><Data ss:Type="String">已成功上传幽灵数据！您可以在世界范围内挑战竞速幽灵。</Data></Cell>
     <Cell ss:StyleID="s154"><Data ss:Type="String">고스트 데이터 업로드에 성공했습니다! 전 세계의 고스트 레이서에게 도전할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Поздравляем! Гонщик-призрак успешно опубликован! Ты можешь делиться своим последним призраком и соревноваться с другими призраками в сети. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Parabéns! Você acabou de publicar um Corredor Fantasma! Você pode compartilhar seu Fantasma mais recente e competir com outros online. </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Gratulacje! Duch został właśnie przesłany! Możesz udostępnić zarejestrowanego niedawno ducha i rywalizować z innymi graczami w internecie. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="120" ss:StyleID="s65">
@@ -6254,7 +6254,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">若要和全世界的鬼魂跑者比賽，&#10;請選擇選項衛星裡的&#10;「鬼魂跑者」。</Data></Cell>
     <Cell ss:StyleID="s168"><Data ss:Type="String">若要在世界范围内挑战竞速幽灵，&#10;请在选项中选择&#10;“竞速幽灵”。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">전 세계의 고스트 레이서와 승부하려면&#10;옵션에 있는 '고스트 레이서'를&#10;선택해 주세요</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Для гонки с другим призраком перейди в меню «Призрачные гонщики» на спутнике настроек и выбери время испытания.&#10;&#10;Удачи! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Para correr contra outro Fantasma, visite o menu de &quot;Corredores Fantasma&quot; no Satélite de Opções e selecione um tempo para desafiar.&#10;&#10;Boa sorte!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Aby ścigać się z innym duchem, otwórz menu duchów w satelicie opcji i wybierz czas, z którym chcesz się zmierzyć.&#10;&#10;Powodzenia! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s65">
@@ -6270,7 +6270,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">只要按下[btn_phantom]，&#10;就能隨時切換索尼克和鬼魂。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">按下[btn_phantom] &#10;就能随时在索尼克和鬼魂之间进行切换。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">[btn_phantom]을 누르면 언제든지&#10;소닉과 고스트를 교체할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Нажми [btn_phantom] для переключения между Соником и призраком.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Aperte [btn_phantom] Para trocar entre Sonic e a Forma Fantasma.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Wciśnij [btn_phantom], aby przełączać pomiędzy formami Sonica i ducha.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s65">
@@ -6286,7 +6286,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">這個關卡中&#10;已經存有鬼魂跑者的資料。&#10;確定要更新資料嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">本关卡已保存有&#10;竞速幽灵的数据&#10;要用新数据覆盖吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이 스테이지에는 고스트 레이서의&#10;데이터가 저장되어 있습니다&#10;새로운 데이터로 덮어쓰시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Призрачный гонщик уже сохранен в этом акте. &#10;&#10;Перезаписать его? </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Um Corredor Fantasma já foi salvo nesse ato. &#10;&#10;Gostaria de salvar um novo por cima?</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Zapisano już ducha dla tego aktu.&#10;&#10;Czy chcesz go nadpisać? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -6302,7 +6302,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">真的沒問題嗎？</Data></Cell>
     <Cell ss:StyleID="s168"><Data ss:Type="String">您确定吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">정말로 덮어쓰시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Точно?</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tem certeza?</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Na pewno?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s65">
@@ -6318,7 +6318,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">覆蓋資料中……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">正在覆盖数据</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">데이터를 덮어쓰는 중</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Перезаписываем данные.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Salvando...</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nadpisywanie danych.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6334,7 +6334,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">新的鬼魂跑者已儲存。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">新的竞速幽灵已保存。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">새로운 고스트 레이서가 저장되었습니다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Новый призрачный гонщик для этого акта сохранен.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Um novo Corredor Fantasma foi salvo nesse ato.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Zapisano nowego ducha dla tego aktu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s65">
@@ -6350,7 +6350,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">收集到的樂園代幣&#10;可以用來自訂各種設定。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">收集的游戏币可以用于自定义及其他功能。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">파크 토큰을 모으면&#10;커스터마이즈 등에서 이용할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Собирай жетоны парка, чтобы настроить свой облик и участвовать в других режимах!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Colete Park Tokens para customizar sua aparência e participar de outros modos!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Zbieraj parkowe żetony, aby dostosowywać swój wygląd i uczestniczyć w innych trybach gry!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6366,7 +6366,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">稀有的樂園代幣&#10;更有價值。</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">稀有游戏币更有价值。</Data></Cell>
     <Cell ss:StyleID="s154"><Data ss:Type="String">희귀한 파크 토큰은&#10;가치가 더 높습니다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Отыщи редкие жетоны парка и получи еще больше денег!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Encontre Park Tokens raros para ganhar mais dinheiro!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Znajduj rzadkie parkowe żetony, aby zdobywać więcej pieniędzy!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6382,7 +6382,7 @@
     <Cell ss:StyleID="s171"><Data ss:Type="String">收集塔爾斯救援來為墜落做準備吧。</Data></Cell>
     <Cell ss:StyleID="s171"><Data ss:Type="String">收集塔尔斯救援，为坠落做准备。</Data></Cell>
     <Cell ss:StyleID="s172"><Data ss:Type="String">낙하에 대비해 테일즈 세이브를 모으자</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Собирай сохранения Тейлза - они пригодятся, если ты упадешь!</Data></Cell>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">Colete Tails-Saves para caso você caia!</Data></Cell>
     <Cell ss:StyleID="s170"><Data ss:Type="String">Zbieraj zapisy Tailsa na wypadek wypadnięcia z trasy! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6398,7 +6398,7 @@
     <Cell ss:StyleID="s171"><Data ss:Type="String">就算不小心墜落，塔爾斯也會&#10;把你送到安全的地方。</Data></Cell>
     <Cell ss:StyleID="s171"><Data ss:Type="String">坠落时，塔尔斯将把你&#10;带回安全的地方。</Data></Cell>
     <Cell ss:StyleID="s172"><Data ss:Type="String">낙하해도 테일즈가 안전한 장소로&#10;옮겨 줍니다</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Тейлз поймает тебя и отнесет в безопасное место.</Data></Cell>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">Tails pode te pegar e te deixar em um local seguro.</Data></Cell>
     <Cell ss:StyleID="s170"><Data ss:Type="String">Tails może cię złapać i umieścić w bezpiecznym miejscu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6414,7 +6414,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">雖然仍會繼續計時，&#10;但不會遺失金環等道具。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">虽然会消耗时间，&#10;但不会丢失金环等道具。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">시간은 경과하지만&#10;링 등의 아이템은 잃지 않습니다</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Ты потеряешь время, но все предметы останутся с тобой!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">O tempo vai continuar rodando, mas você não perderá nenhum item!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Czas wciąż będzie upływać, ale nie stracisz przedmiotów!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6429,7 +6429,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">只要有塔爾斯救援，&#10;就算你掉下去，我也會把你救上來喔！</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">如果你身上有塔尔斯救援的话，&#10;就算掉了下去我也会把你救上来的。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">테일즈 세이브를 갖고 있으면&#10;낙하해도 내가 구하러 갈게</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Если у тебя есть сохранение Тейлза, я спасу тебя от падения и сберегу все твои кольца!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Quando usar um Tails-Save, Eu vou te salvar caso você caia e vou ter certeza de não vou perder seus anéis!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Gdy masz pomoc Tailsa, uratuję cię, jeśli spadniesz&#10;i dopilnuję, żebyś nie stracił pierścieni!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
