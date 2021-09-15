@@ -975,7 +975,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">現在進入快步模式！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">接下来就是快步模式了！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">여기부터는 퀵스텝 모드야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Включен режим быстрых шагов!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Agora você está no modo de passo rápido!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jesteś w trybie szybkiego kroku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -991,7 +991,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">左右移動避開障礙物吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">左右移动可以躲开障碍物哦！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">장애물을 좌우 이동으로 피해 봐!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Двигайся влево и вправо,&#10;чтобы увернуться от препятствий!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mova-se para a esquerda e direita&#10;para evitar obstáculos!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Przesuwaj się w lewo i prawo, by omijać&#10;przeszkody!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1007,7 +1007,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">向左移動：[btn_moveleft]&#10;向右移動：[btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">左快步： [btn_moveleft]&#10;右快步： [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">L 스텝: [btn_moveleft]&#10;R 스텝: [btn_moveright]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Шаг влево: [btn_moveleft]&#10;Шаг вправо: [btn_moveright]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Passo à esquerda: [btn_moveleft]&#10;Passo à direita: [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krok w lewo: [btn_moveleft]&#10;Krok w prawo: [btn_moveright]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1023,7 +1023,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">站上滑軌&#10;就可以在軌道上滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">跳上轨道&#10;就可以进行轨道滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">그라인드에 접속하면&#10;그라인드 주행으로 이동이 가능해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Запрыгивай на рельсы и скользи по ним!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Suba nas rails para fazer grind!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Wskakuj na szyny, by je grindować!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s67">
@@ -1039,7 +1039,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在這個狀態下往左右移動&#10;就可以切換軌道！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这时候左右移动&#10;就可以切换轨道！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">이때 좌우로 이동하면&#10;레일을 옮겨탈 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Двигайся влево или вправо во время&#10;скольжения для смены рельсов.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Mova-se à esquerda e à direita enquanto faz um grind&#10;para trocar de rails.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Przesuwaj się w lewo lub prawo podczas&#10;grindowania, by zmienić szynę.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1055,7 +1055,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">向左移動：[btn_moveleft]&#10;向右移動：[btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">左快步： [btn_moveleft]&#10;右快步： [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">L 스텝: [btn_moveleft]&#10;R 스텝: [btn_moveright]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Шаг влево: [btn_moveleft]&#10;Шаг вправо: [btn_moveright]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Passo à esquerda: [btn_moveleft]&#10;Passo à direita: [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krok w lewo: [btn_moveleft]&#10;Krok w prawo: [btn_moveright]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1071,7 +1071,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">輕按[btn_jump]再立刻放開，&#10;就可以低空跳躍！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">轻按[btn_jump]然后立刻放开，&#10;就可以进行小跳跃！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">[btn_jump]을 살짝 눌렀다&#10;바로 떼면 숏 점프야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Нажми [btn_jump],&#10;чтобы выполнить короткий прыжок.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte levemente [btn_jump]&#10;para ter um pulo curto.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_jump],&#10;by wykonać krótki skok.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s67">
@@ -1087,7 +1087,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">低空跳躍：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">小跳跃： [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">숏 점프: [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Короткий прыжок: [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pulo curto: [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krótki skok: [btn_jump]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s67">
@@ -1103,7 +1103,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">長按[btn_jump]&#10;就可以使出旋轉衝撞！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">长按[btn_jump]&#10;就可以进行旋转冲撞！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">[btn_jump]을 길게 누르면&#10;스핀 어택이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Удерживай [btn_jump]&#10;для выполнения круговой атаки.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aguente [btn_jump] por mais tempo&#10;para um Spin Attack.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij i dłużej przytrzymaj [btn_jump],&#10;by wykonać atak obrotowy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1119,7 +1119,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">可以比普通的跳躍&#10;跳得更高！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这样可以比一般跳跃&#10;跳得更高！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">보통 점프보다 더 높이&#10;점프할 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Так ты сможешь прыгнуть выше,&#10;чем обычно!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Isto vai te levar mais para cima,&#10;diferente de um pulo normal!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Dzięki temu skoczysz wyżej niż w przypadku&#10;zwykłego skoku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1135,7 +1135,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">旋轉衝撞：長按[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">旋转冲撞： 长按[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">스핀 어택: [btn_jump]을 길게 입력</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Круговая атака: удерживай [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Spin Attack: aguente [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Atak obrotowy: Przytrzymaj [btn_jump]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1151,7 +1151,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">跳躍時&#10;再按一次[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在跳跃中&#10;再次按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">점프하고 있을 때 한 번 더&#10;[btn_jump]을 누르면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Находясь в воздухе,&#10;нажми [btn_jump] еще раз,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_jump] novamente&#10;quando estiver no ar</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Gdy znajdujesz się w powietrzu,&#10;jeszcze raz naciśnij [btn_jump],</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s87">
@@ -1167,7 +1167,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就可以二段跳！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就可以进行二段跳！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">2단 점프야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">чтобы выполнить двойной прыжок!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">e você dará um Pulo Duplo!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">aby wykonać podwójny skok!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s87">
@@ -1183,7 +1183,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">二段跳：&#10;跳躍時按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">二段跳：&#10;跳跃中按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">2단 점프:&#10;점프 중에 [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Двойной прыжок: [btn_jump],&#10;находясь в воздухе</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pulo Duplo: aperte [btn_jump]&#10;no ar</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Podwójny skok: naciśnij [btn_jump]&#10;w powietrzu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s87">
@@ -1199,7 +1199,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在跳躍時&#10;按下[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在跳跃中按下&#10;[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">점프하고 있을 때&#10;[btn_sliding]을 누르면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Также можно нажать [btn_sliding]&#10;находясь в воздухе,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você também pode pressionar [btn_sliding]&#10;enquanto pula</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Możesz też podczas skoku&#10;nacisnąć [btn_sliding],</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s87">
@@ -1215,7 +1215,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">就可以下墜攻擊！</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">就可以进行下坠攻击！</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">스톰핑 어택이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">для растаптывающей атаки!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">para dar um Stomp!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by wykonać atak naskokiem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s87">
@@ -1231,7 +1231,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">下墜攻擊：&#10;跳躍時按下[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">下坠攻击：&#10;跳跃中按下[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">스톰핑 어택:&#10;점프 중에 [btn_sliding]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Растаптывающая атака: [btn_sliding],&#10;находясь в воздухе</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Stomp: [btn_sliding]&#10;no ar</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Atak naskokiem: [btn_sliding]&#10;w powietrzu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s88">
@@ -1247,7 +1247,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">累積了加速量表時，&#10;跳躍並按下【加速鍵】</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">如果有加速能量槽，&#10;在跳跃时按下【加速键】</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">부스트 게이지가 있을 때&#10;점프 후 [부스트 버튼]을 누르면</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Как только шкала ускорения заполнится,&#10;нажми кнопку ускорения в воздухе,</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Quando sua Barra de Boost tiver energia,&#10;pressione [btn_boost] no ar</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Gdy wypełni się pasek turbo,&#10;podczas skoku naciśnij przycisk turbo,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s88">
@@ -1263,7 +1263,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">就可以空氣加速！量表全空時，&#10;則會使出跳躍衝刺！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">会进行空中加速；如果能量槽为空，&#10;那就会进行跳跃冲刺！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">에어 부스트, 게이지가 없으면&#10;점프 대시야!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">чтобы выполнить воздушное ускорение! Если&#10;шкала пуста, выполнится рывок в прыжке.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Para dar um Boost aéreo! Se sua barra estiver&#10;vazia, você dará apenas um Dash Aéreo.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">by wykonać powietrzne turbo!&#10;Jeśli pasek jest pusty, wykonasz wyskok.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s97">
@@ -1279,7 +1279,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Воздушное ускорение/рывок в прыжке:&#10;кнопка ускорения, когда ты в воздухе</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Boost Aéreo/Dash Aéreo: [btn_boost]&#10;no ar</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Powietrzne turbo/wyskok:&#10;Przycisk turbo w powietrzu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s87">
@@ -1295,7 +1295,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">跳躍時如果出現準心，&#10;只要按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">在跳跃后出现锁定准星时&#10;按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">점프 후 조준 표시가 떴을 때&#10;[btn_jump]을 누르면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Увидев значок прицеливания&#10;при прыжке, нажми [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Se você visualizar uma marcação de mira&#10;enquanto está no ar, aperte [btn_jump] denovo</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jeśli podczas skoku pojawi się kursor nakierowania,&#10;naciśnij jeszcze raz [btn_jump],</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s87">
@@ -1311,7 +1311,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就可以使出追蹤攻擊！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就可以进行追踪攻击！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">호밍 어택이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">для самонаводящейся атаки!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para um Homing Attack!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by wykonać atak naprowadzany!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s87">
@@ -1327,7 +1327,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">追蹤攻擊：&#10;出現準心時按下[btn_homing]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">追踪攻击：&#10;锁定后按下[btn_homing]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">호밍 어택:&#10;조준 중에 [btn_homing]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Самонаводящаяся атака:&#10;[btn_homing] при прицеливании</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Homing Attack: [btn_homing]&#10; quando estiver mirando</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Atak naprowadzany: naciśnij [btn_homing]&#10;podczas nakierowania</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s88">
@@ -1343,7 +1343,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">看來這裡必須&#10;利用三角跳前進。</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">这里要用三角跳跃前进。&#10;跳到墙上后</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">여기는 삼각 뛰기로 지나가야겠어&#10;벽으로 점프해서</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Похоже, здесь нужен прыжок на стену.&#10;Схватись за стену, запрыгнув на нее,</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Parece que você precisa pular nas paredes&#10;para passar daqui. Pule em uma parede para agarrá-la,</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Aby przejść dalej, musisz wykonać skok&#10;od ściany. Skocz na ścianę, by się jej złapać,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s88">
@@ -1359,7 +1359,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">朝牆跳躍就能抓住牆壁，&#10;在跳躍時，按住你想跳躍的方向吧！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">会抓住墙壁，然后转向你想去&#10;的方向，同时按下跳跃键吧！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">매달린 뒤에 뛰고 싶은 방향을&#10;누르면서 점프해!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">а затем нажми кнопку направления&#10;и подпрыгни снова!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">E então pressione a direção&#10;que você quer pular denovo!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">a następnie naciśnij odpowiedni&#10;kierunek, by skoczyć jeszcze raz!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s88">
@@ -1375,7 +1375,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Прыжок на стену: зацепись за стену,&#10;нажми влево/вправо + кнопка прыжка</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Wall Jump: Aperte esquerda/direita + [btn_jump] enquanto agarra uma parede</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Skok od ściany: Podczas trzymania się ściany&#10;naciśnij lewo/prawo + przycisk skoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s87">
@@ -1391,7 +1391,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">奔跑時按下[btn_sliding]&#10;就可以滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">奔跑时按下[btn_sliding]&#10;就能滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">달리면서 [btn_sliding]을&#10;누르면 슬라이딩이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Нажми [btn_sliding] при беге,&#10;чтобы выполнить скольжение!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_sliding] enquanto corre para&#10;Deslizar!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_sliding] podczas biegu,&#10;aby się ślizgać!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1407,7 +1407,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">可以利用這個動作&#10;穿過狹窄的細縫！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">尝试利用这个动作&#10;穿过狭窄的空隙吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">좁은 틈새를 지나가고&#10;싶을 때 쓰면 돼!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Идеальный способ преодолевать&#10;низкие проемы.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">É perfeito para passar&#10;por lugares estreitos.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">To idealna technika na przejście&#10;przez ciasne przestrzenie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1423,7 +1423,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">滑行：&#10;移動時按下[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">滑行：&#10;移动时按[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">슬라이딩:&#10;이동하면서 [btn_sliding]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Скользить: [btn_move] + [btn_sliding]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Deslizar: [btn_move] + [btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ślizg: [btn_move] + [btn_sliding]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1439,7 +1439,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">按下[btn_boost]&#10;就可以加速！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">按下[btn_boost]后&#10;就可以加速！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">[btn_boost]을 누르면&#10;부스트를 쓸 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Чтобы ускориться, нажми [btn_boost]!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pressione [btn_boost] para dar um Boost!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Aby uruchomić turbo, naciśnij [btn_boost]!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1455,7 +1455,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">如果螢幕左下的量表全空，&#10;就沒辦法進行加速喔！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">但如果画面左下角的能量槽&#10;是空的，那就没法加速了！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">부스트는 화면 왼쪽 아래의&#10;게이지가 없으면 쓸 수 없어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Выполнить этот прием можно только&#10;при заполненной шкале слева внизу.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Porém, a barra no canto inferior esquerdo&#10;precisa ter energia para isso.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Pasek w lewym dolnym rogu&#10;musi jednak być naładowany!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1471,7 +1471,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">加速：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">부스트: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ускорение: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Boost: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Turbo: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
