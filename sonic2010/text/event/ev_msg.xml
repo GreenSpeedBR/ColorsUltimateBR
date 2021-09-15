@@ -656,7 +656,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">你想太多了啦，索尼克。&#10;這座遊樂園看起來超好玩的！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">是你想多了吧，索尼克？&#10;这个游乐园感觉很好玩啊！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">너무 예민한 거 아냐, 소닉?&#10;이 유원지, 엄청 재밌어 보이는데!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Sem dúvida,mas agora eu não sei o&#10;porquê que a gente tá aqui.&#10;Esse lugar parece totalmente inofensivo.ç</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Sem dúvida, mas agora eu não sei o&#10;porquê que a gente tá aqui.&#10;Esse lugar parece totalmente inofensivo.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Tak,&#10;ale nie do końca rozumiem, po co tu jesteśmy?&#10;To miejsce wygląda całkowicie niegroźnie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s67">
@@ -746,7 +746,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">這個待會再慢慢想吧，看看這片風景……&#10;都讓我把蛋頭博士拋諸腦後了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">这个我们之后再慢慢想吧。瞧瞧这景色……&#10;看了就觉得蛋头博士什么的根本无所谓了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그건 그렇고, 이 풍경 좀 봐…&#10;에그맨 따윈 아무려면 어떤가 싶네</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Armação ou não, não tem como&#10;ficar bravo com essa visão&#10;Esse lugar tá levando a beleza pra outro patamar.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armação ou não, não tem como&#10;ficar bravo com essa visão.&#10;Esse lugar tá levando a beleza pra outro patamar.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Plan czy nie, ciężko się złościć na taki widok.&#10;To piękno przez naprawdę duże P.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s67">
