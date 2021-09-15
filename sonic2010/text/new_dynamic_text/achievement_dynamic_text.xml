@@ -610,7 +610,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">称霸星光嘉年华</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">稱霸星光嘉年華</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">스타라이트 카니발 제패</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">O que acontece na Starlight Carnival...</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Meus olhos ... ARDEM!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Tajemnice karnawału…</Data></Cell>
     <Cell ss:Index="16" ss:StyleID="s79"/>
     <Cell ss:StyleID="s79"/>
@@ -811,7 +811,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">称霸派勒那威斯</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">稱霸派勒那威斯</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">플래닛 위스프 제패</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Liberdade acima de tudo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Livrai-nos do mal</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Wolność</Data></Cell>
     <Cell ss:Index="16" ss:StyleID="s75"/>
     <Cell ss:StyleID="s75"/>
@@ -1073,7 +1073,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">黄光闪耀的无限之力</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">閃耀黃光的無限之力</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">노랗게 빛나는 무한의 힘</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Um dia ensolarado</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Brilhante como o sol</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">W blasku słońca</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -1089,7 +1089,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">获得黄色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">獲得黃色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">노란색 카오스 에메랄드를 입수</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Colete a esmeralda do caos amarela</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Colete a Esmeralda do Caos amarela</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Zbierz żółty Szmaragd Chaosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1105,7 +1105,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">白光闪耀的无限之力</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">閃耀白光的無限之力</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">하얗게 빛나는 무한의 힘</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Glitter prateado</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Medalha de prata</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Żywe srebro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -1121,7 +1121,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">获得白色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">獲得白色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">하얀색 카오스 에메랄드를 입수</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Colete a Esmeralda do Caos cinza</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Colete a Esmeralda do Caos prateada</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Zbierz srebrny Szmaragd Chaosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1169,7 +1169,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">紫光闪耀的无限之力</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">閃耀紫光的無限之力</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">보라색으로 빛나는 무한의 힘</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Королевский цвет</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Cor da realeza</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Barwa arystokracji</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -1233,7 +1233,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">淡蓝闪耀的无限之力</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">閃耀淺藍光的無限之力</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">연청으로 빛나는 무한의 힘</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Бирюзовый или голубой?</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">O Ciano é o impostor!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Turkusy-luksusy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="Default">
@@ -1249,7 +1249,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">获得淡蓝色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">獲得淺藍色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">하늘색 카오스 에메랄드를 입수</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Colete a Esmeralda do Caos azul clara</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Colete a Esmeralda do Caos ciana</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Zbierz turkusowy Szmaragd Chaosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1649,7 +1649,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">派勒那威斯专家</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">派勒那威斯專家</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">플래닛 위스프의 달인</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Liberdade para todos os Wisps!</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Liberdade aos Wisps!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Wispecjalizowany</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -1873,7 +1873,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">进军全球的第一步</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">邁向世界的第一步</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">세계 진출을 향한 첫걸음</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">O Caça-Fantasmas</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Os Caça-Fantasmas</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">Duch w maszynie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -2241,7 +2241,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">游玩职员表关卡</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">遊玩工作人員畫面的關卡</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">엔딩 크레디트 스테이지를 플레이</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Jogue pelos créditos </Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Jogue a fase dos créditos </Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Ukończ cały poziom z twórcami </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -2273,7 +2273,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">在1次游戏中使用快步获得100,000得分</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">在1次遊玩中使用快步獲得100,000分</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">1회의 플레이로 퀵스텝을 사용해 스코어 100,000을 획득</Data></Cell>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">Получить 100&#160;000 очков за один забег, используя быстрые шаги</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Ganhe 100,000 pontos em uma partida usando o Quick Step</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Uzyskaj 100&#160;000 punktów za jednym podejściem w trybie szybkiego kroku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
