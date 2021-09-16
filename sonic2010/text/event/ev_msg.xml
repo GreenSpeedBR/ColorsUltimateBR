@@ -21,13 +21,12 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>8430</WindowHeight>
-  <WindowWidth>21495</WindowWidth>
-  <WindowTopX>32767</WindowTopX>
-  <WindowTopY>32767</WindowTopY>
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
   <TabRatio>939</TabRatio>
-  <ActiveSheet>28</ActiveSheet>
-  <FirstVisibleSheet>10</FirstVisibleSheet>
+  <ActiveSheet>1</ActiveSheet>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -141,11 +140,6 @@
    <Font ss:FontName="ＭＳ ゴシック" x:CharSet="128" x:Family="Modern" ss:Size="20"
     ss:Color="#000000"/>
    <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s79">
-   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
-   <Font ss:FontName="ＭＳ Ｐゴシック" x:CharSet="128" x:Family="Modern" ss:Size="11"/>
-   <Interior/>
   </Style>
   <Style ss:ID="s80">
    <Font ss:FontName="ＭＳ ゴシック" x:CharSet="128" x:Family="Modern" ss:Size="12"/>
@@ -545,6 +539,16 @@
     <Border ss:Position="Top" ss:LineStyle="Continuous"/>
    </Borders>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s137">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="ＭＳ ゴシック" ss:Size="20"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s143">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="ＭＳ ゴシック" ss:Size="20" ss:Underline="Single"/>
    <Interior/>
   </Style>
  </Styles>
@@ -1055,7 +1059,7 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Zoom>60</Zoom>
-   <TopRowVisible>24</TopRowVisible>
+   <TopRowVisible>18</TopRowVisible>
    <LeftColumnVisible>8</LeftColumnVisible>
    <Panes>
     <Pane>
@@ -1085,9 +1089,9 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">Italian</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">ChineseTraditional</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">ChineseSimplified</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Korean</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Russian</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Polish</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">Korean</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">Russian</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">Polish</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s80">
     <Cell ss:StyleID="s68"><Data ss:Type="String">event</Data></Cell>
@@ -2230,13 +2234,13 @@
     <HorizontalResolution>600</HorizontalResolution>
     <VerticalResolution>600</VerticalResolution>
    </Print>
-   <Zoom>60</Zoom>
+   <Zoom>55</Zoom>
+   <Selected/>
    <LeftColumnVisible>8</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
      <ActiveCol>12</ActiveCol>
-     <RangeSelection>R1C1:R16C13</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
@@ -2426,7 +2430,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">唉～真是的……&#10;肚子好餓啊～</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">唉～真是的……&#10;肚子饿了～</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">어휴~ 진짜…&#10;배고픈데…</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Pera, eu tenho que ir pra'li! ...Desculpa.</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Pera, eu tenho que ir pra ali! ...Desculpa.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Chwilunia, miałem iść tam…! Przepraszam.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="46.6875" ss:StyleID="s67">
@@ -3354,6 +3358,7 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Zoom>60</Zoom>
+   <LeftColumnVisible>5</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
@@ -3593,7 +3598,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯……&#10;他說他是一種叫做「威斯」的外星人。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯……&#10;是名为“威斯”的外星种族。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그러니까…&#10;'위스프'라는 외계인이라나 봐</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ele é de uma raça&#10;de seres chamada &quote;Wisps&quote;.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ele é de uma raça&#10;de seres chamada &quot;Wisps&quot;.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Pochodzi z rasy istot&#10;nazywanych „wispami”.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -3623,7 +3628,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">抱歉，也不是棒球……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">抱歉，棒球也是听错了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">미안, 야구 얘기도 아니었네…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Não, Wisps, com um &quote;W&quote;.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Não, Wisps, com um &quot;W&quot;.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Nie, wispami, przez „ł”.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -4584,6 +4589,7 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Zoom>60</Zoom>
+   <LeftColumnVisible>5</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
@@ -4628,7 +4634,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">看來我等的修行&#10;遠遠不足啊。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">看来我等的修行&#10;还远远不够呢。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">우리는 아직&#10;수행이 부족한 모양이오</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Начальник сказал&#10;прибрать весь этот беспорядок.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">O chefe disse pra nóis&#10;limpar toda essa bagunça.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Szefuncio powiedział, żeby&#10;odzyskać każdy kawałek tego grata.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -4643,7 +4649,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">在下討厭收拾殘局。&#10;這並非忍者該做的工作。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">在下不爱收拾残局，&#10;这并非忍者的本职。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">뒤치다꺼리는 싫단 말이지&#10;닌자의 의무가 아닌 것 같소</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Если посмотреть на это с точки зрения роботов,&#10;мы занимаемся отвратительным делом.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Quando 'cê considera o que tamo fazendo do&#10;ponto de vista de um robô, realmente é bem horrível.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Jeśli spojrzymy na to, co robimy z punktu widzenia&#10;robota, to wydaje się to dosyć makabryczne.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -4658,7 +4664,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">好了啦，你趕快打掃啦。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">别废话了，赶紧打扫吧。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">됐으니까 청소나 해</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Не забивай себе голову.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Não pensa sobre isso.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Przestań o tym myśleć.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -4673,7 +4679,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">忍忍。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">忍术！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">알겠소</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ну, раз ты так говоришь.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Se 'cê tá dizendo...</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Skoro tak gadasz.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -4688,7 +4694,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">好像少了一隻手臂，&#10;在你那邊嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">有一条手臂我找不到，&#10;你那边有没有？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">팔이 하나 안 보이는데&#10;혹시 그쪽에 없어?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">У меня не хватает руки.&#10;У тебя есть рука?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Acho que tá faltando um braço...&#10;Tem um braço por aí?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Brakuje mi ręki.&#10;Masz może rękę?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -4703,7 +4709,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">放棄吧！忍者的戒律就是要放棄。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">放弃吧！那才是忍者的戒律！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">포기! 그것이 닌자의 규율이오</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Не-а.&#10;Но разве это вообще&#10;важно?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Não. Mas na verdade,&#10;o quê que isso importa?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Nie.&#10;Ale na koniec, czy to&#10;ważne?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -4718,7 +4724,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">那在下就放棄囉。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">好，那在下放弃了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그럼 나도 포기요</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Думаю, не особо.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Acho que não importa mesmo.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Raczej mało.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -5657,7 +5663,7 @@
     <Pane>
      <Number>3</Number>
      <ActiveRow>7</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveCol>6</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
@@ -32046,7 +32052,6 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Zoom>60</Zoom>
-   <Selected/>
    <LeftColumnVisible>8</LeftColumnVisible>
    <Panes>
     <Pane>
