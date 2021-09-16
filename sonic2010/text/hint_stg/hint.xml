@@ -6444,7 +6444,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">可以用鬼魂的力量&#10;穿過牆壁打倒敵人</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">利用幽灵的力量就能穿墙而过，&#10;打倒敌人。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">고스트의 힘으로 벽을 통과해&#10;적을 쓰러뜨릴 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">С помощью силы призрака ты сможешь атаковать&#10;врагов и предметы даже сквозь стены!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Você pode usar seu Poder Fantasma para atacar inimigos!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Możesz używać mocy ducha, aby atakować przeciwników&#10;i przedmioty… nawet przez ściany!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6459,7 +6459,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">打倒敵人後會恢復少許量表&#10;以連續打倒敵人為目標吧</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">打倒敌人时会少量恢复能量槽。  &#10;以连续COMBO为目标，不断打倒敌人吧！</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">적을 쓰러뜨리면 게이지가 조금씩 회복됩니다&#10;연속 콤보를 노려 봅시다</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">После успешной атаки часть призрачной энергии возвращается. &#10;Попробуй атаковать несколько раз подряд!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Ao atacar com sucesso, você irá ganhar mais Energia Fantasma, então tente fazer ataques consecutivos.</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Po udanym ataku odzyskasz część energii ducha,&#10;dlatego warto łączyć ataki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6474,7 +6474,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">使用鬼魂之錨&#10;可以發現隱藏路線</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">利用幽灵坚锚&#10;可以找出隐藏路线。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">고스트 앵커를 이용하면&#10;숨겨진 길을 발견할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Ищи призрачные якоря и атакуй их.&#10;Тебе откроются секретные пути!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Procure por Âncoras Fantasma e use o seu ataque para descobrir passagens secretas!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Szukaj kotwic ducha i używaj ataku,&#10;aby odkrywać tajne przejścia!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6489,7 +6489,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">移動／飛行：[btn_move]</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">移动/飞行：[btn_move]</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">이동/비행: [btn_move]</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Двигаться/лететь: [btn_move]</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Mover/Voar: [btn_move]</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Ruch/Latanie: [btn_move]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6504,7 +6504,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">攻擊：[btn_homing]</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">攻击：[btn_homing]</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">공격: [btn_homing]</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Призрачная атака: [btn_homing]</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Ataque Fantasma: [btn_homing]</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Atak ducha: [btn_homing]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6519,7 +6519,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">可以在不失去金環的情況下&#10;在安全的地方再次開始</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">可以避免失去金环，&#10;并从安全的地方重新开始。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">링을 잃지 않고&#10;안전한 곳에서 재개할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Ты перенесешься в безопасное место, и все кольца останутся у тебя!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Voê irá aterrissar em um local seguro e sem perder anéis!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Pojawisz się w bezpiecznym miejscu i zachowasz wszystkie pierścienie!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6534,7 +6534,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">在選項衛星可以使用樂園代幣購物喔！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">在设置卫星，你可以用游戏币买东西哦！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">옵션 새틀라이트에서는 파크 토큰을 사용해 쇼핑을 할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Жетоны парка можно потратить на спутнике настроек, чтобы купить новые предметы для изменения облика. </Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Você pode gastar seus Park Tokens nos novos itens customizáveis no Satélite de Opções.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Możesz wydawać parkowe żetony na przedmioty dostosowywania w satelicie opcji. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6549,7 +6549,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">自訂索尼克造型</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">自定义索尼克的外观</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">소닉 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Изменение облика Соника</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Mudando a aparência do Sonic</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Zmiana wyglądu Sonica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6564,7 +6564,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">打開自訂選單看看有哪些道具可以購買吧！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">来看一看自定义菜单里都有些什么好东西可以买吧。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">커스터마이즈 메뉴에서 구입할 수 있는 아이템을 확인해 보자</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Теперь у тебя достаточно жетонов парка, пора взглянуть на предметы, которые можно купить в меню изменения облика.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Agora que você tem alguns Park Tokens, vamos olhar os itens que você pode comprar no menu de &quot;Customização&quot;.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Masz już trochę parkowych żetonów, zobaczmy przedmioty, które można kupić w menu Dostosuj.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6579,7 +6579,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">前往道具清單後，按下[button]選擇類別！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">移动到商品列表之后，你可以按[button]来选择分类。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">아이템 목록으로 이동해 [button]으로 그룹을 선택하자</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Перейди в список предметов и используй кнопку [button], чтобы выделить группу «Значок».</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Vá para a lista de itens e use [button] para realçar o grupo de &quot;Ícones&quot;.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Przejdź do listy przedmiotów i użyj [button], aby podświetlić grupę Ikona.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6594,7 +6594,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">有可以購買的道具喔！&#10;趕快試著購買看看吧！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">这里的东西你应该能买下来，&#10;赶快把它收入囊中吧。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">살 수 있는 아이템이 있나 봐&#10;지금 바로 구입해 보자</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Эй, ты даже можешь кое-что купить. Ну же, смелее.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Ei, tem um que você pode comprar. Poderia testar ele?</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">O, to można kupić. Może spróbujesz?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6609,7 +6609,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">在自訂畫面中&#10;可以隨時更換購買過的道具喔！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">你可以在自定义里随时换上已经购买的道具。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">한번 구입해 놓으면 언제든 바꿔서 장착할 수가 있어&#10;커스터마이즈에서 선택만 하면 돼</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Купленный предмет можно использовать в любое время. Просто перейди на страницу изменения облика и выбери предмет, который хочешь использовать.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Ao comprar um item, você pode colocá-lo a qualquer momento. Apenas volte aqui na página de &quot;Customização&quot;, selecione o item para equipá-lo, assim como você fez com o ícone.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Z kupionego przedmiotu można zacząć korzystać w dowolnym momencie. Wystarczy przejść do strony Dostosuj, wybrać przedmiot, który ma być używany, tak jak przed chwilą w przypadku ikony.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6624,7 +6624,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">來收集更多樂園代幣吧！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">快去收集更多的游戏币吧！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">파크 토큰을 좀 더 모아 보자!</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Что ж, пора найти больше жетонов парка!</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Agora vá procurar mais Park Tokens!</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Ruszaj po więcej parkowych żetonów!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s175">
@@ -6638,7 +6638,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">碧綠鬼魂可以在空中浮游&#10;還可以攻擊牆壁另一端的敵人</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">碧绿鬼魂可漂浮在空中，&#10;还可以攻击墙壁另一侧的敌人。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">제이드 고스트는 공중을 부유할 수 있고&#10;벽 너머에 있는 적도 공격할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">В облике призрака можно летать и атаковать врагов.&#10;Целиться можно даже через препятствия.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Na Forma Fantasma, você pode voar por aí e atacar inimigos.&#10;Você pode até acertar inimigos por objetos sólidos.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">W formie ducha możesz latać i atakować wrogów.&#10;Możliwe jest nawet nakierowywanie się na wrogów przez przedmioty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6652,7 +6652,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">打倒敵人後會恢復少許量表</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">打倒敌人时会少量恢复能量槽。  </Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">적을 쓰러뜨리면 게이지가 조금씩 회복될거야</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">За каждую успешную атаку ты будешь&#10;получать призрачную энергию.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Ganhe Energia Fantasma a cada vez que atacar um inimigo.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Otrzymuj energię ducha za każdy&#10;udany atak z rzędu na przeciwnika.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6666,7 +6666,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">使用鬼魂錨點&#10;可以發現隱藏路線</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">利用幽灵坚锚&#10;可以找出隐藏路线。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">고스트 앵커를 이용하면&#10;숨겨진 길을 발견할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Опасайся призрачных якорей. &#10;Атакуй их, и тебе откроются секретные пути!</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Procure por Âncoras Fantasma. &#10;Ataque-as para achar caminhos secretos!</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Szukaj kotwic ducha. &#10;Atakuj je, aby odkrywać tajne przejścia!</Data></Cell>
    </Row>
   </Table>
