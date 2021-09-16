@@ -1280,7 +1280,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Italian</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Italian</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Italian</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Itáliano</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Italiano</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Włoski</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -3111,7 +3111,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">距离下一评级还需</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">到下個階級還需</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">다음 랭크까지</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">PRÓXIMO RANKг</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">PRÓXIMO RANK</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">KOLEJNA RANGA</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5485,7 +5485,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">变身后，每秒会消耗1个金环。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">变身后，每秒会消耗1个金环。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">변신 중에는 링을 1초에 1개씩 소비합니다</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">O modo consome 1 anél por segundo.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Esse modo consome 1 Anél por segundo.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Tryb zużywa 1 pierścień na sekundę.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s128">
@@ -7003,7 +7003,6 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Equipar</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Używaj</Data></Cell>
    </Row>
-   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_019</Data></Cell>
@@ -7016,7 +7015,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">装备中</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">裝備中</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">장착 중</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Используется</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Equipado</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Wyposażono</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -7031,7 +7030,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">竞速幽灵</Data></Cell>
     <Cell ss:StyleID="s139"><Data ss:Type="String">鬼魂跑者</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">고스트 레이서</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Призрачные гонщики</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Ghost Racers</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Duchy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="57.5625" ss:StyleID="s77">
@@ -7046,7 +7045,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">个人纪录</Data></Cell>
     <Cell ss:StyleID="s140"><Data ss:Type="String">個人紀錄</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">개인 기록</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Мои рекорды</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Meus Recordes</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Moje rekordy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="79.3125" ss:StyleID="s77">
@@ -7061,7 +7060,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">索尼克模式</Data></Cell>
     <Cell ss:StyleID="s141"><Data ss:Type="String">索尼克模式</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">소닉 모드</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Режимы Соника</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Modos Sonic</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Tryby Sonica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s77">
@@ -7076,7 +7075,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">解锁方法</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">解鎖方法</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">잠금 해제 방법</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Как открыть</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Como desbloquear</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Jak odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s77">
@@ -7091,7 +7090,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">收集红星环，增加能在“索尼克模拟器”中游玩的关卡。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">收集紅星環來增加在「索尼克模擬器」中可遊玩的關卡吧！</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">레드스타 링을 모아 '소닉 시뮬레이터'에서 플레이할 수 있는 스테이지를 늘립시다</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Собери кольца Red Star, чтобы получить доступ к уровням симулятора Соника в «Гейм Лэнд».</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Colete Red Star Rings para desbloquear fases na Game Land Sonic Simulator.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Zbieraj Pierścienie z Czerwoną Gwiazdką, aby odblokować poziomy w Sonic Simulator w Game Land.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s77">
@@ -7106,7 +7105,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">在模拟器中通关各个区域，&#10;集齐所有7个Chaos Emerald后，&#10;就能解锁超级索尼克。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">只要通關模擬器中的各區域，&#10;並收集全部7顆Chaos Emerald，&#10;就能解鎖超級索尼克。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">시뮬레이터에서 각 지역을 클리어하여&#10;카오스 에메랄드 7개를 모두 모으면&#10;슈퍼 소닉이 잠금 해제됩니다</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Заверши последний акт каждой области симуляции и собери все семь Изумрудов Хаоса, чтобы открыть Суперсоника!</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Complete o último ato de cada Área de Simulação para ganhar uma Esmeralda do Caos!</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Ukończ końcowy akt każdego obszaru symulacji, aby zebrać wszystkie 7 Szmaragdów Chaosu i odblokować Super Sonica!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s77">
@@ -7121,7 +7120,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">超级索尼克的使用方法</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">超級索尼克的使用方法</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">슈퍼 소닉 이용 방법</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Как играть Суперсоником</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Como jogar com o Super Sonic</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Jak grać jako Super Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s77">
@@ -7136,7 +7135,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">变身需要50个金环。</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">變身需要50個金環。</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">변신하려면 링이 50개 필요합니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Для активации во время игры необходимо не менее 50&#160;колец.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Você precisa de pelo menos 50 Anéis para ativar durante o jogo.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aby aktywować w trakcie gry, potrzeba przynajmniej 50 pierścieni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7151,7 +7150,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">变身后，每秒会消耗1个金环。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">變身中每秒會消耗1個金環。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">변신 중에는 링을 1초에 1개씩 소비합니다</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">В этом режиме расходуется одно кольцо в секунду.</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Esse modo consome 1 Anél por segundo.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Tryb zużywa 1 pierścień na sekundę.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7166,7 +7165,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">无法使用五彩变身。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">無法使用五彩變身。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">컬러 파워를 사용할 수 없습니다</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Во время действия силы виспов недоступны.</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Os Wisps serão desativados quando o Super Sonic for ativado.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Podczas trybu moce wispów są wyłączone.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s145">
@@ -7181,7 +7180,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">无限的加速能力。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">無限制加速</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">무제한 부스트</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Наделяет бесконечным ускорением.</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Garante Boost infinito.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Zapewnia nieograniczone turbo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7196,7 +7195,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">更高的跳跃能力。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">超強跳躍力</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">높은 점프력</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Увеличенная высота прыжка.</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Pulo aumentado.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Zwiększona wysokość skoku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7211,7 +7210,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">无敌效果。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">無敵效果</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">무적 효과</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Неуязвимость для врагов.</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Invencibilidade contra inimigos.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Niewrażliwość na wrogów.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7226,7 +7225,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">可以破坏彩色方块。</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">可破壞彩色磚塊</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">컬러 블록 파괴 가능</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Может разбивать хроматические кубы.</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Pode destruir Cubos Cromados.</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Można niszczyć chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7241,7 +7240,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">额外</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">額外內容</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">기타</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Дополнительно</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Extras</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dodatki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7256,7 +7255,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">动画</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">影片</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">비디오</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Видео</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Vídeos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Filmy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7271,7 +7270,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">音乐</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">音樂</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">음악</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Музыка</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Músicas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Muzyka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7286,7 +7285,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">成就</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">成就</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">도전 과제</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Достижения</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Conquistas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Osiągnięcia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7301,7 +7300,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">设置</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">設定</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">설정</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Настройки и доступ</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Configurações e Acessibilidade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ustawienia i dostępność</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7316,7 +7315,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">动画</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">影片</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">비디오</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Видео</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Vídeo</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Grafika</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7331,7 +7330,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">分辨率</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">解析度</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">해상도</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Разрешение экрана</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Resolução</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Rozdzielczość grafiki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7346,7 +7345,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">窗口类型</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">視窗類型</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">윈도우 타입</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Оконный режим</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Tipo de Tela</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Rodzaj okienka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7361,7 +7360,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">窗口</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">視窗</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">윈도우</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Оконный режим</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Em janela</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">W oknie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7376,7 +7375,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">全屏</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">全螢幕</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">전체화면</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Полноэкранный режим</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Tela cheia</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pełny ekran</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7391,7 +7390,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">显示器数量</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">螢幕數量</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">모니터 수</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Номер монитора</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Número do Monitor</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Numer monitora</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7406,7 +7405,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">特效</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">特效</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">효과</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Визуальные эффекты</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Efeitos visuais</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Efekty graficzne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7421,7 +7420,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">亮度</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">亮度</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">밝기</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Яркость</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Brilho</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Jasność</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7436,7 +7435,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">色盲模式</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">色彩校正模式</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">색약 모드</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Режим дальтоника</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Modo daltónico</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Tryb dla ślepoty barw</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7451,7 +7450,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">声音</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">聲音</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">오디오</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Аудио</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Áudio</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Dźwięk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7466,7 +7465,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">字幕</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">字幕</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">자막</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Субтитры</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Legendas</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Napisy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7481,7 +7480,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">文字语言</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">遊戲語言</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">텍스트 언어</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Язык игры</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Idioma do Texto</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Język tekstu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7496,7 +7495,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">英语 (English)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">英文（English）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">영어 (English)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Английский (English)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Inglês (English)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Angielski (English)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7511,7 +7510,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">日语（日本語）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">日文（日本語）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">일본어 (日本語)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Японский (日本語)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Japonês (日本語)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Japoński (日本語)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7526,7 +7525,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">法语 (Français)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">法文（Français）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">프랑스어 (Français)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Французский (Français)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Francês (Français)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Francuski (Français)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7541,7 +7540,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">意大利语 (Italiano)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">義大利文（Italiano）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">이탈리아어 (Italiano)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Итальянский (Italiano)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Italiano (Italiano)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Włoski (Italiano)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7556,7 +7555,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">德语 (Deutsch)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">德文（Deutsch）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">독일어 (Deutsch)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Немецкий (Deutsch)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Alemão (Deutsch)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Niemiecki (Deutsch)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s145">
@@ -7571,23 +7570,23 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">西班牙语 (Castellano)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">西班牙文（Castellano）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">스페인어 (Castellano)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Испанский (Castellano)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Espanhol (Castellano)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Hiszpański (Castellano)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s145">
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_057</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">ロシア語 (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Russian (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Russe (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Russisch (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Ruso (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Russo (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">俄语 (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">俄文（Русский）</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">러시아어 (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Русский (Русский)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Rosyjski (русский)</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">ブラジルポルトガル語 (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Brazilian Portuguese (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Brasilianisches Portugiesisch (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Portugais Brésilien (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Portugués Brasileño (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Portoghese Brasiliano (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">巴西葡萄牙语 (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">巴西葡萄牙語（Português do Brasil）</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">브라질 포르투갈어 (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Português do Brasil (Português do Brasil)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Brazylijski portugalski (Português do Brasil)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
     <Cell ss:StyleID="s78"/>
@@ -7601,7 +7600,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">波兰语 (Polski)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">波蘭文（Polski）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">폴란드어 (Polski)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Польский (Polski)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Polonês (Polski)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Polski (polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7616,7 +7615,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">简体中文 (简体中文)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">簡體字（简体中文）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">간체자 (简体中文)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Китайский (упрощенный) (简体中文)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Chinês (Simplificado) (简体中文)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Chiński uproszczony (简体中文)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7631,7 +7630,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">繁体中文 (繁體中文)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">繁體字（繁體中文）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">번체자 (繁體中文)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Китайский (традиционный) (繁體中文)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Chinês (Tradicional) (繁體中文)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Chiński tradycyjny (繁體中文)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s145">
@@ -7646,7 +7645,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">韩语 (한국어)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">韓文（한국어）</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">한국어 (한국어)</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Корейский (한국어)</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Coreano (한국어)</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Koreański (한국어)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7661,7 +7660,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">字幕大小</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">字幕大小</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">자막 크기</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Размер субтитров</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Tamanho das legendas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Rozmiar napisów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s145">
@@ -7676,7 +7675,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">语音语言</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">語音語言</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">음성 언어</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Язык озвучения</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Dublagem</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Język audio</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7691,7 +7690,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">字幕对比度</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">字幕對比</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">자막 대비</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Высокая контрастность субтитров</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Legendas em alto contraste</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Napisy o dużym kontraście</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7706,7 +7705,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">语音音量</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">語音音量</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">보이스 음량</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Громкость голоса</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Volume das vozes</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Głośność głosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7721,7 +7720,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">游戏音量</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">遊戲音量</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">사운드 음량</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Громкость музыки и звуковых эффектов</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Volume das músicas e efeitos sonoros</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Głośność muzyki i efektów dźwiękowych</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7736,7 +7735,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">控制</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">控制項目</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">컨트롤</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Управление</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Controles</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Sterowanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7751,7 +7750,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">标准</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">標準</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">표준</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Padrão</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Domyślne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7766,7 +7765,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">自定义</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">自訂</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">커스텀</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Пользовательское</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Personalizar</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Własne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7781,7 +7780,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">振动</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">震動</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">진동</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Вибрация</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Vibração</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wibracje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7796,7 +7795,7 @@
     <Cell ss:StyleID="s148"><Data ss:Type="String">震动</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">震動</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">진동</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Вибрация</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Vibração</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wibracje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -7811,7 +7810,7 @@
     <Cell ss:StyleID="s148"><Data ss:Type="String">振动</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">震動</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">진동</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Вибрация</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Vibração</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wibracje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7826,7 +7825,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">数字光标</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">數位游標</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">디지털 커서</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Цифровой курсор</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Cursor Digital</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kursor cyfrowy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7841,7 +7840,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">反转摇杆</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">反轉搖桿</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스틱 반전</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Инверсия мини-джойстика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Inversão do analógico</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Odwrócenie drążka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7856,7 +7855,7 @@
     <Cell ss:StyleID="s148"><Data ss:Type="String">反转操作杆</Data></Cell>
     <Cell ss:StyleID="s149"><Data ss:Type="String">反轉操作桿</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스틱 반전</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Инверсия джойстика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Inversão do analógico</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Odwrócenie drążka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7871,7 +7870,7 @@
     <Cell ss:StyleID="s148"><Data ss:Type="String">反转摇杆</Data></Cell>
     <Cell ss:StyleID="s149"><Data ss:Type="String">反轉操控搖桿</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스틱 반전</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Инверсия мини-джойстика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Inversão do analógico</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Odwrócenie drążka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7886,7 +7885,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">切换摇杆</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">切換搖桿</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스틱 변경</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Смена мини-джойстика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Trocar analógicos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zamiana drążka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7901,7 +7900,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">切换操作杆</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">切換操作桿</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스틱 변경</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Смена джойстика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Trocar analógicos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zamiana drążka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7916,7 +7915,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">切换摇杆</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">切換操控搖桿</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스틱 변경</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Смена мини-джойстика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Trocar analógicos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zamiana drążka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7931,7 +7930,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">输入：</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">輸入：</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">입력: </Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ввод: </Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Input: </Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wejście: </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7946,7 +7945,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">编辑</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">編輯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">편집</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Редактировать</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">EDITAR</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">EDYTUJ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7961,7 +7960,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">跳跃</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">跳躍</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">점프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Прыжок</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Pulo</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Skok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7976,7 +7975,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">追踪攻击</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">追蹤攻擊</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">호밍 어택</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Самонаводящаяся атака</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Homing Attack</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Atak naprowadzany</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -7991,7 +7990,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8006,7 +8005,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">五彩变身</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">五彩變身</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">컬러즈 체인지</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Висп</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Wisp</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Hidden="1" ss:StyleID="s145">
@@ -8021,7 +8020,7 @@
     <Cell ss:StyleID="s100"><Data ss:Type="String">滑行</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">滑行</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">슬라이딩</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Присесть</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Rasteira</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kucnięcie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8036,7 +8035,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">快步：左</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">快步：左</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">퀵스텝: 왼쪽</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Быстрый шаг влево</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Quick Step esquerdo</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Szybki krok w lewo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s145">
@@ -8051,7 +8050,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">快步：右</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">快步：右</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">퀵스텝: 오른쪽</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Быстрый шаг вправо</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Quick Step direito</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Szybki krok w prawo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s145">
@@ -8081,7 +8080,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">登录</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">登錄</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">등록</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Назначить</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Atribuir</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Przypisz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s145">
@@ -8096,7 +8095,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">导航</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">導航</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">내비게이션</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Обучение</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Tutorial</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Samouczek</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
