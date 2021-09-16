@@ -1010,7 +1010,7 @@
     <Cell ss:StyleID="s75"><Data ss:Type="String">ChineseSimplified</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">ChineseTraditional</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Korean</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Portuguese</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Russian</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Polish</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s77">
@@ -1730,7 +1730,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">PLACEHOLDER(Português)</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">PLACEHOLDER(русский язык)</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">PLACEHOLDER(Język polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s98">
@@ -2376,7 +2376,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">○○:○○</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">○○:○○</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">○○:○○</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">'00:00</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">00:00</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -2466,7 +2466,7 @@
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="String">BS</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Backspace</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">BS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
