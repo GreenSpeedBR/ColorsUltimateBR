@@ -1760,7 +1760,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">选择</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">選擇</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">선택</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">SELECIONE</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">SELECIONAR</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">WYBIERZ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s98">
@@ -2376,7 +2376,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">○○:○○</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">○○:○○</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">○○:○○</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">'00:00</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">00:00</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -2466,7 +2466,7 @@
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="String">Backspace</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">BS</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">BS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -5608,7 +5608,6 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">Garante Boost infinito, pulo aumentado e invencibilidade contra inimigos!</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Zapewnia nieograniczone turbo, zwiększoną wysokość skoku i niewrażliwość na wrogów!</Data></Cell>
    </Row>
-   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
     <Cell ss:StyleID="s104"/>
     <Cell ss:StyleID="s104"><Data ss:Type="String">options_028</Data></Cell>
@@ -5621,7 +5620,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">按下[select/confirm button]继续。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">按下[select/confirm button]继续。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">[select/confirm button]을 눌러 다음으로</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Нажми [select/confirm button], чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Aperte [select/confirm button] para continuar.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Wciśnij [select/confirm button], aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5636,7 +5635,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要开始挑战吗？</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">確定要挑戰嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Загрузить Гонку с соперником? </Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você confirma? </Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rozpocząć to starcie rywali?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s128">
@@ -5651,7 +5650,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要挑战竞速幽灵吗？</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">要挑戰鬼魂跑者嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 레이서에게 도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Бросить вызов призрачному гонщику?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Desafiar Ghost Racer?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rzucić wyzwanie duchowi?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5666,7 +5665,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">恭喜！&#10;你打败了竞速幽灵！</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">CONGRATULATIONS!&#10;贏過鬼魂跑者囉！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">CONGRATULATIONS!&#10;고스트 레이서에게 승리!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Поздравляем! Призрачный гонщик побежден!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">PARABÉNS! Você derrotou o Ghost Racer!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Gratulacje! Pokonujesz ducha!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5681,7 +5680,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">自訂</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменение облика</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customização</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosowywanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5696,7 +5695,7 @@
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="String">Записать</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Recorde</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">Rekord</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5711,7 +5710,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞速幽灵</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">鬼魂跑者</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 레이서</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Призрачные гонщики</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ghost Racers</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Duchy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5726,7 +5725,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞争者</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">勁敵</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">라이벌</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Соперники</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rivals</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rywale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5741,7 +5740,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">幽灵与竞争者</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">鬼魂與勁敵</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트와 라이벌</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Призраки и соперники</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ghosts e Rivals</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Duchy i rywale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5756,7 +5755,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">超级索尼克</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">超級索尼克</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">슈퍼 소닉</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Суперсоник</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Super Sonic</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Super Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5771,7 +5770,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞争者挑战</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">勁敵挑戰</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">라이벌 챌린지</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Испытание с соперником</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rival Challenge</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wyzwanie rywalizacji</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5786,7 +5785,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">个人资料</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">個人資料</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">프로필</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Профиль</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Usuário</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Profil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5801,7 +5800,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">游戏个人资料</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">遊戲資料</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">게임 프로필</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Игровой профиль</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Perfil do Jogo</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Profil gry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5816,7 +5815,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">设置</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">設置</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">설정</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Настройки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Configurações</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ustawienia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5831,7 +5830,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">请按</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">請按下</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">을 눌러 주세요</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Нажми</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">APERTE</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">WCIŚNIJ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5846,7 +5845,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">个人纪录</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">個人紀錄</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">개인 기록</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Мои рекорды</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Meus Recordes</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Moje rekordy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5861,7 +5860,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞速幽灵</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">鬼魂跑者</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 레이서</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Призрачные гонщики</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ghost Racers</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Duchy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5876,7 +5875,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞争者</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">勁敵</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">라이벌</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Соперники</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rivals</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rywale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5891,7 +5890,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">幽灵与竞争者</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">鬼魂與勁敵</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 &amp; 라이벌</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Призраки и соперник</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ghosts e Rival</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Duchy i rywale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5906,7 +5905,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">保存幽灵</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">儲存鬼魂</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 저장</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Сохранить призрака</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Salvar Ghost</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zapisz ducha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5921,7 +5920,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">上传幽灵</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">上傳鬼魂</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 업로드</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Опубликовать призрака</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Enviar Ghost</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Prześlij ducha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5936,7 +5935,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">读取幽灵</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">讀取鬼魂</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 불러오기</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Загрузить призрака</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Carregar Ghost</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wczytaj ducha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -5951,7 +5950,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">挑战竞争者</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">挑戰勁敵</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">라이벌에게 도전</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Испытание с соперником</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Desafiar Rival</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rzuć wyzwanie rywalowi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5966,7 +5965,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">挑战幽灵</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">挑戰鬼魂</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트에게 도전</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Испытание с призраком</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Desafiar Ghost</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rzuć wyzwanie duchowi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5981,7 +5980,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">读取竞争者</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">讀取勁敵</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">라이벌 불러오기</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Загрузить соперника</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Carregar Rival</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wczytaj rywala</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -5996,7 +5995,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">游戏币</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">樂園代幣</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Жетоны парка</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Tokens</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Parkowe żetony</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6011,7 +6010,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">已通关关卡</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">已通過關卡</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">클리어한 스테이지</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Пройдено уровней</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Fases Completas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ukończone poziomy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6026,7 +6025,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">红星环</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">紅星環</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">레드스타 링</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Кольца Red Star</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Red Star Rings</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pierścienie z Czerwoną Gwiazdką</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6041,7 +6040,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">카오스 에메랄드</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Изумруды Хаоса</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Esmeraldas do Caos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Szmaragdy Chaosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="57.5625" ss:StyleID="s71">
@@ -6056,7 +6055,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞争者挑战</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">勁敵挑戰</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">라이벌 챌린지</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Испытания с соперником</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rival Challenges</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wyzwania rywalizacji</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="72" ss:StyleID="s71">
@@ -6071,7 +6070,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">竞速幽灵获胜</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">在鬼魂競速中獲勝</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">고스트 레이스 승리</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Победы в гонках с призраком</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ghost Races vencidas</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wygrane wyścigi z duchami</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="72" ss:StyleID="s71">
@@ -6086,7 +6085,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">已通关关卡</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">已通過關卡</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">클리어한 스테이지</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Завершено актов в основной игре.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Atos completos no jogo principal.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Akty ukończone w głównej grze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="72" ss:StyleID="s71">
@@ -6101,7 +6100,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">已收集的红星环数&#10;可以在游戏区解锁关卡。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">收集到的紅星環數量。&#10;可以用來開放遊戲園區的新關卡。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">모은 레드스타 링 수&#10;게임 랜드의 스테이지를 잠금 해제할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Кольца Red Star, полученные в основной игре. Собирай их, чтобы открывать уровни в «Гейм Лэнд»!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Red Star Rings coletados no jogo principal. Colete-os para desbloquear fases na Game Land!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Pierścienie z Czerwoną Gwiazdką zgromadzone w głównej grze. Zbieraj, aby odblokować poziomy w Game Land!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6116,7 +6115,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">在游戏区收集到的Chaos Emerald数&#10;集齐就能使用超级索尼克。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">在遊戲園區內收集到的Chaos Emerald數量。&#10;全部收集完畢就能使用超級索尼克。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">게임 랜드에서 모은 카오스 에메랄드 수&#10;모두 모으면 슈퍼 소닉을 사용할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изумруды Хаоса, полученные в симуляторе Соника в «Гейм Лэнд». Собери их все, чтобы открыть режим Суперсоника!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Esmeraldas do Caos coletadas na Game Land. Colete todas para desbloquear o Super Sonic!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Szmaragdy Chaosu zebrane w Sonic Simulator w Game Land. Zbierz wszystkie, aby odblokować tryb Super Sonica!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6131,7 +6130,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">在主游戏中挑战竞争者获得胜利的次数&#10;若全部获胜就能使用金属索尼克模式。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">在主線遊戲中進行勁敵挑戰的獲勝次數。&#10;全部獲勝就能使用金屬索尼克模式。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">메인 게임에서 승리한 라이벌 챌린지 수&#10;모두 승리하면 메탈 소닉 모드를 이용할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Испытания с соперником, завершенные в основной игре. Победи во всех испытаниях с соперником, чтобы открыть режим Метал Соника!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rival Challenges completados no jogo principal. Vença todos Rival Challenges para desbloquear o Metal Sonic</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wyzwania rywalizacji ukończone w głównej grze. Wygraj wszystkie, aby odblokować tryb Metal Sonica!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6146,7 +6145,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">在排名、时间、得分、红星环方面&#10;获胜的竞速幽灵。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">在階級、時間、得分、紅星環數量等項目中&#10;獲勝的鬼魂跑者。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">랭크, 시간, 스코어, 레드스타 링으로&#10;승리한 고스트 레이서</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Загруженные призрачные гонщики, которых тебе удалось победить по рангу, времени, очкам или собранным кольцам Red Star.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ghost Racers que você derrotou por rank, tempo, pontuação ou Red Star Rings coletados.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wczytane i pokonane przez ciebie duchy według rangi, czasu, wyniku lub zebranych Pierścieni z Czerwoną Gwiazdką.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6161,7 +6160,7 @@
     <Cell><Data ss:Type="String">购入</Data></Cell>
     <Cell><Data ss:Type="String">購買</Data></Cell>
     <Cell><Data ss:Type="String">구입</Data></Cell>
-    <Cell><Data ss:Type="String">Приобрести</Data></Cell>
+    <Cell><Data ss:Type="String">Adquirir</Data></Cell>
     <Cell><Data ss:Type="String">Nabądź</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6176,7 +6175,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要购买吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">確定要買下嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">사시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Купить?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Comprar item?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Kupić przedmiot?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6191,7 +6190,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要解锁吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">確定要解鎖嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">잠금 해제하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Открыть?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Desbloquear Item?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Odblokować przedmiot?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s71">
@@ -6206,7 +6205,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要购入吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">確定要購買嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">구입하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Приобрести?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Adquirir item?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Nabyć przedmiot?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6221,7 +6220,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要用[x]枚游戏币购买[item name]吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">要用[x]枚代幣買下[item name]嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">토큰 [x]개로 [item name] 아이템을 사시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Купить предмет «[item name]» за жетоны парка ([x])?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Comprar [item name] por [x] Tokens?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">[item name] – kupić za parkowe żetony ([x])?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6236,7 +6235,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要用[x]枚游戏币解锁[item name]吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">要用[x]枚代幣解鎖[item name]嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">토큰 [x]개로 [item name] 아이템을 잠금 해제하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Открыть предмет «[item name]» за жетоны парка ([x])?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Desbloquear [item name] por [x] Tokens?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">[item name] – odblokować za parkowe żetony ([x])?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6251,7 +6250,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">解锁了新物品！</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">解鎖新道具！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">새로운 아이템 잠금 해제!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Открыт новый предмет!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Novo item desbloqueado!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Odblokowano nowy przedmiot!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6266,7 +6265,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">获得了新物品！</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">獲得新道具！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">새로운 아이템 입수!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Получен новый предмет!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Novo item obtido!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Pozyskano nowy przedmiot!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6281,7 +6280,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义手套</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">自訂手套</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">장갑 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменить внешний вид перчаток Соника.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customizar as luvas do Sonic.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosuj rękawiczki Sonica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6296,7 +6295,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义鞋子</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">自訂鞋子</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">신발 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменить внешний вид обуви Соника.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customizar os sapatos do Sonic.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosuj buty Sonica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6311,7 +6310,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义轨迹</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">自訂速度線</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">궤적 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменить тип следа Соника.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customizar o tipo de rastro do Sonic.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosuj rodzaj śladu Sonica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6326,7 +6325,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义轨迹效果</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">自訂速度線特效</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">궤적 효과 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменить эффект следа Соника.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customizar os efeitos de rastro do Sonic.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosuj efekty śladu Sonica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6341,7 +6340,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">轨迹会在加速状态中生效。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">速度線在加速時也會有效果。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">궤적은 부스트 중에 활성화됩니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">След отображается во время ускорения. </Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customizações de rastro são ativas durante o Boost. </Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosowania śladu aktywują się podczas turbo. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6356,7 +6355,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义个人资料头像</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">自訂個人資料頭像</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">프로필 아이콘 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменить значок игрового профиля.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Customize seu Ícone de Usuário.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dostosuj ikonę twojego profilu w grze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6371,7 +6370,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要装备道具吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">要裝備道具嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">아이템을 장착하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Использовать предмет?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Equipar item?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Używać przedmiotu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6386,7 +6385,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">[confirm/select] 挑战金属索尼克</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">[Confirm/select]挑戰金屬索尼克</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">[confirm/select] 메탈 소닉에게 도전</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Для гонки с Метал Соником нажми [confirm/select]</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">[confirm/select] para correr contra Metal Sonic</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">[confirm/select] – ścigaj się z Metal Sonikiem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6401,7 +6400,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">记录于[MMDDYYY]的[HHMM]</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">於[MMDDYYY]的[HHMM]保存的紀錄</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">[MMDDYYY]의 [HHMM]에 기록</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Рекорд поставлен [MMDDYYYY] в [HHMM]</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Salvo em [DDMMYYYY] às [HHMM]</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zapisano [MMDDYYYY] o [HHMM]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -6416,7 +6415,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">主游戏</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">主線遊戲</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">메인 게임</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Основная игра</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Jogo Principal</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Główna gra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6431,7 +6430,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">索尼克模拟器</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">索尼克模擬器</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">소닉 시뮬레이터</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Симулятор Соника</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sonic Simulator</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sonic Simulator</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6446,7 +6445,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">停止</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">STOP</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">STOP</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Остановить</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Parar</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zatrzymaj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s71">
@@ -6461,7 +6460,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">暂停</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">暂停</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">일시 정지</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Пауза</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Pausa</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pauza</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6476,7 +6475,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">继续</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">RESUME</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">RESUME</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Возобновить</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuar</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wznów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6491,7 +6490,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">金属索尼克</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">金屬索尼克</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">메탈 소닉</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Метал Соник</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Metal Sonic</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Metal Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6506,7 +6505,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">继续需要花费游戏币</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">若要繼續遊戲，必須使用代幣。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">계속하려면 토큰이 필요합니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Для участия в режиме испытания нужны жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">O Challenge Mode requere Park Tokens para continuar.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Aby kontynuować tryb wyzwania, potrzebne są parkowe żetony.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6521,7 +6520,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要继续吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">要繼續遊戲嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">계속하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Продолжить?</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuar?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Kontynuować?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6536,7 +6535,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">使用游戏币来继续</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">使用代幣繼續遊戲</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">토큰을 사용해 계속하기</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Чтобы продолжить, используй жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Use Park Tokens para continuar.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Użyj parkowych żetonów, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6551,7 +6550,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">要使用游戏币来继续吗？</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">要使用代幣繼續遊戲嗎？</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">토큰을 사용해 계속하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Чтобы продолжить, нужны жетоны.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Usar Park Tokens para continuar?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Użyć żetonów, aby kontynuować?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="57.5625" ss:StyleID="s71">
@@ -6566,7 +6565,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">继续需要花费游戏币</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">若要繼續遊戲，必須使用代幣。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">계속하려면 토큰이 필요합니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Чтобы продолжить, нужны жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Requere Park Tokens para continuar.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Potrzebne są parkowe żetony, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6581,7 +6580,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">游戏币不足。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">樂園代幣不足。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰이 부족합니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Недостаточно жетонов парка.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você está sem Park Tokens.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Nie masz parkowych żetonów.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6596,7 +6595,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">您可以在主游戏中&#10;获得游戏币。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">樂園代幣可在&#10;主線遊戲中獲得。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰은 메인 게임을 통해&#10;얻을 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Получить жетоны парка можно в основной игре.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Colete Park Tokens jogando o jogo principal.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zbieraj parkowe żetony, grając w główną grę.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -6611,7 +6610,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">通过游玩主游戏、&#10;胜过竞速幽灵或在竞争者挑战中胜出，&#10;可以获得游戏币。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">遊玩主線遊戲&#10;或在鬼魂競速、勁敵挑戰中獲勝，&#10;就能得到樂園代幣。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰은 메인 게임을 플레이하거나&#10;고스트 및 라이벌 챌린지에서 승리하면&#10;얻을 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Получить жетоны парка можно в основной игре или за победы в гонках с призраками и испытаниях с соперником.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Colete Park Tokens jogando o jogo principal ou vencendo Ghost Races e Rival Challenges.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zbieraj parkowe żetony, grając w główną grę lub wygrywając wyścigi z duchami i wyzwania rywalizacji.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s71">
@@ -6626,7 +6625,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">在关卡中收集游戏币吧。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">在關卡中收集樂園代幣吧！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">스테이지에서 파크 토큰을 모아 봅시다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Ищи жетоны парка в актах.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Encontre Park Tokens nos atos.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Znajduj parkowe żetony w aktach.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6641,7 +6640,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">获得了游戏币！</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">得到樂園代幣了！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰을 얻었다!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Получен жетон парка!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você ganhou uma Park Token!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Przyznano ci parkowy żeton!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -6656,7 +6655,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">获得了游戏币！</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">得到樂園代幣了！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰을 얻었다!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Получены жетоны парка!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você ganhou Park Tokens!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Przyznano ci parkowe żetony!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="172.6875" ss:StyleID="s71">
@@ -6671,7 +6670,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">冲撞成绩画面的数字，&#10;也有可能获得游戏币。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">有時撞擊成績畫面中的數字&#10;也會跑出樂園代幣。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰은 결과 화면의 숫자를&#10;두드리면 나오는 경우도 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Попробуй разбить объекты на экране результатов, чтобы найти дополнительные жетоны парка.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Tente destruir as coisas na Tela de Resultados para achar Park Tokens extras.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rozbijaj rzeczy na ekranie wyników, aby znajdować dodatkowe parkowe żetony.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="172.6875" ss:StyleID="s71">
@@ -6686,7 +6685,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">获得“S”或“A”级时可获得额外奖励。</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">階級為「S」或「A」時可得到額外獎勵。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">'S' 또는 'A' 랭크에서 보너스를 받을 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Получай дополнительные награды за ранги S и A!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Consiga um Rank S ou Rank A para ganhar recompensas extras!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zdobądź rangę S lub A, aby otrzymać dodatkowe nagrody!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.0625" ss:StyleID="s77">
@@ -6701,7 +6700,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">字幕语言</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">字幕語言</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">자막 언어</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Язык субтитров</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Idioma das Legendas</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Język napisów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.0625" ss:StyleID="s77">
@@ -6746,7 +6745,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">设置卫星</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">選項衛星</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옵션 새틀라이트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">спутник настроек</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">SATÉLITE DE OPÇÕES</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">SATELITA OPCJI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6761,7 +6760,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">游戏数据</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">遊玩資料</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이 데이터</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Прогресс</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Progresso</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Postępy w grze</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6776,7 +6775,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">数据</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">資料</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">데이터</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Статистика</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Status</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Statystyki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6791,7 +6790,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">已通关关卡</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">已通過關卡</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스테이지 달성도</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Завершено сюжетных актов</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Atos da história completos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ukończone akty fabuły</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6806,7 +6805,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">红星环</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">紅星環</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">레드스타 링 개수</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Собрано колец Red Star</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Red Star Rings coletados</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zebrane Pierścienie z Czerwoną Gwiazdką</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6821,7 +6820,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">카오스 에메랄드 개수</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Собрано Изумрудов Хаоса</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Esmeraldas do Caos coletadas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zebrane Szmaragdy Chaosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6836,7 +6835,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">极速竞争者</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">勁敵對決</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">라이벌 러시</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Гонок с соперником</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Rival Rush completos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ukończone wyzwania starcia rywali</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6851,7 +6850,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">竞速幽灵获胜</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">在鬼魂競速中獲勝</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">고스트 레이스 승리</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Победы в гонках с призраком</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Rival Rush vencidos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wygrane wyścigi z duchami</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6866,7 +6865,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">上一次在线时间</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">最後上線時間</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">최종 접속</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Последний раз в сети</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Última vez Online</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Ostatnio online</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
