@@ -971,7 +971,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">(dummy)</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">(dummy)</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">(dummy)</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Pódexá, parceiro! Vem cá, seus pestinha!&#10;Volta aqui! Eu vou pegar 'cês! Ei! Vem cá!&#10;Nóis vamo duelar! Eu pegue-&#10;opa, agora eu peguei! Vem cá!&#10;Isso aqui é tipo um rodeio, aposto!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pódexá, parceiro! Vem cá, seus pestinha!&#10;Volta aqui! Eu vou pegar 'cês! Ei! Vem cá!&#10; Eu pegue- opa, agora eu peguei!&#10;Vem cá! Isso aqui é tipo&#10;um rodeio, pode apostar!</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Zrozumiałem, partnerze! Chodźcie tutaj, wy małe szkodniki!&#10;Do mnie! Hej! Złapię was wszystkie! Zrobimy tu niezły pokaz!&#10;Zabawa jak na rodeo!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
@@ -1101,7 +1101,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">嗯……那個……</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">唔……呃……</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">으음… 그러니까…</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Хм, так, посмотрим…</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Hmm, vamos ver... Uhh...</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Hmm... Popatrzmy na to.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1116,7 +1116,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">要先接上外框電容器，&#10;然後輸入強力脈衝……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">得接上结构电容器&#10;释放强力脉冲才行啊……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">프레임 콘덴서를 연결해서&#10;강력 펄스를 송출해야 해…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Подключим матричный конденсатор&#10;к усиливающему модулятору…</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">A gente conecta o capacitor framistático&#10;no modulacionizador maximizante...</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Muszę połączyć kondensator framistatyczny&#10;do modulacjonizora maksymalizującego…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1131,7 +1131,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">不知道該稱呼你外星人小弟還是小妹，&#10;但希望這樣能聽懂你在說什麼……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">虽然不知道你是外星人弟弟还是外星人妹妹，&#10;我会想办法听懂你说的话的……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">네 정체는 모르겠지만&#10;네 말을 알아들을 수 있게 말야…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Хотел бы я знать, что ты говоришь, малыш.&#10;Или малышка. Или кто ты там.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Eu queria saber o que você tá dizendo, carinha.&#10;Ou maninha. Ou seja lá o que você é.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Szkoda, że cię nie rozumiem, mały.&#10;Albo mała. Czy tam czymkolwiek jesteś.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1146,7 +1146,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">真是太帥了！&#10;痛快！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">厉害了！&#10;我真的飞起来了！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">이거 굉장한데!&#10;진짜 장난 아니다!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ну и ну!&#10;Потрясающе! </Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Cara!&#10;Isso... foi... DOIDO! </Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">O, stary!&#10;To… było… SZALONE! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -1161,7 +1161,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">嗨，我正在改造這台機器，&#10;讓它能翻譯外星人語……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">哟。为了听懂这个外星人说的话，&#10;我一直在改造这个机器……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">어서 와, 이 기계로 외계인의 말을&#10;이해할 수 있게 개조 중이었는데…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ой. Я пытался переделать свой коммуникатор&#10;в переводчик, чтобы понимать этого пришельца.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Oh. Eu tava reconfigurando meu portátil&#10;num tradutor pra entender esse cara.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Przerabiałem moje urządzenie na translator,&#10;żeby zrozumieć, co ten koleś do mnie mówi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1176,7 +1176,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">剛剛那是怎麼回事？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">不过刚才那是什么？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">방금 무슨 일이 일어난 거지?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">А ты где пропадал?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você foi pra algum lugar?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Poszedłeś gdzieś?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -1191,7 +1191,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">就像你看到的啊！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">你也看见啦！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">네가 본 그대로야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ты что, не видел? </Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você não viu!? </Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Nie zauważyłeś? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -1206,7 +1206,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人一進到我的身體裡，&#10;我就像變身一樣變得力量百倍！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人进入体内后&#10;就跟变身了一样，力量增强了很多！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">외계인이 몸속에 들어오니&#10;변신한 것처럼 힘이 세졌어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Я поглотил тех пришельцев, и меня наполнила&#10;какая-то безумная энергия!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Eu absorvi esses aliens e&#10;fiquei com um tipo de energia maluca!</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Wchłonąłem tych obcych i wzmocniło mnie to&#10;jakąś dziwną, dziką energią!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1221,7 +1221,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">不過立刻就恢復原狀這點&#10;倒是有點可惜……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">不过很快就会恢复原样，&#10;真遗憾……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">뭐, 금방 원래대로 돌아오는 점이&#10;아쉬운 부분이긴 하지만…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">А через несколько секунд они снова выбрались!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">E depois de segundos eles saíram de mim!</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">A po kilku sekundach ze mnie wyskoczyli!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1236,7 +1236,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">哦～真是不可思議的力量……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">诶～真是神奇的力量呢……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">흐음~ 신기한 힘이네…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">В это трудно поверить.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Uh, acho difícil acreditar nessa.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Trudno w to uwierzyć.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -1266,7 +1266,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">剛剛在追這些外星人的&#10;的確是蛋頭博士的機器人……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">追捕这些外星人的&#10;应该是蛋头博士的机器人没错了……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">외계인들을 쫓고 있던 건&#10;에그맨의 로봇이 틀림없으니…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Так, ладно, нам нужно найти Эггмана и выяснить,&#10;как поимка этих пришельцев</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ok, de verdade, a gente tem que achar o Eggman&#10;e entender como pegar esses aliens encaixa</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Dobra, serio, musimy znaleźć Eggmana i dowiedzieć się,&#10;po co łapie obcych</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -1281,7 +1281,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">我們來調查他在打什麼如意算盤吧！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">我们去调查一下那家伙又在打什么坏主意吧！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">녀석이 뭘 꾸미고 있는지&#10;조사해 보자!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">связана с коварным планом, который он вынашивает.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">em qualquer que seja o&#10;plano malvado que ele tá bolando.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">i jak to się łączy z jego złowrogim planem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -1296,7 +1296,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">然後打壞他的算盤嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">不是去好好教训他一顿吗？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">해치우는 게 아니고?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">И помешать этому плану, правильно?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">E acabar com esse plano, né?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">I pokrzyżować ten plan!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -1311,7 +1311,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿嘿，大概吧，我不會放任他做壞事的！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿嘿，可能吧，总之我不会放过他的！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">헤헷, 그럴지도? 놓치지 않겠다!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ага, ведь мы здесь для этого.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pois é, é assim que&#10;a gente gasta nosso tempo.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Tak, w zasadzie tym zajmujemy się cały czas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
@@ -2276,7 +2276,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">22… 23… 24…</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">22… 23… 24…</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">22… 23… 24…</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Двадцать три, двадцать четыре, двадцать пять… </Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">...vinte e três, vinte e quatro, vinte e cinco... </Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">…dwadzieścia trzy, dwadzieścia cztery, dwadzieścia pięć… </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s67">
@@ -2291,7 +2291,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">嗯──！還完全不夠！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">哇啊啊！根本就不够啊！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">크으으윽! 아직 한참 모자라다!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Тьфу! Здесь недостаточно пришельцев! </Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Bah! Nem perto de ter&#10;aliens o suficiente! </Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Za mało obcych! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s67">
@@ -2306,7 +2306,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">請問我們還要繼續抓嗎？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">还要再抓吗？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">더 잡아야 해요?</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Хотите, чтобы мы поймали еще?</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Quer que a gente pegue mais?</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Mamy przynieść więcej?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s67">
@@ -2321,7 +2321,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">你們這些懶蟲……這段時間別想休息！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">一群懒鬼……这几天就别想休息了！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">게으름뱅이들…&#10;당분간 휴식은 없다!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Нет,&#10;я хочу, чтобы вы принесли мне бутерброд и коктейль.</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Imagina... Eu quero que você pegue&#10;um cheeseburger e um shake.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Nie,&#10;macie mi przynieść cheeseburgera i koktajl.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s67">
@@ -2336,7 +2336,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">此乃忍者戒律！&#10;我等必將那些外星人抓得一個不剩！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">此乃忍者的戒律！&#10;我等必将外星人一个不留地抓回来！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">닌자의 규율이오! 외계인을&#10;남김없이 잡아 보이겠소!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Ну это будет несложно.&#10;Бутерброды не бегают так быстро,&#10;как эти мерзкие пришельцы.</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Ah, bem mais fácil!&#10;Cheeseburgers não correm tão rápido&#10;quanto aqueles aliens pestinhas.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">To będzie łatwiejsze.&#10;Cheeseburgery nie biegają tak szybko&#10;jak te maluchowate obce.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s67">
@@ -2351,7 +2351,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">還敢開玩笑……知道了還不快去！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">怎么还在鬼混……那还不赶紧去！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">까불기는… 그럼 당장 가서 잡아!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">БОЛВАН! Поймайте мне больше пришельцев!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Idiota. Me traga mais ALIENS!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">IDIOTA! Przynieś więcej obcych!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s67">
@@ -2366,7 +2366,7 @@
     <Cell ss:StyleID="s104"><Data ss:Type="String">(dummy)</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">(dummy)</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">(dummy)</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Тьфу! Сразу бы так! К чему эти непонятные намеки. Непонятные. Непонятные.</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Ah! Diacho! O que há com toda aquela baboseira. Blá blá, blá blá, blá blá, blá blá.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Na kurczaki! Po co to całe gadanie. Bla, bla, bla, bla.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.3125" ss:StyleID="s67">
@@ -2396,7 +2396,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">在下肚子餓了。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">我饿了。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">배가 고프오</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">А как насчет жареной картошечки?</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">'Cê vai querer fritas também?</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Chcesz do tego frytki?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.3125" ss:StyleID="s67">
@@ -2411,7 +2411,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">好痛！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">好痛！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">아얏!</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Уф! Думаю, это больно!</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Oh! Essa doeu um bocado!</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Zdaje się, że to trochę bolało.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.5" ss:StyleID="s67">
@@ -2426,7 +2426,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">唉～真是的……&#10;肚子好餓啊～</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">唉～真是的……&#10;肚子饿了～</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">어휴~ 진짜…&#10;배고픈데…</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Погодите, мне же совсем в другую сторону! Простите…</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Pera, eu tenho que ir pra'li! ...Desculpa.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Chwilunia, miałem iść tam…! Przepraszam.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="46.6875" ss:StyleID="s67">
@@ -2441,7 +2441,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">我可愛的小外星人啊～！&#10;只要有你們的能量精華，&#10;就再也沒有人能阻止我了……</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">我可爱的小外星人儿～！&#10;只要有从你们身上提取出的精华，&#10;就没人能阻止我了……</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">나의 귀여운 외계인들아~!&#10;너희들의 엑기스만 있으면&#10;아무도 날 막지 못할 거다…</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Мои драгоценные пришельцы!&#10;Я обуздаю их гиперсилу,&#10;и меня ничто не остановит!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Alienzinhos preciosos! Eu vou aproveitar sua&#10;energia Hyper-go-on e aí nada vai me parar!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Drogocenni obcy!&#10;Zbiorę ich moc Hiper Jazdy&#10;i nic mnie nie powstrzyma!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s67">
@@ -2456,7 +2456,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">總覺得我每次都在講同樣的話，&#10;不過，要是有人想阻止我，就來試試看吧！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">虽然每次都说一样的话，&#10;但还是要说：有人觉得能阻止我的话，就来试试看啊！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">매번 말하는 것 같지만&#10;막을 테면 어디 막아 보시지!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Знаю, я все время так говорю, но на этот раз&#10;меня и правда ничто не остановит!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Eu sei, eu digo isso sempre, mas dessa vez,&#10;de verdade, nada vai me parar!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Wiem, że mówię tak za każdym razem,&#10;ale tym razem nic mnie nie powstrzyma!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.5625" ss:StyleID="s67">
@@ -2471,7 +2471,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">啊……</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">啊……</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">어…</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Э… Босс...</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Eh... Chefe?</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Ech…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.5625" ss:StyleID="s67">
@@ -2486,7 +2486,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">什麼！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">这是什么！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">뭐야!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Что?!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">O que é?</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Co!?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="23.4375" ss:StyleID="s67">
@@ -2501,7 +2501,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">索尼克！？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">索尼克！？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">소닉!?</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Соник?!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">SONIC!?</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">SONIC?!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s67">
@@ -2516,7 +2516,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">嗨！我來阻止你了。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">哟！我来阻止你了。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">어이! 막으러 왔다</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Кого это ты там назвал «ничем»?</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Quem que você tá chamando de &quot;nada&quot;?</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Kogo nazywasz „niczym”?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="23.4375" ss:StyleID="s67">
@@ -2531,7 +2531,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">是賊人嗎！？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">有歹人！？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">침입자인가!?</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Что?</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Hã?</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Hę?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="46.6875" ss:StyleID="s67">
@@ -2546,7 +2546,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">因為老大說「就來阻止看看啊」，&#10;所以索尼克才會來啦。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">因为头目刚才说“来阻止看看啊”，&#10;所以索尼克就来了。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">보스가 '막아 보라고' 하니까&#10;소닉이 막으러 온 거잖아</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Он имеет в виду, раз шеф сказал,&#10;что его ничто не остановит,&#10;а Соник собирается его остановить,</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Ele quer dizer que já que o&#10;chefe disse &quot;nada vai me parar&quot;&#10; e o Sonic aqui vai parar ele,</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Chodzi mu o to, że skoro szef&#10;powiedział: „nic mnie nie powstrzyma”,&#10;a Sonic go powstrzyma,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s67">
@@ -2561,7 +2561,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">你如果還算是個忍者，&#10;就要幫老大擋住索尼克！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">既然你是忍者，&#10;就必须帮头目阻止索尼克啦！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">네가 명색이 닌자라면&#10;보스를 위해서 소닉을 막아야지!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">то выходит так, будто шеф назвал Соника «ничем».</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">é como se o chefe estivesse chamando o Sonic de &quot;nada&quot;.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">to jakby szef nazywał Sonica „niczym”.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -2574,7 +2574,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">憑蛋頭博士的忍者擋得住我嗎？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">蛋头博士的忍者能阻止我吗？</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">에그맨의 닌자가&#10;날 막을 수 있을 것 같아?</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Ух ты! Я уж думал, что меня никто не поймет.</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Boa! Pensei que ninguém ia pegar essa.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Świetnie! Myślałem, że nikt nie zrozumie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="46.6875" ss:StyleID="s63">
@@ -2587,7 +2587,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">你說這種機器人是我的忍者！？&#10;太小看我了……</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">这破机器人是我的忍者？&#10;说什么蠢话呢……</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">이딴 로봇이 내 닌자라니!&#10;날 바보로 아나…</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Отлично! Раз ты такой умный, робот,&#10;то тебе и решать эту проблему!&#10;Выпускайте Здоровяка!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Tudo bem! Você é tão esperto,&#10;robô, VOCÊ que vai dar conta dessa sujeira!&#10;Soltem o Big Boy!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Dobrze, taki jesteś mądry, robocie,&#10;to zajmij się tym problemem!&#10;Wypuśćcie Dryblasa!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -2600,7 +2600,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">摩天輪借你玩，趕快滾回去！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">摩天轮借你玩好了，你快滚吧！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">관람차 태워 줄 테니 썩 돌아가라!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">По крайней мере, он точно не напортачит!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Pelo menos eu sei que ele não vai ferrar com tudo!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">On przynajmniej da sobie radę!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -2613,7 +2613,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">記得坐一次150塊哦！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">每次50元哦——！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">한 번에 5000원이다~!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Покедова, неудачники!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Até mais falou, trouxas!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Hasta la pa pa, frajerzy!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -2626,7 +2626,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">別開玩笑了……&#10;我才不想花150塊咧。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">别逗我了……&#10;我哪拿的出50元。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">장난하나…&#10;5000원이나 낼 순 없다</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Похоже, пришло время разрушать злодейские планы.</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Acho que tá na hora de EU começar a parar as coisas.</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Chyba pora zacząć zatrzymywanie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -2639,7 +2639,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">不然算你20塊！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">那就10元！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">그럼 1000원!</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">До меня дошло!</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">'Tendi!</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">Skumałem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
@@ -3398,7 +3398,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">好，接下來鎖上這根螺絲……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">好了，之后只要拧紧这个螺丝……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">좋았어, 이제 나사만 조이면…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Так, затянем покрепче последний болт…</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ok, agora é só apertar esse último parafuso...</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Dobra, teraz dokręcić ostatnią śrubę…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3413,7 +3413,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗨，你回來了啊。&#10;你跑去哪裡了？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗨，你回来啦。&#10;你去哪了？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">소닉, 돌아왔구나&#10;어디 갔었어?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">А, вот ты где.&#10;Куда ты убежал?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">...oh, você tá aí.&#10;Por onde você andou?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">…o, tu jesteś.&#10;Gdzie znowu pobiegłeś?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3428,7 +3428,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">我剛剛上摩天輪玩了一下。&#10;不過風景不是很漂亮……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">去玩了会摩天轮，&#10;虽然风景挺差的……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">잠깐 관람차 좀 타고 오는 길이야&#10;뭐, 경치는 별로였지만…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Я прошелся по магазинам,&#10;слегка перекусил и разделался&#10;с огромным роботом-убийцей.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Eu fiz umas comprinhas,&#10;comprei um lanchinho e detonei&#10;um robô matador gigante.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Byłem na zakupach,&#10;zjadłem coś i rozwaliłem&#10;wielkiego, morderczego robota.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3443,7 +3443,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">真好！我也好想去玩遊樂設施。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">真好啊！我也想去游乐园里玩。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">좋겠다! 나도 유원지에 놀러 갈래</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">О, правда?&#10;У них здесь даже магазины есть?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Oh, sério?&#10;Eles tem shoppings aqui também?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Naprawdę?&#10;Można tu zrobić zakupy?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3458,7 +3458,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">之後你就能大玩特玩了。&#10;話說回來，你能聽懂外星人的語言了嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">这之后有你玩的。话说回来，&#10;你能听懂外星人的话了吗？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">이제 실컷 가서 놀면 되지. 그보다&#10;외계인 말은 이해할 수 있게 됐어?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Здесь есть всё.&#10;Ну, как там твой переводчик?&#10;Удалось разобраться?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Esse lugar tem de tudo.&#10;Hey, então, como esse seu&#10;treco tradutor tá indo?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Tu jest wszystko.&#10;I jak tam to coś do tłumaczenia?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3473,7 +3473,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">當然，&#10;改造機器可是我的拿手絕活。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">当然。&#10;改造机械我最拿手了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">물론이지&#10;기계 개조는 내 특기니까</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Думаю, все готово.&#10;Он работает на двоичном коде, который могу прочесть только я. </Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Acho que tá pronto. Tá em&#10;código binário, então só eu posso ler.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Chyba skończyłem.&#10;To kod binarny, więc tylko ja to rozumiem. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3488,7 +3488,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">你來試著跟他說話吧。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">好了，你跟它说话试试。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">이제 말 걸어 봐</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ладно, задавай вопрос.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Beleza, faz as perguntas.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Dobra, pytaj.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3503,7 +3503,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">你叫什麼名字？&#10;順便告訴我們發生了什麼事吧。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">你叫什么名字？&#10;还有，发生什么事了？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">네 이름은 뭐야? 그리고&#10;무슨 일이 있었는지 가르쳐 줘</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Кто ты и что происходит с твоими собратьями?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Uhum... Quem é você e o que está acontecendo ao seu povo?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kim jesteś i co się dzieje z twoimi ziomkami?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3518,7 +3518,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯……他說他叫做足球。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">呃……它说它叫雅客。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">어디 보자… 이름은 사커래</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Так, он сказал, что его зовут Говорун&#10;и он с далекого лимонада,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ok, ele disse que se chama &quot;Fala-fala&quot;&#10;e ele é de uma bebida distante,</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Dobra, mówi, że ma na imię „Dużo Mówię”,&#10;pochodzi z dalekiego napoju,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3533,7 +3533,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">他說他往高空打了一支全壘打，&#10;結果因為太累球棒就折斷了……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">往遥远的太空打了一记全垒打后&#10;太累了，球棒也断了……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">하늘 멀리 홈런을 크게 날리다&#10;그만 방망이가 부러졌다네…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">где цветы поливают их танцами.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">onde flores molham eles com danças.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">gdzie kwiaty podlewają ich tańcem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3548,7 +3548,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">這聽起來不像足球，&#10;比較像是在講棒球耶。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">这么粗暴一点也不“雅”呢。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">사커라기보단&#10;야구 얘기를 하는 거 같은데?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Ага, э…&#10;Похоже, твой аппарат&#10;не совсем исправен.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">É, uh...&#10;Eu acho que sua máquina&#10;ainda tem alguns bugs.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Taaa…&#10;Chyba twoja maszyna&#10;ma jakieś błędy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3563,7 +3563,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">……真奇怪，到底是怎麼回事？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">……好奇怪啊，到底什么意思啊？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">…이상하네. 대체 무슨 뜻이지?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Да. Но, думаю, я могу его перенастроить.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pois é. Acho que eu consigo resolver isso.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Tak, ale chyba rozumiem, o co chodzi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3578,7 +3578,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">啊，我知道了！&#10;他說他的名字是「亞克」！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">啊，我明白了！&#10;它叫“亚克”！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">아, 알았다!&#10;이름은 '얘커'래!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Вот. Он говорит, что его зовут Яккер.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Beleza, ele disse que se chama Yacker.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Dobra, mówi, że ma na imię Yacker.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3593,7 +3593,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯……&#10;他說他是一種叫做「威斯」的外星人。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯……&#10;是名为“威斯”的外星种族。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그러니까…&#10;'위스프'라는 외계인이라나 봐</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Он представляет расу существ,&#10;известных как виспы.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ele é de uma raça&#10;de seres chamada &quote;Wisps&quote;.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Pochodzi z rasy istot&#10;nazywanych „wispami”.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -3608,7 +3608,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">不是足球嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">和棒球有什么关系啊？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">사커라며?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Уиспы?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Lisps?</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Wyspami?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s80">
@@ -3623,7 +3623,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">抱歉，也不是棒球……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">抱歉，棒球也是听错了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">미안, 야구 얘기도 아니었네…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Нет, виспы, через «в».</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Não, Wisps, com um &quote;W&quote;.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Nie, wispami, przez „ł”.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3638,7 +3638,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">總之叫他們威斯就對了吧？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">总之叫它“威斯”就行了吧？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그럼, 위스프라고 부르면 돼?</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Пожалуй, я буду помогать пришельцам,&#10;если никто не против.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Eu vou chamar só de aliens mesmo,&#10;se estiver OK pra todo mundo.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Będę dalej mówić „obcy”,&#10;jeśli to nikomu nie przeszkadza.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3653,7 +3653,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">聽起來是這樣沒錯。&#10;他好像還說了什麼。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">对，&#10;它好像还说了些其他的。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">응&#10;그 외에도 뭔가 말하고 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Хм, так, то ли какой-то злодей&#10;использует их магические силы,</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ok, mas então, eles tão sendo usados&#10;pelos poderes mágicos por um homem malvado,</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Pewnie, więc w każdym razie&#10;albo zły człowiek próbuje wykorzystać ich magiczne moce,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="33" ss:StyleID="s80">
@@ -3668,7 +3668,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">我不知道他是說「能量被壞人偷走了」，&#10;還是「甜甜圈被灑了洋蔥」。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">好像是“能量被坏人偷走了”&#10;还是“甜甜圈上涂满了洋葱”。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"> '나쁜 놈이 에너지를 훔쳤다' 혹은&#10;'바쁜 놈이 애 보기를 퉁쳤다'래</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">то ли из них делают нижнее белье для салатов.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ou pra fazer roupas íntimas&#10;pra serem usadas em uma salada.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">albo zmusza ich do wskakiwania na sałatowe koce.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3683,7 +3683,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">他還說了好幾次「幫幫我」、「幫幫我」。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">然后一直在说“救命、救命”。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그리고 계속&#10;'도와줘' '도와줘'라고 하고 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Он лишь повторяет: «Спасите, спасите их всех».</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Eu só escuto salve-os, salve-os,&#10;de novo e de novo.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Mówi ciągle „uratuj ich”, „uratuj ich”.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3698,7 +3698,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">這麼一說，我在收拾那些機器人的時候&#10;看到一張地圖，上面標了看起來很有趣的地點……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">说起来，我在收拾机器人的时候&#10;发现了一张地图，上面标着很有意思的地方……</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">그러고 보니 로봇을 쓰러뜨렸을 때&#10;흥미로운 장소의 지도가 있었지…</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Когда я разбирался с теми роботами,&#10;я видел карту с парочкой интересных мест. </Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Quando eu tava andando por aí acabando com uns robôs,&#10;eu vi um mapa que tinha uma par de&#10;lugares interessantes.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kiedy tak sobie biegałem, rozwalając roboty,&#10;zauważyłem mapę z kilkoma ciekawymi miejscami. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5" ss:StyleID="s80">
@@ -3713,7 +3713,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">OK，說不定可以幫上這些威斯，&#10;我們就去看看吧。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">OK，说不定能救出威斯们，&#10;我们去看看吧。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">OK, 위스프들을 도울 수&#10;있을지도 모르니 한번 가 보자</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Наверное, стоит проверить, что там и как.&#10;Возможно, удастся спасти больше пришельцев.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Acho que vou dar uma olhada neles,&#10;e talvez salvar uns aliens.</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Chyba je sprawdzę,&#10;a przy okazji może uratuję kilku obcych.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s63">
