@@ -5353,7 +5353,6 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Jogue Sonic Simulator sozinho ou em cooperativo! </Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zagraj w Sonic Simulator w pojedynkę lub trybie kooperacji!</Data></Cell>
    </Row>
-   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s130"><Data ss:Type="String">supersonic_014</Data></Cell>
@@ -5366,7 +5365,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">塔尔斯不会出现在索尼克模拟器中。</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">塔爾斯不會在模擬器中現身。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">시뮬레이터에 테일즈는 나타나지 않습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Спасения Тейлза в симуляторе недоступны.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Tails Saves são desabilitados no simulador.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Tails nie może cię ratować w symulatorze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -5381,7 +5380,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">集齐所有Chaos Emerald后，&#10;就能解锁超级索尼克。</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">只要收集到所有Chaos Emerald，&#10;就能解鎖超級索尼克。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">카오스 에메랄드를 모두 모으면&#10;슈퍼 소닉이 잠금 해제됩니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Отыщи все Изумруды Хаоса, чтобы открыть Суперсоника.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Encontre e colete todas Esmeraldas do Caos para desbloquear o Super Sonic.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Znajdź i zbierz wszystkie Szmaragdy Chaosu, aby odblokować Super Sonica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s71">
@@ -5396,7 +5395,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">在模拟器中集齐所有Chaos Emerald后，&#10;就可以使用超级索尼克。</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">在模擬器內收集到所有Chaos Emerald，&#10;就能使用超級索尼克。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">시뮬레이터에서 카오스 에메랄드를&#10;모두 모으면 슈퍼 소닉을 사용할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Отыщи все Изумруды Хаоса в симуляторе Соника, чтобы открыть Суперсоника.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Colete todas Esmeraldas do Caos no Sonic Simulator para desbloquear o Super Sonic.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zbierz wszystkie Szmaragdy Chaosu w Sonic Simulator, aby odblokować Super Sonica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s128">
@@ -5411,7 +5410,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">已获得所有Chaos Emerald！&#10;超级索尼克已解锁！</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">獲得所有Chaos Emerald囉！&#10;超級索尼克已解鎖！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">카오스 에메랄드를 모두 획득!&#10;슈퍼 소닉이 잠금 해제되었습니다!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Все Изумруды Хаоса у тебя! Суперсоник открыт!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você coletou todas Esmeraldas do Caos! Super Sonic desbloqueado!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zebrano wszystkie Szmaragdy Chaosu! Super Sonic został odblokowany!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.3125" ss:StyleID="s128">
@@ -5426,7 +5425,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">恭喜！&#10;可以使用超级索尼克了！</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">CONGRATULATIONS!&#10;可以使用超級索尼克囉！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">CONGRATULATIONS!&#10;슈퍼 소닉 이용 가능!</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Поздравляем! Суперсоник открыт!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">PARABÉNS! Super Sonic desbloqueado!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Gratulacje! Super Sonic został odblokowany!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s128">
@@ -5441,7 +5440,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">您可以在选项中打开／关闭&#10;超级索尼克功能。</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">在選項中可開啟／關閉&#10;超級索尼克的功能。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">옵션에서 슈퍼 소닉의 기능을&#10;켜고 끌 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Загляни на спутник настроек, чтобы активировать Суперсоника!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você pode ativar o Super Sonic pelo Satélite de Opções!</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Odwiedź satelitę opcji, aby aktywować Super Sonica!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s128">
@@ -5456,7 +5455,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">变身需要50个金环。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">变身需要50个金环。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">변신하려면 링이 50개 필요합니다</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Для активации во время игры необходимо не менее 50&#160;колец.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Você precisa de pelo menos 50 Anéis para ativar durante o jogo.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Aby aktywować w trakcie gry, potrzeba przynajmniej 50 pierścieni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s128">
@@ -5471,7 +5470,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">变身为超级索尼克的方法&#10;与五彩变身一样。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">变身为超级索尼克的方法&#10;与缤纷能力一样。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">슈퍼 소닉 변신 방법은&#10;컬러 파워와 동일합니다</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Суперсоника можно активировать точно так же, как и силу виспа.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Ative o Super Sonic do mesmo jeito que um Wisp.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Aktywuj Super Sonica tak samo jak moc wispów.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s128">
@@ -5486,7 +5485,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">变身后，每秒会消耗1个金环。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">变身后，每秒会消耗1个金环。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">변신 중에는 링을 1초에 1개씩 소비합니다</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">В этом режиме расходуется одно кольцо в секунду.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">O modo consome 1 anél por segundo.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Tryb zużywa 1 pierścień na sekundę.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s128">
@@ -5501,7 +5500,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">无法使用五彩变身。。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">变身时间内无法使用缤纷能力。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">변신 중에는 컬러 파워를 사용할 수 없습니다</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Во время действия силы виспов недоступны.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Os Wisps serão desativados quando o Super Sonic for ativado.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Podczas trybu moce wispów są wyłączone.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s128">
@@ -5516,7 +5515,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">无限的加速能力。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">无限的加速能力。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">무제한 부스트</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Наделяет бесконечным ускорением.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Garante Boost infinito.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Zapewnia nieograniczone turbo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s128">
@@ -5531,7 +5530,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">更高的跳跃能力。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">更高的跳跃能力。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">높은 점프력</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Повышенная высота прыжка.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Pulo aumentado.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Zwiększona wysokość skoku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s128">
@@ -5546,7 +5545,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">无敌效果。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">无敌效果。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">무적 효과</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Неуязвимость от врагов.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Invencibilidade contra inimigos.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Niewrażliwość na wrogów.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="57.5625" ss:StyleID="s128">
@@ -5561,7 +5560,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">可以破坏彩色方块。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">可以破坏彩色方块。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">컬러 블록 파괴 가능</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Может разбивать хроматические кубы.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Pode destruir Cubos Cromados.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Można niszczyć chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s128">
@@ -5576,7 +5575,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">无法在模拟器中使用。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">无法在模拟器中使用。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">시뮬레이터에서는 이용 불가</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Нельзя использовать в симуляторе Соника.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Não pode ser usado no Sonic Simulator.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Nie można używać w Sonic Simulator.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -5591,7 +5590,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">可下落。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">可下落。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">낙하 가능</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Может упасть в пропасть.</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Pode cair em buracos.</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Można spaść w przepaść.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -5606,9 +5605,10 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">拥有无限加速能力和更高的跳跃能力，&#10;还拥有无敌效果。</Data></Cell>
     <Cell ss:StyleID="s131"><Data ss:Type="String">拥有无限加速能力和更高的跳跃能力，&#10;还拥有无敌效果。</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">무제한 부스트와 높은 점프력&#10;무적 효과를 갖추고 있습니다</Data></Cell>
-    <Cell ss:StyleID="s105"><Data ss:Type="String">Наделяет бесконечным ускорением, повышает высоту прыжка и дает неуязвимость к урону от врагов!</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Garante Boost infinito, pulo aumentado e invencibilidade contra inimigos!</Data></Cell>
     <Cell ss:StyleID="s105"><Data ss:Type="String">Zapewnia nieograniczone turbo, zwiększoną wysokość skoku i niewrażliwość na wrogów!</Data></Cell>
    </Row>
+   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
     <Cell ss:StyleID="s104"/>
     <Cell ss:StyleID="s104"><Data ss:Type="String">options_028</Data></Cell>
