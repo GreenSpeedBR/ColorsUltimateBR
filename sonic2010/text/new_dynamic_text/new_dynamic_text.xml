@@ -6880,7 +6880,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">总用时</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">時間總計</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">총 시간</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Общее время</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Tempo Total</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Całkowity czas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6895,7 +6895,7 @@
     <Cell ss:StyleID="s135"><Data ss:Type="String">自定义</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">自訂</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s135"><Data ss:Type="String">Персонализация</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Customizar</Data></Cell>
     <Cell ss:StyleID="s136"><Data ss:Type="String">Dostosuj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6910,7 +6910,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">手套</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6925,7 +6925,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">鞋子</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6940,7 +6940,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6955,7 +6955,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6970,7 +6970,7 @@
     <Cell ss:StyleID="s137"><Data ss:Type="String">头像</Data></Cell>
     <Cell ss:StyleID="s138"><Data ss:Type="String">頭像</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">아이콘</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Значок</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Ícone</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ikona</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -6985,7 +6985,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">购入</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">購買</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">구입</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Приобрести</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Adquirir</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Nabądź</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
@@ -7000,9 +7000,10 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">装备</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">裝備</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">장착</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Использовать</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Equipar</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Używaj</Data></Cell>
    </Row>
+   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:Height="13.6875" ss:StyleID="s77">
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_019</Data></Cell>
