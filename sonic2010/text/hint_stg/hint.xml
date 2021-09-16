@@ -1007,7 +1007,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">向左移動：[btn_moveleft]&#10;向右移動：[btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">左快步： [btn_moveleft]&#10;右快步： [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">L 스텝: [btn_moveleft]&#10;R 스텝: [btn_moveright]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Passo à esquerda: [btn_moveleft]&#10;Passo à direita: [btn_moveright]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Esquerda: [btn_moveleft]&#10;Direita: [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krok w lewo: [btn_moveleft]&#10;Krok w prawo: [btn_moveright]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1055,7 +1055,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">向左移動：[btn_moveleft]&#10;向右移動：[btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">左快步： [btn_moveleft]&#10;右快步： [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">L 스텝: [btn_moveleft]&#10;R 스텝: [btn_moveright]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Passo à esquerda: [btn_moveleft]&#10;Passo à direita: [btn_moveright]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Esquerda: [btn_moveleft]&#10;Direita: [btn_moveright]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krok w lewo: [btn_moveleft]&#10;Krok w prawo: [btn_moveright]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1087,7 +1087,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">低空跳躍：[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">小跳跃： [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">숏 점프: [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Saltar: [btn_jump]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Salto: [btn_jump]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Krótki skok: [btn_jump]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s67">
@@ -1103,7 +1103,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">長按[btn_jump]&#10;就可以使出旋轉衝撞！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">长按[btn_jump]&#10;就可以进行旋转冲撞！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">[btn_jump]을 길게 누르면&#10;스핀 어택이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Aguente [btn_jump] por mais tempo&#10;para um Spin Attack.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aguente [btn_jump] por mais tempo&#10;para dar um Spin Attack.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij i dłużej przytrzymaj [btn_jump],&#10;by wykonać atak obrotowy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s67">
@@ -1183,7 +1183,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">二段跳：&#10;跳躍時按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">二段跳：&#10;跳跃中按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">2단 점프:&#10;점프 중에 [btn_jump]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Pulo Duplo: aperte [btn_jump]&#10;no ar</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Pulo Duplo: aperte [btn_jump]&#10;denovo no ar</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Podwójny skok: naciśnij [btn_jump]&#10;w powietrzu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s87">
@@ -1295,7 +1295,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">跳躍時如果出現準心，&#10;只要按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String">在跳跃后出现锁定准星时&#10;按下[btn_jump]</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">점프 후 조준 표시가 떴을 때&#10;[btn_jump]을 누르면</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Se você visualizar uma marcação de mira&#10;enquanto está no ar, aperte [btn_jump] denovo</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Se você visualizar um alvo&#10;enquanto está no ar, aperte [btn_jump] denovo</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jeśli podczas skoku pojawi się kursor nakierowania,&#10;naciśnij jeszcze raz [btn_jump],</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s87">
@@ -1327,7 +1327,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">追蹤攻擊：&#10;出現準心時按下[btn_homing]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">追踪攻击：&#10;锁定后按下[btn_homing]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">호밍 어택:&#10;조준 중에 [btn_homing]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Homing Attack: [btn_homing]&#10; quando estiver mirando</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Homing Attack: [btn_homing]&#10; quando ver um alvo</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Atak naprowadzany: naciśnij [btn_homing]&#10;podczas nakierowania</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s88">
@@ -1359,7 +1359,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">朝牆跳躍就能抓住牆壁，&#10;在跳躍時，按住你想跳躍的方向吧！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">会抓住墙壁，然后转向你想去&#10;的方向，同时按下跳跃键吧！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">매달린 뒤에 뛰고 싶은 방향을&#10;누르면서 점프해!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">E então pressione a direção&#10;que você quer pular denovo!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">E então pressione a direção&#10;que você quer ir!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">a następnie naciśnij odpowiedni&#10;kierunek, by skoczyć jeszcze raz!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s88">
@@ -1535,7 +1535,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">在身上有彩色威斯時，&#10;發動彩色變身的話，</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">在拥有彩色威斯时&#10;进行五彩变身</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">컬러 위스프를 들고 있을 때&#10;컬러즈 체인지를 하면</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Se você mudar de forma quando&#10;tiver um Wisp Colorido</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Se você mudar de forma quando&#10;tiver um Wisp,</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Jeśli zmienisz formę, kiedy posiadasz&#10;kolorowego wispa,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s102">
@@ -1615,7 +1615,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">身上有金黃威斯時，&#10;可以挖掘地面或彩色方塊喔！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">如果拥有金黄威斯，可以挖开地面或&#10;彩色立方体前进。</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">옐로 위스프를 들고 있으면 땅속이나&#10;컬러 큐브를 파면서 달릴 수 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o Wisp Amarelo para cavar no chão macio e em Cubos Croma.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o Wisp Amarelo para cavar no chão macio e em Cubos Cromados.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Użyj żółtego wispa, aby przewiercić się przez miękkie podłoże oraz chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s101">
@@ -1631,7 +1631,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">消耗量表進行加速的話，&#10;就可以跑得更快喔！</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">如果消耗能量槽，&#10;可以加速前进。</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">게이지를 사용해 부스트를 쓰면&#10;더 빨리 달릴 수 있어</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o Boost para gastar energia extra e ir mais rápido!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Use o Boost para gastar energia extra e cavar mais rápido!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Użyj turbo, aby zużyć energię i poruszać się szybciej!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1743,7 +1743,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">飛躍移動：[btn_move]&#10;飛躍降落：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">飞跃移动：[btn_move]&#10;飞跃下落：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">다이빙 이동: [btn_move]&#10;다이빙 낙하: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Movimento na queda: [btn_move]&#10;Maior velocidade na queda: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Movimento na queda: [btn_move]&#10;Aceleração na queda: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ruch podczas nurkowania: [btn_move]&#10;Nur w dół: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1839,7 +1839,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">就會變成有著狂暴力量的&#10;紫色狂魔！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">就能变为拥有&#10;狂暴力量的紫色狂暴！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">폭주하는 힘을 가진&#10;퍼플 프렌지로 변해!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Para entrar no modo Frenesi!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Para entrar na Forma Frenzy!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">by przybrać berserkerską formę szału!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -1919,7 +1919,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">金環衝刺：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">金环冲刺：[btn_boost]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">링 대시: [btn_boost]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Seguir anéis: [btn_boost]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Seguir Anéis: [btn_boost]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Skok pierścieniowy: [btn_boost]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s101">
@@ -1951,7 +1951,7 @@
     <Cell ss:StyleID="s94"><Data ss:Type="String">就會變成可以改變&#10;天藍道具的天藍方塊！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">就能变为可以变化&#10;蔚蓝道具的蔚蓝立方！</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">블루 아이템을 변화시키는&#10;블루 큐브로 변해!</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Ondas de choque desse poder irão destruir inimigos, e quebrar Cubos Croma!</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ondas de choque desse poder irão destruir inimigos, e quebrar Cubos Cromados!</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Fale uderzeniowe zadają obrażenia&#10;wrogom i rozbijają chromatyczne kostki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s102">
@@ -1967,7 +1967,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Toda vez que você bater no chão, anéis azuis ⇔ blocos azuis</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Toda vez que você bater no chão, anéis azuis ⇔ blocos azuis.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">W formie kostki:&#10;Niebieskie pierścienie ⇔ niebieskie kostki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s102">
@@ -2063,7 +2063,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">在推動箱子時按下[btn_boost]&#10;就可以把箱子踢走！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">推箱子的时候按[btn_boost]&#10;还可以把它踢开哦！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">밀 때 [btn_boost]을&#10;누르면 찰 수 있어!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_boost] enquanto empurra algo&#10;para chutá-lo.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_boost] enquanto empurra algum objeto&#10;para chutá-lo.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_boost] podczas pchania,&#10;aby kopnąć.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -2079,7 +2079,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">看來這裡必須&#10;利用追蹤攻擊通過！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这里要用追踪攻击&#10;才能跨越！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">여기는 호밍 어택을 사용해서&#10;건너가는 곳이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Você pode passar por aqui&#10;usando o Homing Attack!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Você pode passar por aqui&#10;usando um Homing Attack!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Możesz przedostać się przy użyciu&#10;ataku naprowadzanego!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -2095,7 +2095,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">看到準心之後，&#10;就按下[btn_homing]！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">看一眼锁定准星，&#10;然后按下[btn_homing]吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">조준 표시를 확인한 뒤에&#10;[btn_homing]을 눌러!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Assim que você ver a mira,&#10;aperte [btn_homing]!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Assim que você ver o alvo,&#10;aperte [btn_homing]!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Kiedy pojawi się kursor nakierowania,&#10;naciśnij [btn_homing]!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s102">
@@ -2607,7 +2607,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">他是雪白威斯，&#10;具有加速的能力。</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">它是雪白威斯，&#10;拥有加速能量。</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">얘는 화이트 위스프&#10;부스트 능력을 갖고 있어</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Esses são Wisps Brancos! Eles te&#10;dão energia de boost.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Esses são Wisps Brancos! Eles te&#10;dão Energia de Boost.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">To białe wispy! Przekazują ci&#10;energię turbo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -3231,7 +3231,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">2…雙方身上都有彩色威斯</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">2…两人都用有缤纷威斯</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">2. 둘 다 컬러 위스프를&#10;가지고 있을 것</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">2) Ambos possuem Wisps Coloridos</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">2) Ambos possuem Wisps equipados</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">2) Macie kolorowego wispa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s133">
@@ -3423,7 +3423,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">這個老大的弱點是中間的臉！</Data></Cell>
     <Cell ss:StyleID="s107"><Data ss:Type="String">这个头目的弱点是中间的脸！</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">이 보스는 가운데에 있는 얼굴이&#10;약점이야!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Seu pronto fraco é seu rosto,&#10;bem ali no meio!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Seu pronto fraco é o rosto,&#10;bem ali no meio!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jego słaby punkt to twarz, tam&#10;na środku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s133">
@@ -3551,7 +3551,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">這個老大的弱點是中間的臉！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">这个头目的弱点是中间的脸！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">이 보스는 가운데에 있는 얼굴이&#10;약점이야!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Seu ponto fraco é o rosto,&#10;bem no meio!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Seu ponto fraco é o rosto,&#10;bem ali no meio!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Jego słaby punkt to twarz, tam&#10;na środku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s133">
@@ -3583,7 +3583,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">如果不想辦法破壞這艘潛水艇，&#10;老大的本體就不會出現！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">要是不先破坏这艘潜水艇&#10;头目本体就不会出现！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">이 잠수함을 처리하지 않으면&#10;보스의 본체가 드러나지 않아!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Esse cara não vai se mostrar&#10;até você se livrar desse submarino!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Esse cara não vai se mostrar&#10;até você se livrar daquele submarino!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Esse cara não vai se mostrar até&#10;você detonar aquele submarino!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s133">
@@ -3679,7 +3679,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">索尼……蛋頭博士……會用……&#10;黑暗威……的力量……小心……</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">索尼……蛋头博士……会用黑暗威……&#10;力量……袭击……小心……</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">소닉… 에그맨은… 다크 위…&#10;힘… 쓰니까… 조심……</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Soni... Eggman está...&#10;..ando Wisps-Ne… podero…&#10;Cuidado! Ele…</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Soni... Eggman está...&#10;..ando Wisps Ne… podero…&#10;Cuidado! Ele…</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Sonic… Eggman two…&#10;negawi… potężne&#10;Uważaj! On…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s133">
@@ -3695,7 +3695,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">看準時機按下 [btn_jump]，&#10;就可以加速喔。</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">看准时机按下[btn_jump]&#10;便可以加速！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">타이밍에 맞춰 [btn_jump]을&#10;누르면 부스트를 쓸 수 있어</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Aperte [btn_jump] no ponto certo da mira para ter um Boost!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Aperte [btn_jump] no ponto fraco do alvo para ter um Boost!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_jump] w środku kursora nakierowania, by otrzymać turbo!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s133">
@@ -3711,7 +3711,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">試著在準心閃爍時&#10;使用追蹤攻擊吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">在锁定准星闪烁时&#10;释放追踪攻击吧！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">조준 표시가 깜빡이면&#10;호밍 어택을 해 보자!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Aperte [btn_homing] quando a mira piscar para dar um Homing Attack perfeito.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Aperte [btn_homing] quando o alvo piscar para dar um Homing Attack perfeito.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Kiedy kursor nakierowania miga, naciśnij [btn_homing], by wykonać idealny atak naprowadzany.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s139">
@@ -3775,7 +3775,7 @@
     <Cell ss:StyleID="s75"><Data ss:Type="String">看到有墜落標誌的地方，&#10;要小心不要掉下去喔。</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">在有坠落标志的地方&#10;一定要当心，不要掉下去哦！</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">낙하 표시가 있는 곳에서는&#10;떨어지지 않도록 조심해</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Fique atento para ver placas de&#10;cuidado para possíveis perigos.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Fique atento ao ver placas de&#10;cuidado para possíveis perigos.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Rozglądaj się za znakami ostrzegającymi&#10;przed ryzykiem upadku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s133">
@@ -3791,7 +3791,7 @@
     <Cell ss:StyleID="s75"><Data ss:Type="String">從這裡掉下去會很危險，&#10;小心一點！</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">在这里掉下去会很危险，&#10;千万要小心！</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">여기서 떨어지면 위험하니까&#10;조심해!</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Não caia. Não há nenhum chão para aterrissar lá.</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Não caia. Não há nenhum chão para aterrissar aí.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Nie spadnij. Nie ma tu na czym wylądować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s144">
@@ -4942,7 +4942,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">就會變成可以鑽入地面&#10;和彩色磚塊的金黃鑽頭！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">就能变为可以挖开地面或彩色方块&#10;前进的金黄钻头！</Data></Cell>
     <Cell ss:StyleID="s154"><Data ss:Type="String">지면이나 컬러 블록을 파고 달리는&#10;옐로 드릴로 변해!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">para cavar chão macio&#10;e em Cubos Croma!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">para cavar chão macio&#10;e em Cubos Cromados!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">aby przewiercić się przez miękką ziemię&#10;i chromatyczne kostki!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s150">
@@ -5070,7 +5070,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">天藍方塊的衝擊力&#10;可以破壞敵人和彩色磚塊。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">蔚蓝立方的冲击&#10;可以破坏敌人或彩色方块。</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">블루 큐브의 충격으로&#10;적이나 컬러 블록을 부술 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Ondas de choque na Forma de Cubo irão destruir Cubos Croma e inimigos próximos.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ondas de choque na Forma de Cubo irão destruir Cubos Cromados e inimigos próximos.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Fale uderzeniowe formy kostki rozbijają chromatyczne kostki&#10;i zadają obrażenia pobliskim wrogom.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75" ss:StyleID="s150">
@@ -6206,7 +6206,7 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">當準心亮起綠光時，&#10;就是按下[btn_jump]的最佳時機。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">当锁定准星亮起绿光时，&#10;便是按下[btn_jump]的最佳时机。</Data></Cell>
     <Cell ss:StyleID="s154"><Data ss:Type="String">조준 표시가 녹색으로 빛날 때&#10;[btn_jump]을 누릅시다</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Aperte [btn_jump] quando a mira estiver verde para acertar o ponto fraco do inimigo.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Aperte [btn_jump] quando o alvo estiver verde para acertar o ponto fraco do inimigo.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Naciśnij [btn_jump], gdy wskaźnik namierzenia świeci na zielono, aby trafić w czuły punkt wroga.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s65">
