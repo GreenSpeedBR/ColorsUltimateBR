@@ -1391,7 +1391,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">奔跑時按下[btn_sliding]&#10;就可以滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">奔跑时按下[btn_sliding]&#10;就能滑行！</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">달리면서 [btn_sliding]을&#10;누르면 슬라이딩이야!</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_sliding] enquanto corre para&#10;Deslizar!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aperte [btn_sliding] enquanto corre para&#10;um slide!</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Naciśnij [btn_sliding] podczas biegu,&#10;aby się ślizgać!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s101">
@@ -1423,7 +1423,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">滑行：&#10;移動時按下[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">滑行：&#10;移动时按[btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">슬라이딩:&#10;이동하면서 [btn_sliding]</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Deslizar: [btn_move] + [btn_sliding]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Slide: [btn_move] + [btn_sliding]</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Ślizg: [btn_move] + [btn_sliding]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s101">
@@ -6126,7 +6126,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">用滑行滑過去！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">利用滑行滑进去！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩으로 들어가!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa deslizar para passar por aí.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa usar o slide para passar por aí.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz wykonać ślizg, aby się pod to dostać. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6142,7 +6142,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">可以用滑行到另一邊喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">利用滑行就能到对面去。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩으로 건너편으로 갈 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa deslizar para chegar no outro lado. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa usar um slide para chegar no outro lado. </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz wykonać ślizg, aby się dostać na drugą stronę. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
