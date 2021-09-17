@@ -5438,7 +5438,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">會變成怎樣的競速呢？真令人期待！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">到底会是一场怎样的竞速呢？好期待！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">어떤 레이스가 될지 기대되는걸?</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Essa corrida vai ser divertida de ver.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Essa corrida vai ser divertida de se ver.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">To będzie pasjonujący wyścig.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5646,7 +5646,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">太棒了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">干得漂亮！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">해냈구나!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Você conseguiu! </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você conseguiu!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Dałeś radę! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -5726,7 +5726,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">居然還能刷新紀錄，真是不敢相信……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">居然刷新纪录了，难以置信……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">기록 경신이라니, 굉장하다…</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu não achei que era possível você ficar ainda mais rápido.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eu não achei que seria possível você ficar ainda mais rápido.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Nie sądziłem, że możesz być jeszcze szybszy! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -5998,7 +5998,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">很帥耶！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">很帅！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">멋있다!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Muito legal!</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Muito daora!</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Fajne! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6126,7 +6126,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">用滑行滑過去！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">利用滑行滑进去！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩으로 들어가!</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa usar o Slide para passar por aí.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa dar o Slide para passar por aí.</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz wykonać ślizg, aby się pod to dostać. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s65">
@@ -6142,7 +6142,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">可以用滑行到另一邊喔。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">利用滑行就能到对面去。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슬라이딩으로 건너편으로 갈 수 있어</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa usar um Slide para chegar no outro lado. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Você precisa dar um Slide para chegar no outro lado. </Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Musisz wykonać ślizg, aby się dostać na drugą stronę. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s65">
@@ -6459,7 +6459,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">打倒敵人後會恢復少許量表&#10;以連續打倒敵人為目標吧</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">打倒敌人时会少量恢复能量槽。  &#10;以连续COMBO为目标，不断打倒敌人吧！</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">적을 쓰러뜨리면 게이지가 조금씩 회복됩니다&#10;연속 콤보를 노려 봅시다</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Ao atacar com sucesso, você irá ganhar mais Energia Fantasma, então tente fazer ataques consecutivos.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Ao atacar, você irá ganhar mais Energia Fantasma, então tente fazer ataques consecutivos.</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Po udanym ataku odzyskasz część energii ducha,&#10;dlatego warto łączyć ataki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6519,7 +6519,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">可以在不失去金環的情況下&#10;在安全的地方再次開始</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">可以避免失去金环，&#10;并从安全的地方重新开始。</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">링을 잃지 않고&#10;안전한 곳에서 재개할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Voê irá aterrissar em um local seguro e sem perder anéis!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Você irá aterrissar em um local seguro e sem perder anéis!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Pojawisz się w bezpiecznym miejscu i zachowasz wszystkie pierścienie!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6549,7 +6549,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">自訂索尼克造型</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">自定义索尼克的外观</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">소닉 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Mudando a aparência do Sonic</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Mudando a Aparência do Sonic</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Zmiana wyglądu Sonica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6564,7 +6564,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">打開自訂選單看看有哪些道具可以購買吧！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">来看一看自定义菜单里都有些什么好东西可以买吧。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">커스터마이즈 메뉴에서 구입할 수 있는 아이템을 확인해 보자</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Agora que você tem alguns Park Tokens, vamos olhar os itens que você pode comprar no menu de &quot;Customização&quot;.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Agora que você tem alguns Park Tokens, vamos olhar os itens que você pode comprar no menu &quot;Customizar&quot;.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Masz już trochę parkowych żetonów, zobaczmy przedmioty, które można kupić w menu Dostosuj.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6594,7 +6594,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">有可以購買的道具喔！&#10;趕快試著購買看看吧！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">这里的东西你应该能买下来，&#10;赶快把它收入囊中吧。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">살 수 있는 아이템이 있나 봐&#10;지금 바로 구입해 보자</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Ei, tem um que você pode comprar. Poderia testar ele?</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Ei, tem um que você pode comprar. Gostaria testar ele?</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">O, to można kupić. Może spróbujesz?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6609,7 +6609,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">在自訂畫面中&#10;可以隨時更換購買過的道具喔！</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">你可以在自定义里随时换上已经购买的道具。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">한번 구입해 놓으면 언제든 바꿔서 장착할 수가 있어&#10;커스터마이즈에서 선택만 하면 돼</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Ao comprar um item, você pode colocá-lo a qualquer momento. Apenas volte aqui na página de &quot;Customizar&quot;, selecione o item para equipá-lo, assim como você fez com o ícone.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Ao comprar um item, você pode colocá-lo a qualquer momento. Apenas volte aqui na página &quot;Customizar&quot;, selecione o item para equipá-lo, assim como você fez com o ícone.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Z kupionego przedmiotu można zacząć korzystać w dowolnym momencie. Wystarczy przejść do strony Dostosuj, wybrać przedmiot, który ma być używany, tak jak przed chwilą w przypadku ikony.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6638,7 +6638,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">碧綠鬼魂可以在空中浮游&#10;還可以攻擊牆壁另一端的敵人</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">碧绿鬼魂可漂浮在空中，&#10;还可以攻击墙壁另一侧的敌人。</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">제이드 고스트는 공중을 부유할 수 있고&#10;벽 너머에 있는 적도 공격할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Na Forma Fantasma, você pode voar por aí e atacar inimigos.&#10;Você pode até acertar inimigos por objetos sólidos.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Na Forma Fantasma, você pode voar por aí e atacar inimigos.&#10;Você pode até acertar inimigos entre objetos sólidos.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">W formie ducha możesz latać i atakować wrogów.&#10;Możliwe jest nawet nakierowywanie się na wrogów przez przedmioty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6652,7 +6652,7 @@
     <Cell ss:StyleID="s153"><Data ss:Type="String">打倒敵人後會恢復少許量表</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">打倒敌人时会少量恢复能量槽。  </Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">적을 쓰러뜨리면 게이지가 조금씩 회복될거야</Data></Cell>
-    <Cell ss:StyleID="s153"><Data ss:Type="String">Ganhe Energia Fantasma a cada vez que atacar um inimigo.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">Ganhe Energia Fantasma cada vez que atacar um inimigo.</Data></Cell>
     <Cell ss:StyleID="s153"><Data ss:Type="String">Otrzymuj energię ducha za każdy&#10;udany atak z rzędu na przeciwnika.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
