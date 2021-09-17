@@ -4188,3 +4188,39 @@ sonic2010/dvd_builder_image/sonic2010 1.0/Boss_02fct.arc
 sonic2010/dvd_builder_image/sonic2010 1.0/Boss_01rso.arc
 sonic2010/dvd_builder_image/sonic2010 1.0/actstgmission.lua
 sonic2010/dvd_builder_image/sonic2010 1.0/actstgdata.lua
+sonic2010/text/new_dynamic_text/convert.bat
+sonic2010/text/new_dynamic_text/xtb/ChineseSimplified/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/ChineseSimplified/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/ChineseTraditional/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/ChineseTraditional/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/English (UK)/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/English/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/English/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/French/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/French/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/German/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/German/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Italian/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Italian/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Japanese/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Japanese/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Korean/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Korean/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Polish/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Polish/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Russian/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Russian/new_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Spanish/achievement_dynamic_text_text.xtb
+sonic2010/text/new_dynamic_text/xtb/Spanish/new_dynamic_text_text.xtb
+sonic2010/text/warning/convert.bat
+sonic2010/text/warning/xtb/ChineseSimplified/warning_text.xtb
+sonic2010/text/warning/xtb/ChineseTraditional/warning_text.xtb
+sonic2010/text/warning/xtb/English/warning_text.xtb
+sonic2010/text/warning/xtb/French/warning_text.xtb
+sonic2010/text/warning/xtb/German/warning_text.xtb
+sonic2010/text/warning/xtb/Italian/warning_text.xtb
+sonic2010/text/warning/xtb/Japanese/warning_text.xtb
+sonic2010/text/warning/xtb/Korean/warning_text.xtb
+sonic2010/text/warning/xtb/Polish/warning_text.xtb
+sonic2010/text/warning/xtb/Russian/warning_text.xtb
+sonic2010/text/warning/xtb/Spanish/warning_text.xtb
