@@ -847,7 +847,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">称霸水族馆</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">稱霸海洋公園</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">아쿠아리움 파크 제패</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Balde de sushi</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Baldão de Sushi</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Hurtownia Sushi</Data></Cell>
     <Cell ss:Index="16" ss:StyleID="s75"/>
     <Cell ss:StyleID="s75"/>
@@ -1137,7 +1137,7 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">红光闪耀的无限之力</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">閃耀紅光的無限之力</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">붉게 빛나는 무한의 힘</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">Цвет страсти</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vermelho, vermelhaço</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Czerwony jak cegła</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -1201,7 +1201,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">蓝光闪耀的无限之力</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">閃耀藍光的無限之力</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">파랗게 빛나는 무한의 힘</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Синий, синий иней…</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Céu Azul</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Cienka niebieska linia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="Default">
@@ -1217,7 +1217,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">获得蓝色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">獲得藍色的Chaos Emerald</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">파란색 카오스 에메랄드를 입수</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Colete a Esmeralda do Caos azul escura</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Colete a Esmeralda do Caos azul</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Zbierz niebieski Szmaragd Chaosu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="Default">
