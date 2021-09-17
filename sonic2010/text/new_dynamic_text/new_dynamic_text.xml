@@ -8110,7 +8110,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">提示环能告诉你各种&#10;攻略游戏时必要的情报。</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">提示金環會告訴玩家&#10;各種攻略遊戲時所需的資訊。</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">힌트 링은 게임 공략에 필요한&#10;다양한 정보를 알려줍니다</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Кольца подсказок содержат полезную информацию об игре.</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Hint Rings vão te dizer informações fundamentais ao longo do jogo.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Pierścienie pomocy przekazują najważniejsze informacje podczas rozgrywki.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8125,7 +8125,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">辅助游玩</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">輔助遊玩</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">어시스트 플레이</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Помощь в игре</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Jogada Assistida</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Gra z wsparciem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8140,7 +8140,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">超级简单模式：&#10;不擅长操作的玩家也能享受游戏的模式。&#10;拥有无限的塔尔斯救援次数和无敌状态，&#10;并且在同一位置失败一定次数后，&#10;可以直接跳过该位置。</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">超簡單模式：&#10;遊玩時可以無限使用&#10;塔爾斯救援和無敵狀態。&#10;此外，若在同一地方不斷失敗，&#10;也可以選擇跳過卡關的地方。&#10;即使不擅長玩遊戲也不用擔心。</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">초간단 모드:&#10;게임에 익숙하지 않은 사람도 즐길 수 있도록&#10;무제한으로 테일즈 세이브를 사용하거나 무적 상태로&#10;플레이할 수 있으며 반복해서 실패하는&#10;구간이 스킵 됩니다</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Очень низкая сложность:&#10;&#10;Получи удовольствие от игры благодаря бесконечным спасениям от Тейлза, неуязвимости и возможности перенестись на следующую точку спасения от Тейзла после нескольких неудачных попыток.</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Dificuldade Super Fácil: Aproveite o jogo com Tails-Saves infinitos, invencibilidade e depois de algumas falhas na mesma área você será levado para o próximo ponto de um Tails-Save.</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Bardzo niski poziom trudności:&#10;&#10;Ciesz się grą z nieskończoną pomocą Tailsa, niewrażliwością i powrotem do ostatniego punktu zapisu Tailsa po określonej liczbie nieudanych prób na tym samym obszarze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8170,7 +8170,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">评级</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">階級</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">랭크</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ранг</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Rank</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Ranga</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8185,7 +8185,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">时间</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">時間</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">시간</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Время</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Tempo</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Czas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8200,7 +8200,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">得分</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">得分</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">스코어</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Счет</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Pontuação</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Wynik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8215,7 +8215,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">玩家</Data></Cell>
     <Cell ss:StyleID="s106"><Data ss:Type="String">玩家</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Игрок</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Jogador</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Gracz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8230,7 +8230,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">小时</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">小時</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">시</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ч.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Hora</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">godz.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8245,7 +8245,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">小时</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">小時</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">시</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ч.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Horas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">godz.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8260,7 +8260,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">分</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">分鐘</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">분</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">мин.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Minuto</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">min</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8275,7 +8275,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">分</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">分鐘</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">분</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">мин.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Minutos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">min</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8290,7 +8290,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">秒</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">秒</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">초</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">сек.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Segundo</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">s</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s145">
@@ -8305,7 +8305,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">秒</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">秒</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">초</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">сек.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Segundos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">s</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8320,7 +8320,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">敏捷的蓝色刺猬飞跃邪恶的蛋头博士</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">索尼克對抗蛋頭博士！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">재빠른 파란 고슴도치는 사악한 에그맨을 뛰어넘는다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Быстрый синий еж перепрыгнул через подлого Эггмана.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">O veloz ouriço azul pulou sob o maléfico Eggman.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Szybki, niebieski jeż przeskoczył złowieszczego Eggmana.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8350,7 +8350,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">确定应用该设置吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">確定要儲存現在的設置嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이 설정으로 결정하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Оставить эти настройки экрана?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Você gostaria de manter essas configurações?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chcesz zachować te ustawienia ekranu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
@@ -8365,7 +8365,7 @@
     <Cell><Data ss:Type="String">确定</Data></Cell>
     <Cell><Data ss:Type="String">確定</Data></Cell>
     <Cell><Data ss:Type="String">결정</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Оставить</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Manter</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zachowaj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -8380,7 +8380,7 @@
     <Cell><Data ss:Type="String">返回</Data></Cell>
     <Cell><Data ss:Type="String">還原</Data></Cell>
     <Cell><Data ss:Type="String">되돌리기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Восстановить</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Reverter</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Cofnij</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8395,7 +8395,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">距自动还原还有：</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">距離自動還原還剩：</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">자동 복원까지:</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Автоматическое восстановление через</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Reverter automáticamente em</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Automatyczne cofnięcie za</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8410,7 +8410,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">下蹲&#10;滑行&#10;下坠攻击</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">下蹲&#10;滑行&#10;下墜攻擊</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">웅크리기&#10;슬라이딩&#10;스톰핑</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Присесть / Скользить / Растоптать</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Agachar / Rasteira / Stomp</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Kucnięcie / Ślizg / Naskok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8425,9 +8425,10 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">漂移</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">甩尾</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">드리프트</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Дрифт</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Drift</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Drift</Data></Cell>
    </Row>
+   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">optsat_110</Data></Cell>
