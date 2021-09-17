@@ -1656,7 +1656,7 @@
     <Cell ss:StyleID="s69"/>
     <Cell ss:StyleID="s69"><Data ss:Type="String">achievement_059</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">プラネット ウィスプの達成度１００％</Data></Cell>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">Conclua 100% da Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Get 100% In Planet Wisp</Data></Cell>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Obtiens 100 % dans Planet Wisp</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Raggiungi il 100% in Planet Wisp</Data></Cell>
@@ -1665,7 +1665,7 @@
     <Cell ss:StyleID="s74"><Data ss:Type="String">派勒那威斯完成度100%</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">派勒那威斯的達成度達到100%</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">플래닛 위스프의 달성도 100%</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Завершить «Плэнет Висп» на 100%</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Conclua 100% da Planet Wisp</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Osiągnij 100% na poziomie Planet Wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
