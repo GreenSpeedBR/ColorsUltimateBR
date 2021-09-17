@@ -7930,7 +7930,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">输入：</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">輸入：</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">입력: </Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Input: </Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Botão: </Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wejście: </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8428,7 +8428,6 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Drift</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Drift</Data></Cell>
    </Row>
-   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">optsat_110</Data></Cell>
@@ -8441,7 +8440,7 @@
     <Cell ss:StyleID="s154"><Data ss:Type="String">更换协助角色</Data></Cell>
     <Cell ss:StyleID="s155"><Data ss:Type="String">更換支援角色</Data></Cell>
     <Cell ss:StyleID="s155"><Data ss:Type="String">어시스트 체인지</Data></Cell>
-    <Cell ss:StyleID="s156"><Data ss:Type="String">Рокировка</Data></Cell>
+    <Cell ss:StyleID="s156"><Data ss:Type="String">Troca assistida</Data></Cell>
     <Cell ss:StyleID="s156"><Data ss:Type="String">Asystowana zmiana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8456,7 +8455,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">无边框全屏</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">無邊框全螢幕</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">전체화면 모드</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Оконный режим без полей</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Tela Cheia sem Bordas</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Pełny ekran bez ramek</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8471,7 +8470,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">还原设置</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">回復設定</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">설정 되돌리기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">VOLTAR TUDO AO PADRÃO</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">RESETUJ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8486,7 +8485,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">在极速竞争者中胜利[##]次</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">在勁敵對決中獲勝[##]次</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">라이벌 러시에서 [##]회 승리하기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Чтобы открыть, пройди испытания «Гонка с соперником» [##] р.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Vença [##] desafios de Rival Rush para desbloquear.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Wygrywaj wyzwania starcia rywali ([##]), aby odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s145">
@@ -8501,7 +8500,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">战胜竞争者 [##] 次</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">贏過勁敵 [##] 次</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">라이벌에게 [##] 회 승리하기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Победи в гонках [##] р.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Vença [##] corridas de Rival Rush para desbloquear.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Wygraj wyścigi ([##]).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8516,7 +8515,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">战胜竞争者[##]次</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">贏過勁敵[##]次</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">레이스에서 [##]회 승리하기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Победи в гонках [#] р.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Vença [#] corrida de Rival Rush para desbloquear..</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Wygraj wyścig ([#]).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8531,7 +8530,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">该按键已使用。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">已套用此設置。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이미 사용 중입니다</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Этот вариант уже используется.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Esse botão já está em uso.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ten przycisk jest już w użyciu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8546,7 +8545,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要继续吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">確定要繼續嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">계속하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Продолжить?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Continuar?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Kontynuować?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8561,7 +8560,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要重新设置吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要重新設置嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">설정을 다시 하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Отвязать и переназначить?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Remover e reatribuir?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Usunąć powiązanie i przypisać nowe?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8576,7 +8575,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要再次设置吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要再次設置嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">재설정하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Переназначить?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Reatribuir?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przypisać ponownie?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8591,7 +8590,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">恢复初始设置</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">還原初始設置</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">디폴트로 되돌리기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Восстановить по умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Voltar ao padrão</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Resetuj do domyślnych</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8606,7 +8605,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要恢复初始设置吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要還原初始設置嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">디폴트로 되돌리시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Восстановить по умолчанию?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Voltar ao padrão?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zresetować do domyślnych?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8621,7 +8620,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">纪录</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">紀錄</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">기록</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Рекорды</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">RECORDES</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">REKORDY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8636,7 +8635,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">解锁：</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">解鎖：</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">잠금 해제:</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Открыто следующее:</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Você desbloqueou:</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odblokowano następujące nagrody:</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8651,7 +8650,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">完成[area_act]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">完成[area_act]</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">[area_act] 완료</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Чтобы открыть, заверши уровень «[area_act]»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Complete a [area_act] para desbloquear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończ [area_act], aby odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8666,7 +8665,7 @@
     <Cell ss:StyleID="s158"><Data ss:Type="String">完成[area_act]或[area_act]</Data></Cell>
     <Cell ss:StyleID="s159"><Data ss:Type="String">完成[area_act]或[area_act]</Data></Cell>
     <Cell ss:StyleID="s159"><Data ss:Type="String">[area_act] 또는 [area_act] 완료</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Чтобы открыть, пройди уровень «[area_act]» или «[area_act]»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Complete a [area_act] ou a [area_act] para desbloquear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończ [area_act] lub [area_act], aby odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8681,7 +8680,7 @@
     <Cell ss:StyleID="s158"><Data ss:Type="String">字幕语言</Data></Cell>
     <Cell ss:StyleID="s159"><Data ss:Type="String">字幕語言</Data></Cell>
     <Cell ss:StyleID="s159"><Data ss:Type="String">자막 언어</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Язык субтитров</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Idioma das Legendas</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Język napisów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8696,7 +8695,7 @@
     <Cell ss:StyleID="s158"><Data ss:Type="String">通过[area_act]1个关卡</Data></Cell>
     <Cell ss:StyleID="s159"><Data ss:Type="String">通過任意1個[area_act]關卡</Data></Cell>
     <Cell ss:StyleID="s159"><Data ss:Type="String">[area_act] 1 스테이지 클리어</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Чтобы открыть, заверши любой «[area_act]»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Complete qualquer [area_act] para desbloquear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończ dowolny [area_act], aby odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8711,7 +8710,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">解锁超级索尼克</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">解鎖超級索尼克</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">슈퍼 소닉을 잠금 해제</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Чтобы открыть, разблокируй Суперсоника</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Desbloqueie o Super Sonic para desbloquear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odblokuj Super Sonica, aby odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8726,7 +8725,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">选项</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">選項</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">설정</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ПАРАМЕТРЫ</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">OPÇÕES</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">OPCJE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8741,7 +8740,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">键盘</Data></Cell>
     <Cell><Data ss:Type="String">鍵盤</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">키보드</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Клавиатура</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Teclado</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Klawiatura</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8756,7 +8755,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">控制器</Data></Cell>
     <Cell><Data ss:Type="String">控制器</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">컨트롤러</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Контроллер</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Controle</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Kontroler</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8771,7 +8770,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">要继续吗？</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">確定要繼續嗎？</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">계속하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Продолжить?</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Continuar?</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kontynuować?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8786,7 +8785,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">塔尔斯救援</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">塔爾斯救援</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">테일즈 세이브</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Спасения Тейлза</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Tails-Saves</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pomoc Tailsa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8801,7 +8800,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以自定义&#10;玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">可自訂玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어2의 컨트롤러를&#10;커스터마이즈할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Теперь можно настроить контроллер игрока&#160;2!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Agora você pode customizar os controles do Jogador 2!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Teraz możesz dostosować kontroler gracza 2!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8816,7 +8815,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以自定义&#10;玩家２的手柄</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">可自訂玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어2의 컨트롤러를&#10;커스터마이즈할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Теперь можно настроить контроллер игрока&#160;2!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Agora você pode customizar os controles do Jogador 2!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Teraz możesz dostosować kontroler gracza 2!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8831,7 +8830,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以自定义&#10;玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">可自訂玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어2의 컨트롤러를&#10;커스터마이즈할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Теперь можно настроить геймпад игрока 2!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Agora você pode customizar os controles do Jogador 2!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Teraz możesz dostosować kontroler gracza 2!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8846,7 +8845,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以自定义&#10;玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">可自訂玩家２的控制器</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어2의 컨트롤러를&#10;커스터마이즈할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Теперь можно настроить контроллер игрока&#160;2!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Agora você pode customizar os controles do Jogador 2!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Teraz możesz dostosować kontroler gracza 2!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8861,7 +8860,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">按下[bck_button]&#10;会切换回玩家１</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">按下[bck_button]&#10;便會回到玩家１</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">[bck_button]을 누르면&#10;플레이어1로 돌아갑니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Нажми [bck_button], чтобы вернуться к игроку&#160;1.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aperte [bck_button] para voltar para o Jogador 1.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wciśnij [bck_button], aby wrócić do gracza 1.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8876,7 +8875,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">已增加新的道具</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">增加了新的道具</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">새로운 아이템이 증가했습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Похоже, тебе выпало что-то классное! </Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Parece que você ganhou umas coisinhas legais! </Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Udało ci się zdobyć fajne przedmioty! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8891,7 +8890,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以在设置卫星查看</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以在選項衛星確認</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옵션 새틀라이트로 확인할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Загляни на спутник настроек и посмотри, что именно! </Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Vá para o Satélite de Opções para ver o que é! </Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Przejdź do satelity opcji, aby je przejrzeć! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8906,7 +8905,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以使用新的头像</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">有新的頭像可以使用</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">새로운 아이콘을 이용할 수 있습니다 </Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Доступны новые значки игрока!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Novos Ícones de Usuário disponíveis!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dostępne nowe ikony gracza!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8921,7 +8920,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以使用新的自定义</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">有新的自訂選項可以進行調整</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">새로운 커스터마이즈를 이용할 수 있습니다 </Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Доступны новые косметические предметы!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Novos cosméticos disponíveis!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dostępne nowe przedmioty kosmetyczne!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8936,7 +8935,7 @@
     <Cell ss:StyleID="s160"><Data ss:Type="String">在设置卫星的@optsat_011@画面查看吧</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">到選項衛星的@optsat_011@頁面確認吧</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옵션 새틀라이트의 @optsat_011@ 화면으로 확인할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Увидеть их можно на странице «@optsat_011@» спутника настроек!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Você pode ver eles na página de @optsat_011@» do Satélite de Opções!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Obejrzyj je na stronie @optsat_011@ w satelicie opcji!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8951,7 +8950,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以使用新的音乐</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">有新的音樂可以播放</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">새로운 음악을 이용할 수 있습니다 </Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Доступна новая музыка! </Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Nova música disponível! </Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dostępna nowa muzyka! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8966,7 +8965,7 @@
     <Cell ss:StyleID="s160"><Data ss:Type="String">可以在设置卫星的@optsat_034@查看</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">到選項衛星的@optsat_034@頁面確認吧</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옵션 새틀라이트의 @optsat_034@ 화면으로 확인할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ознакомиться можно на странице «@optsat_034@» спутника настроек!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Agora disponível na página de @optsat_034@» do Satélite de Opções!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Teraz dostępna na stronie @optsat_034@ w satelicie opcji!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8981,7 +8980,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以在设置卫星查看</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">可以在選項衛星確認</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옵션 새틀라이트로 확인할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Доступно на спутнике настроек!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Agora disponível no Satélite de Opções!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Teraz dostępne w satelicie opcji!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -8996,7 +8995,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">欢迎来到设置卫星！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">歡迎來到選項衛星！</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옵션 새틀라이트에 오신 걸 환영합니다!</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Добро пожаловать на спутник настроек!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Bem-vindo ao Satélite de Opções!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Witaj w satelicie opcji!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9011,7 +9010,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">在这里可以查看&#10;索尼克的自定义和纪录 更改设定</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">在這裡能夠進行許多事情&#10;如自訂索尼克造型或確認記錄、變更設定等等</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">소닉의 커스터마이즈와&#10;기록 확인 설정 등을 변경할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Здесь можно изменить облик Соника, проверить свой прогресс и поменять настройки игры!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Customize o Sonic, verifique seu progresso e mude as configurações do jogo!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dostosowuj Sonica, sprawdzaj postępy i zmieniaj ustawienia gry!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9026,7 +9025,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">已收集到游戏币&#10;可以购买自定义道具</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">已經收集到足夠的樂園代幣&#10;所以可以購買自訂道具了</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">파크 토큰이 모여서&#10;커스터마이즈 아이템을 구입할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">У тебя достаточно жетонов парка, чтобы открыть предмет для изменения облика Соника. </Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Você coletou Park Tokens o suficiente para desbloquear um item de customização para o Sonic. </Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zebrano wystarczającą liczbę parkowych żetonów, aby odblokować przedmioty dostosowywania dla Sonica. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9042,7 +9041,7 @@
     <Cell ss:StyleID="s160"><Data ss:Type="String">可解锁的道具可在@optsat_011@画面查看</Data></Cell>
     <Cell ss:StyleID="s160"><Data ss:Type="String">可以解鎖的道具能夠至@optsat_011@頁面進行確認</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">잠금 해제할 수 있는 아이템은&#10;@optsat_011@ 화면으로 확인할 수 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Чтобы посмотреть, какие предметы можно открыть, перейди на страницу «@optsat_011@» спутника настроек.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Você pode ver os itens desbloqueaveis na página @optsat_011@ do Satélite de Opções.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Sprawdź nowe przedmioty, które możesz odblokować na stronie @optsat_011@ satelity opcji.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9057,7 +9056,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">结束游戏</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">結束遊戲</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">게임 그만두기</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ВЫЙТИ ИЗ ИГРЫ</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">SAIR DO JOGO</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">OPUŚĆ GRĘ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9072,7 +9071,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">结束游戏</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">結束遊戲</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">게임 그만두기</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ПОКИНУТЬ ИГРУ</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">FECHAR JOGO</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">WYJDŹ Z GRY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9087,7 +9086,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">结束</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">結束</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">그만두기</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ВЫЙТИ</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">SAIR</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">WYJDŹ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9102,7 +9101,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">要结束游戏吗？</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">確定要結束遊戲嗎？</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">게임을 종료하겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ты правда хочешь выйти из игры?</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Você tem certeza que quer sair?</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Czy na pewno chcesz wyjść?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9117,7 +9116,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">要重新开始游戏吗？&#10;会丢失目前为止的游戏进度。</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">要重新進行遊戲嗎？&#10;將會失去至今為止的進度</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">게임을 다시 하겠습니까?&#10;지금까지의 진행 상황은 사라집니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ты правда хочешь перезапустить игру? Весь прогресс будет потерян.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Você tem certeza que quer reiniciar? Todo progresso não salvo será perdido.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Czy na pewno chcesz uruchomić ponownie? Wszelkie postępy zostaną utracone.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9132,7 +9131,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">有@entitlement@可用</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">追加@entitlement@</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">@entitlement@가 있습니다</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Теперь доступно: «@entitlement@»!</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">@entitlement@ agora está disponível!</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">@entitlement@ – już dostępne!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9147,7 +9146,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">结束游戏</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">結束遊戲</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">게임 그만두기</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Покинуть игру</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sair do Jogo</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wyjdź z gry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9162,7 +9161,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">上</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">上</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">위</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Вверх</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Cima</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Góra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9177,7 +9176,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">右</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">右</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">오른쪽</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Вправо</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Direita</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Prawo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9192,7 +9191,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">下</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">下</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">아래</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Вниз</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Baixo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Dół</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9207,7 +9206,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">左</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">左</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">왼쪽</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Влево</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Esquerda</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Lewo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
