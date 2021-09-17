@@ -9221,7 +9221,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">粉红鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">粉紅鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">핑크 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Розовая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Rosados</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Różowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9236,7 +9236,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">翠绿鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">翠綠鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">그린 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Зеленая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Verdes</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zielone buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9251,7 +9251,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">金黄鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">金黃鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옐로 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Желтая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Amarelos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Żółte buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9266,7 +9266,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">橙色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">橙黃鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">오렌지 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Оранжевая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Laranjas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pomarańczowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9281,7 +9281,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">紫色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">紫色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">퍼플 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Фиолетовая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Roxos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fioletowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9296,7 +9296,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">蔚蓝鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">天藍鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">블루 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Синяя обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Azuis</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Niebieskie buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9311,7 +9311,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">海蓝鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">海藍鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">시안 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Бирюзовая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Cianos</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turkusowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9326,7 +9326,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧绿鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧綠鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">제이드 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Изумрудная обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos de Jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Nefrytowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9341,7 +9341,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">金色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">金色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">골드 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Золотая обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Dourados</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Złote buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9356,7 +9356,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">银色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">銀色鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">실버 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Серебряная обувь</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos Prateados</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Srebrne buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9371,7 +9371,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">红色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">赤紅手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">레드 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Красные перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Vermelhas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Czerwone rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9386,7 +9386,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">粉红手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">粉紅手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">핑크 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Розовые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Rosadas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Różowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9401,7 +9401,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">翠绿手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">翠綠手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">그린 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Зеленые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Verdes</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zielone rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9416,7 +9416,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">金黄手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">金黃手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옐로 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Желтые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Amarelas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Żółte rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9431,7 +9431,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">橙色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">橙黃手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">오렌지 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Оранжевые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Laranjas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pomarańczowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9446,7 +9446,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">紫色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">紫色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">퍼플 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Фиолетовые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luxas Roxas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fioletowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9461,7 +9461,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">蔚蓝手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">天藍手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">블루 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Синие перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Azuis</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Niebieskie rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9476,7 +9476,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">海蓝手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">海藍手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">시안 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Бирюзовые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Cianas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turkusowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9491,7 +9491,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧绿手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧綠手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">제이드 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Изумрудные перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas de Jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Nefrytowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9506,7 +9506,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">金色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">金色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">골드 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Золотые перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Douradas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Złote rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9521,7 +9521,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">银色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">銀色手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">실버 장갑</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Серебряные перчатки</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas Prateadas</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Srebrne rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9536,7 +9536,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">暗影加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">黑暗加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">다크 부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Темное ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost Obscuro</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo ciemności</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9551,7 +9551,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">圣光加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">光明加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">라이트 부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Светлое ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost Luminoso</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo jasności</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9566,7 +9566,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">烈焰加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">火焰加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">파이어 부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Огненное ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost Flamejante</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo ognia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9581,7 +9581,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">雷霆加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">電光加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">라이트닝 부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Грозовое ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost Trovejante</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo błyskawicy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9596,7 +9596,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">寒冰加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">冰雪加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">아이스 부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ледяное ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost Glacial</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo lodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9611,7 +9611,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">花卉加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">花卉加速</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플로럴 부스트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Цветочное ускорение</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Boost Florífero</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turbo kwiatów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9626,7 +9626,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">暗影光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">黑暗靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">다크 오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Темная аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura Obscura</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura ciemności</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9641,7 +9641,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">圣光光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">光明靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">라이트 오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Светлая аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura Luminosa</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura jasności</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9656,7 +9656,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">烈焰光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">火焰靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">파이어 오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Огненная аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura Flamejante</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura ognia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9671,7 +9671,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">雷霆光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">電光靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">일렉트릭 오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Электрическая аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura Elétrica</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura elektryczności</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9686,7 +9686,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">寒冰光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">冰雪靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">아이스 오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Ледяная аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura Glacial</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura lodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9701,7 +9701,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">花卉光环</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">花卉靈氣</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플로럴 오라</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Цветочная аура</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Aura Florífera</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura kwiatów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -9746,7 +9746,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">索尼克团队</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Sonic Team</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">소닉 팀</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Команда Соника</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sonic Team</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Drużyna Sonica</Data></Cell>
     <Cell ss:StyleID="s145"/>
    </Row>
@@ -9762,7 +9762,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">纳克</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">納克</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">너클즈</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Наклз</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Knuckles</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Knuckles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9777,7 +9777,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">艾咪</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">艾咪</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">에이미</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Эми</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Amy</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9792,7 +9792,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">夏特</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">夏特</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">섀도우</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Шэдоу</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Shadow</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Shadow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9807,7 +9807,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">小欧</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">小歐</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">오보트</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Орбот</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Orbot</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Orbot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9822,7 +9822,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">小秋</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">小秋</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">큐보트</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Кубот</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Cubot</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Cubot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9837,7 +9837,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">亚克</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">亞克</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">얘커</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Яккер</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Yacker</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Yacker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9852,7 +9852,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">海蓝威斯</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">海藍威斯</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">시안 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Бирюзовый висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Ciano</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turkusowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -9867,7 +9867,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">金黄威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">金黃威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">옐로 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Желтый висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Amarelo</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Żółty wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -9882,7 +9882,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">橙色威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">橙黃威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">오렌지 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Оранжевый висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Laranja</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pomarańczowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -9897,7 +9897,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">蔚蓝威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">天藍威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">블루 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Синий висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Azul</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Niebieski wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -9912,7 +9912,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">翠绿威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">翠綠威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">그린 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Зеленый висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Verde</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zielony wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -9927,7 +9927,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">粉红威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">粉紅威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">핑크 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Розовый висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Rosa</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Różowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -9942,7 +9942,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">紫色威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">紫色威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">퍼플 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Фиолетовый висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Roxo</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fioletowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9957,7 +9957,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧绿威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧綠威斯</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">제이드 위스프</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Изумрудный висп</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp de Jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Nefrytowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9972,7 +9972,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">蛋头兵</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">蛋頭兵</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">에그폰</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Эггпаун</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Egg Pawn</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Egg Pawn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9987,7 +9987,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">蛋头博士</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">蛋頭博士</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">에그맨</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Эггман</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Eggman</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Egg Man</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10001,7 +10001,7 @@
     <Cell><Data ss:Type="String">主题公园</Data></Cell>
     <Cell><Data ss:Type="String">主題樂園</Data></Cell>
     <Cell><Data ss:Type="String">테마파크</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Тематический парк</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Parque Temático</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Park rozrywki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10015,7 +10015,7 @@
     <Cell><Data ss:Type="String">原版</Data></Cell>
     <Cell><Data ss:Type="String">原版</Data></Cell>
     <Cell><Data ss:Type="String">오리지널</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Оригинал</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O Original</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Oryginalny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10029,7 +10029,7 @@
     <Cell><Data ss:Type="String">90年代</Data></Cell>
     <Cell><Data ss:Type="String">90年代</Data></Cell>
     <Cell><Data ss:Type="String">90년대</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Сделано в 1990-х</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Feito nos anos 90</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Z lat 90.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10043,7 +10043,7 @@
     <Cell><Data ss:Type="String">经典</Data></Cell>
     <Cell><Data ss:Type="String">經典</Data></Cell>
     <Cell><Data ss:Type="String">클래식</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Классика</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Clássico</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Klasyczny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10057,7 +10057,7 @@
     <Cell><Data ss:Type="String">缩小</Data></Cell>
     <Cell><Data ss:Type="String">縮小</Data></Cell>
     <Cell><Data ss:Type="String">쇼트 스터프</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Коротышка</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Pequena Coisinha</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Krótki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10071,7 +10071,7 @@
     <Cell><Data ss:Type="String">现代索尼克</Data></Cell>
     <Cell><Data ss:Type="String">摩登索尼克</Data></Cell>
     <Cell><Data ss:Type="String">모던 소닉</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Современный Соник</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sonic Moderno</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Współczesny Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10085,7 +10085,7 @@
     <Cell><Data ss:Type="String">飙速</Data></Cell>
     <Cell><Data ss:Type="String">飆速</Data></Cell>
     <Cell><Data ss:Type="String">GO 퍼스트</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Форсаж</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Acelerando</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Czas na szybkość</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10099,7 +10099,7 @@
     <Cell><Data ss:Type="String">超速度</Data></Cell>
     <Cell><Data ss:Type="String">超級速度</Data></Cell>
     <Cell><Data ss:Type="String">슈퍼 스피드</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Суперскорость</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Super Velocidade</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Superszybkość</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10113,7 +10113,7 @@
     <Cell><Data ss:Type="String">塔尔斯</Data></Cell>
     <Cell><Data ss:Type="String">塔爾斯</Data></Cell>
     <Cell><Data ss:Type="String">테일즈</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Тейлз</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Tails</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Tails</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10127,7 +10127,7 @@
     <Cell><Data ss:Type="String">更胜一筹</Data></Cell>
     <Cell><Data ss:Type="String">下一等級</Data></Cell>
     <Cell><Data ss:Type="String">넥스트 레벨</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">СЛЕДУЮЩИЙ УРОВЕНЬ</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O Próximo Nível</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">NOWY POZIOM</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10169,7 +10169,7 @@
     <Cell><Data ss:Type="String">蓝色残影</Data></Cell>
     <Cell><Data ss:Type="String">藍色殘影</Data></Cell>
     <Cell><Data ss:Type="String">블루 블러</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Синяя молния</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Borrão Azul</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Niebieska smuga</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10183,7 +10183,7 @@
     <Cell><Data ss:Type="String">电影版索尼克加速</Data></Cell>
     <Cell><Data ss:Type="String">電影版索尼克加速</Data></Cell>
     <Cell><Data ss:Type="String">영화 버전 소닉 부스트</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Ускорение «Соник в кино»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Boost do Sonic do Filme</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Turbo z filmu Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10197,7 +10197,7 @@
     <Cell><Data ss:Type="String">电影版索尼克光环</Data></Cell>
     <Cell><Data ss:Type="String">電影版索尼克靈氣</Data></Cell>
     <Cell><Data ss:Type="String">영화 버전 소닉 오라</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Аура «Соник в кино»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Aura do Sonic do Filme</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Aura z filmu Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10211,7 +10211,7 @@
     <Cell><Data ss:Type="String">电影版索尼克 1</Data></Cell>
     <Cell><Data ss:Type="String">電影版索尼克１</Data></Cell>
     <Cell><Data ss:Type="String">영화 버전 소닉 1</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Соник в кино 1</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Filme do Sonic 1</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Film Sonic 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10225,7 +10225,7 @@
     <Cell><Data ss:Type="String">电影版索尼克 2</Data></Cell>
     <Cell><Data ss:Type="String">電影版索尼克２</Data></Cell>
     <Cell><Data ss:Type="String">영화 버전 소닉 2</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Соник в кино 2</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Filme do Sonic 2</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Film Sonic 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10239,7 +10239,7 @@
     <Cell><Data ss:Type="String">电影版索尼克 3</Data></Cell>
     <Cell><Data ss:Type="String">電影版索尼克３</Data></Cell>
     <Cell><Data ss:Type="String">영화 버전 소닉 3</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Соник в кино 3</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Filme do Sonic 3</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Film Sonic 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10253,7 +10253,7 @@
     <Cell><Data ss:Type="String">电影版索尼克宝宝</Data></Cell>
     <Cell><Data ss:Type="String">電影版索尼克寶寶</Data></Cell>
     <Cell><Data ss:Type="String">영화 버전 베이비 소닉</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Малыш Соник в кино</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sonic Bebê</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Film Baby Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10267,7 +10267,7 @@
     <Cell><Data ss:Type="String">Ultimate</Data></Cell>
     <Cell><Data ss:Type="String">Ultimate</Data></Cell>
     <Cell><Data ss:Type="String">얼티밋</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Суперсила</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Ultimate</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ultimate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10281,7 +10281,7 @@
     <Cell><Data ss:Type="String">标准</Data></Cell>
     <Cell><Data ss:Type="String">標準</Data></Cell>
     <Cell><Data ss:Type="String">표준</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Padrão</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Domyślne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10295,7 +10295,7 @@
     <Cell><Data ss:Type="String">标准</Data></Cell>
     <Cell><Data ss:Type="String">標準</Data></Cell>
     <Cell><Data ss:Type="String">표준</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Padrão</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Domyślne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10309,7 +10309,7 @@
     <Cell><Data ss:Type="String">标准</Data></Cell>
     <Cell><Data ss:Type="String">標準</Data></Cell>
     <Cell><Data ss:Type="String">표준</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Padrão</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Domyślne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10323,7 +10323,7 @@
     <Cell><Data ss:Type="String">标准</Data></Cell>
     <Cell><Data ss:Type="String">標準</Data></Cell>
     <Cell><Data ss:Type="String">표준</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Padrão</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Domyślne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10337,7 +10337,7 @@
     <Cell><Data ss:Type="String">标准</Data></Cell>
     <Cell><Data ss:Type="String">標準</Data></Cell>
     <Cell><Data ss:Type="String">표준</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">По умолчанию</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Padrão</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Domyślne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10351,7 +10351,7 @@
     <Cell><Data ss:Type="String">宇宙鞋子</Data></Cell>
     <Cell><Data ss:Type="String">宇宙鞋子</Data></Cell>
     <Cell><Data ss:Type="String">코즈믹 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Космическая обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos Cósmicos</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Kosmiczne buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10365,7 +10365,7 @@
     <Cell><Data ss:Type="String">铬红鞋子</Data></Cell>
     <Cell><Data ss:Type="String">金屬赤紅鞋子</Data></Cell>
     <Cell><Data ss:Type="String">크롬 레드 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Красная хромированная обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos com Croma Vermelho</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Czerwone chromowane buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10379,7 +10379,7 @@
     <Cell><Data ss:Type="String">扎染鞋子</Data></Cell>
     <Cell><Data ss:Type="String">絞染鞋子</Data></Cell>
     <Cell><Data ss:Type="String">홀치기염색 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Пестрая обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos "Tie dye"</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Farbowane buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10393,7 +10393,7 @@
     <Cell><Data ss:Type="String">焕彩鞋子</Data></Cell>
     <Cell><Data ss:Type="String">潑漆風鞋子</Data></Cell>
     <Cell><Data ss:Type="String">페인트 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Крутяцкая обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos Pintados</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odjazdowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10407,7 +10407,7 @@
     <Cell><Data ss:Type="String">铬粉鞋子</Data></Cell>
     <Cell><Data ss:Type="String">金屬粉紅鞋子</Data></Cell>
     <Cell><Data ss:Type="String">크롬 핑크 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Розовая хромированная обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos com Croma Rosado</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane różowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10421,7 +10421,7 @@
     <Cell><Data ss:Type="String">铬绿鞋子</Data></Cell>
     <Cell><Data ss:Type="String">金屬翠綠鞋子</Data></Cell>
     <Cell><Data ss:Type="String">크롬 그린 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Зеленая хромированная обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos com Croma verde</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane zielone buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10435,7 +10435,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10449,7 +10449,7 @@
     <Cell><Data ss:Type="String">铬橙鞋子</Data></Cell>
     <Cell><Data ss:Type="String">金屬橙黃鞋子</Data></Cell>
     <Cell><Data ss:Type="String">크롬 오렌지 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Оранжевая хромированная обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos com Croma Laranja</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane pomarańczowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10463,7 +10463,7 @@
     <Cell><Data ss:Type="String">铬紫鞋子</Data></Cell>
     <Cell><Data ss:Type="String">金屬紫色鞋子</Data></Cell>
     <Cell><Data ss:Type="String">크롬 퍼플 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Фиолетовая хромированная обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos com Croma Roxo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane fioletowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10477,7 +10477,7 @@
     <Cell><Data ss:Type="String">铬蓝鞋子</Data></Cell>
     <Cell><Data ss:Type="String">金屬天藍鞋子</Data></Cell>
     <Cell><Data ss:Type="String">크롬 블루 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Синяя хромированная обувь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos com Croma Azul</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane niebieskie buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10491,7 +10491,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10505,7 +10505,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10519,7 +10519,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10533,7 +10533,7 @@
     <Cell><Data ss:Type="String">锯齿鞋子</Data></Cell>
     <Cell><Data ss:Type="String">鋸齒鞋子</Data></Cell>
     <Cell><Data ss:Type="String">지그재그 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Обувь с узором «Зигзаг»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos Ziguezague</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zygzakowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10547,7 +10547,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">猎豹鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">獵豹鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">치타 신발</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Обувь с узором «Гепард»</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos de Guepardo</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Buty geparda</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10561,7 +10561,7 @@
     <Cell><Data ss:Type="String">猛虎鞋子</Data></Cell>
     <Cell><Data ss:Type="String">猛虎鞋子</Data></Cell>
     <Cell><Data ss:Type="String">타이거 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Обувь с узором «Тигр»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos de Tigre</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Buty tygrysa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10575,7 +10575,7 @@
     <Cell><Data ss:Type="String">斑马鞋子</Data></Cell>
     <Cell><Data ss:Type="String">斑馬鞋子</Data></Cell>
     <Cell><Data ss:Type="String">제브러 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Обувь с узором «Зебра»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos de Zebra</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Buty zebry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10589,7 +10589,7 @@
     <Cell><Data ss:Type="String">圆点鞋子</Data></Cell>
     <Cell><Data ss:Type="String">圓點鞋子</Data></Cell>
     <Cell><Data ss:Type="String">물방울무늬 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Обувь с точками</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos de Bolinhas</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Buty w grochy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10603,7 +10603,7 @@
     <Cell><Data ss:Type="String">科幻漆黑鞋子</Data></Cell>
     <Cell><Data ss:Type="String">黑色賽博龐克風鞋子</Data></Cell>
     <Cell><Data ss:Type="String">블랙 사이버 신발</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Обувь в сеточку</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Sapatos de Grades</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Buty w siatkę</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10617,7 +10617,7 @@
     <Cell><Data ss:Type="String">宇宙手套</Data></Cell>
     <Cell><Data ss:Type="String">宇宙手套</Data></Cell>
     <Cell><Data ss:Type="String">코즈믹 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Космические перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas Cósmicas</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Kosmiczne rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10631,7 +10631,7 @@
     <Cell><Data ss:Type="String">铬红手套</Data></Cell>
     <Cell><Data ss:Type="String">金屬赤紅手套</Data></Cell>
     <Cell><Data ss:Type="String">크롬 레드 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Красные хромированные перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas com Croma Vermelho</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Czerwone chromowane rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10645,7 +10645,7 @@
     <Cell><Data ss:Type="String">扎染手套</Data></Cell>
     <Cell><Data ss:Type="String">絞染手套</Data></Cell>
     <Cell><Data ss:Type="String">홀치기염색 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Пестрые перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas "Tie Dye"</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Farbowane rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10659,7 +10659,7 @@
     <Cell><Data ss:Type="String">焕彩手套</Data></Cell>
     <Cell><Data ss:Type="String">潑漆風手套</Data></Cell>
     <Cell><Data ss:Type="String">페인트 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Крутяцкие перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas Pintadas</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odjazdowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10673,7 +10673,7 @@
     <Cell><Data ss:Type="String">铬粉手套</Data></Cell>
     <Cell><Data ss:Type="String">金屬粉紅手套</Data></Cell>
     <Cell><Data ss:Type="String">크롬 핑크 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Розовые хромированные перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas com Croma Rosado</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane różowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10687,7 +10687,7 @@
     <Cell><Data ss:Type="String">铬绿手套</Data></Cell>
     <Cell><Data ss:Type="String">金屬翠綠手套</Data></Cell>
     <Cell><Data ss:Type="String">크롬 그린 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Зеленые хромированные перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas com Croma Verde</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane zielone rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10701,7 +10701,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10715,7 +10715,7 @@
     <Cell><Data ss:Type="String">铬橙手套</Data></Cell>
     <Cell><Data ss:Type="String">金屬橙黃手套</Data></Cell>
     <Cell><Data ss:Type="String">크롬 오렌지 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Оранжевые хромированные перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas com Croma Laranja</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane pomarańczowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10729,7 +10729,7 @@
     <Cell><Data ss:Type="String">铬紫手套</Data></Cell>
     <Cell><Data ss:Type="String">金屬紫色手套</Data></Cell>
     <Cell><Data ss:Type="String">크롬 퍼플 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Фиолетовые хромированные перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas com Croma Roxo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane fioletowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10743,7 +10743,7 @@
     <Cell><Data ss:Type="String">铬蓝手套</Data></Cell>
     <Cell><Data ss:Type="String">金屬天藍手套</Data></Cell>
     <Cell><Data ss:Type="String">크롬 블루 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Синие хромированные перчатки</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas com Croma Azul</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chromowane niebieskie rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10757,7 +10757,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10771,7 +10771,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10785,7 +10785,7 @@
     <Cell><Data ss:Type="String">PLACEHOLDER(简体中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(傳統中文)</Data></Cell>
     <Cell><Data ss:Type="String">PLACEHOLDER(한국어)</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Português do Brasil)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10799,7 +10799,7 @@
     <Cell><Data ss:Type="String">锯齿手套</Data></Cell>
     <Cell><Data ss:Type="String">鋸齒手套</Data></Cell>
     <Cell><Data ss:Type="String">지그재그 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перчатки с узором «Зигзаг»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas de Ziguezague</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zygzakowe rękawiczki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10813,7 +10813,7 @@
     <Cell><Data ss:Type="String">猎豹手套</Data></Cell>
     <Cell><Data ss:Type="String">獵豹手套</Data></Cell>
     <Cell><Data ss:Type="String">치타 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перчатки с узором «Гепард»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas de Guepardo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Rękawiczki geparda</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10827,7 +10827,7 @@
     <Cell><Data ss:Type="String">猛虎手套</Data></Cell>
     <Cell><Data ss:Type="String">猛虎手套</Data></Cell>
     <Cell><Data ss:Type="String">타이거 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перчатки с узором «Тигр»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas de Tigre</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Rękawiczki tygrysa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10841,7 +10841,7 @@
     <Cell><Data ss:Type="String">斑马手套</Data></Cell>
     <Cell><Data ss:Type="String">斑馬手套</Data></Cell>
     <Cell><Data ss:Type="String">제브러 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перчатки с узором «Зебра»</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas de Zebra</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Rękawiczki zebry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10855,7 +10855,7 @@
     <Cell><Data ss:Type="String">圆点手套</Data></Cell>
     <Cell><Data ss:Type="String">圓點手套</Data></Cell>
     <Cell><Data ss:Type="String">물방울무늬 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перчатки с точками</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas de Bolinhas</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Rękawiczki w grochy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10869,7 +10869,7 @@
     <Cell><Data ss:Type="String">科幻漆黑手套</Data></Cell>
     <Cell><Data ss:Type="String">黑色賽博龐克風手套</Data></Cell>
     <Cell><Data ss:Type="String">블랙 사이버 장갑</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перчатки в сеточку</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Luvas de Grades</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Rękawiczki w siatkę</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10883,7 +10883,7 @@
     <Cell><Data ss:Type="String">30周年</Data></Cell>
     <Cell><Data ss:Type="String">30周年</Data></Cell>
     <Cell><Data ss:Type="String">30주년</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Счастливого 30-летия</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Feliz 30° Aniversário</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Wesołej 30. rocznicy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10897,7 +10897,7 @@
     <Cell><Data ss:Type="String">塔尔斯</Data></Cell>
     <Cell><Data ss:Type="String">塔爾斯</Data></Cell>
     <Cell><Data ss:Type="String">테일즈</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Тейлз</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Тails</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Tails</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10911,7 +10911,7 @@
     <Cell><Data ss:Type="String">经典塔尔斯</Data></Cell>
     <Cell><Data ss:Type="String">經典塔爾斯</Data></Cell>
     <Cell><Data ss:Type="String">클래식 테일즈</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Классический Тейлз</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Tails Clássico</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Tails Klasyczny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10925,7 +10925,7 @@
     <Cell><Data ss:Type="String">准备启程</Data></Cell>
     <Cell><Data ss:Type="String">預備</Data></Cell>
     <Cell><Data ss:Type="String">레디고</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">В полной готовности</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Preparado</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Gotowy do biegu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10939,7 +10939,7 @@
     <Cell><Data ss:Type="String">旗开得胜</Data></Cell>
     <Cell><Data ss:Type="String">勝利</Data></Cell>
     <Cell><Data ss:Type="String">빅토리</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Победа</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Vitória</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zwycięstwo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10953,7 +10953,7 @@
     <Cell><Data ss:Type="String">超级索尼克</Data></Cell>
     <Cell><Data ss:Type="String">超級索尼克</Data></Cell>
     <Cell><Data ss:Type="String">슈퍼 소닉</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Суперсоник</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Super Sonic</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Super Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10967,7 +10967,7 @@
     <Cell><Data ss:Type="String">金属索尼克</Data></Cell>
     <Cell><Data ss:Type="String">金屬索尼克</Data></Cell>
     <Cell><Data ss:Type="String">메탈 소닉</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Метал Соник</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Metal Sonic</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Metal Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10981,7 +10981,7 @@
     <Cell><Data ss:Type="String">查欧</Data></Cell>
     <Cell><Data ss:Type="String">巧歐</Data></Cell>
     <Cell><Data ss:Type="String">챠오</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Чао</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Chao</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Chao</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -10995,7 +10995,7 @@
     <Cell><Data ss:Type="String">英雄查欧</Data></Cell>
     <Cell><Data ss:Type="String">英雄巧歐</Data></Cell>
     <Cell><Data ss:Type="String">히어로챠오</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Герой Чао</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Hero Chao</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Hero Chao</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11009,7 +11009,7 @@
     <Cell><Data ss:Type="String">黑暗查欧</Data></Cell>
     <Cell><Data ss:Type="String">黑暗巧歐</Data></Cell>
     <Cell><Data ss:Type="String">다크챠오</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Темный Чао</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Dark Chao</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Dark Chao</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11023,7 +11023,7 @@
     <Cell><Data ss:Type="String">玩具查欧</Data></Cell>
     <Cell><Data ss:Type="String">玩具巧歐</Data></Cell>
     <Cell><Data ss:Type="String">오모챠오</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Омочао</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Omochao</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Omochao</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11037,7 +11037,7 @@
     <Cell><Data ss:Type="String">胖猫比克</Data></Cell>
     <Cell><Data ss:Type="String">胖貓比谷</Data></Cell>
     <Cell><Data ss:Type="String">빅</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Биг</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Big</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Big</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11051,7 +11051,7 @@
     <Cell><Data ss:Type="String">布蕾兹</Data></Cell>
     <Cell><Data ss:Type="String">布蕾姿</Data></Cell>
     <Cell><Data ss:Type="String">블레이즈</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Блейз</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Blaze</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Blaze</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11065,7 +11065,7 @@
     <Cell><Data ss:Type="String">希弗尔</Data></Cell>
     <Cell><Data ss:Type="String">希爾弗</Data></Cell>
     <Cell><Data ss:Type="String">실버</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Сильвер</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Silver</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Silver</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11079,7 +11079,7 @@
     <Cell><Data ss:Type="String">贝库特</Data></Cell>
     <Cell><Data ss:Type="String">貝庫特</Data></Cell>
     <Cell><Data ss:Type="String">벡터</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Вектор</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Vector</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Vector</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11093,7 +11093,7 @@
     <Cell><Data ss:Type="String">Puyo Yellow</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Yellow</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Yellow</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Желтый пуйо</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo Amarelo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Żółty puyo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11107,7 +11107,7 @@
     <Cell><Data ss:Type="String">Puyo Purple</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Purple</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Purple</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Фиолетовый пуйо</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo Roxo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Fioletowy puyo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11121,7 +11121,7 @@
     <Cell><Data ss:Type="String">Puyo Red</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Red</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Red</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Красный пуйо</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo Vermelho</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Czerwony puyo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s71">
@@ -11136,7 +11136,7 @@
     <Cell><Data ss:Type="String">Puyo Green</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Green</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Green</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Зеленый пуйо</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo Verde</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zielony puyo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11151,7 +11151,7 @@
     <Cell><Data ss:Type="String">Puyo Blue</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Blue</Data></Cell>
     <Cell><Data ss:Type="String">Puyo Blue</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Синий пуйо</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo Azul</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Niebieski puyo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11421,7 +11421,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ulala</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ulala</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ulala</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Улала</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ulala</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ulala</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11436,7 +11436,7 @@
     <Cell><Data ss:Type="String">Rolf</Data></Cell>
     <Cell><Data ss:Type="String">Rolf</Data></Cell>
     <Cell><Data ss:Type="String">Rolf</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Рольф</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rolf</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rolf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11451,7 +11451,7 @@
     <Cell><Data ss:Type="String">Nei</Data></Cell>
     <Cell><Data ss:Type="String">Nei</Data></Cell>
     <Cell><Data ss:Type="String">Nei</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Нэй</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Nei</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Nei</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11466,7 +11466,7 @@
     <Cell><Data ss:Type="String">Rhys</Data></Cell>
     <Cell><Data ss:Type="String">Rhys</Data></Cell>
     <Cell><Data ss:Type="String">Rhys</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Рис</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rhys</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rhys</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11481,7 +11481,7 @@
     <Cell><Data ss:Type="String">Mieu</Data></Cell>
     <Cell><Data ss:Type="String">Mieu</Data></Cell>
     <Cell><Data ss:Type="String">Mieu</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Мью</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Mieu</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Mieu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11496,7 +11496,7 @@
     <Cell><Data ss:Type="String">Chaz Ashley</Data></Cell>
     <Cell><Data ss:Type="String">Chaz Ashley</Data></Cell>
     <Cell><Data ss:Type="String">Chaz Ashley</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Чаз Эшли</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Chaz Ashley</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Chaz Ashley</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11511,7 +11511,7 @@
     <Cell><Data ss:Type="String">Rika</Data></Cell>
     <Cell><Data ss:Type="String">Rika</Data></Cell>
     <Cell><Data ss:Type="String">Rika</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Рика</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Rika</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rika</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11526,7 +11526,7 @@
     <Cell><Data ss:Type="String">AiAi</Data></Cell>
     <Cell><Data ss:Type="String">AiAi</Data></Cell>
     <Cell><Data ss:Type="String">AiAi</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">АйАй</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">AiAi</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">AiAi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11541,7 +11541,7 @@
     <Cell ss:StyleID="s164"><Data ss:Type="String">经典纳克</Data></Cell>
     <Cell><Data ss:Type="String">經典納克</Data></Cell>
     <Cell><Data ss:Type="String">클래식 너클즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Страж</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Guardian</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Opiekun</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11556,7 +11556,7 @@
     <Cell><Data ss:Type="String">经典蛋头博士</Data></Cell>
     <Cell><Data ss:Type="String">經典蛋頭博士</Data></Cell>
     <Cell><Data ss:Type="String">클래식 에그맨</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Классический Эггман</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Eggman Clássico</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Eggman Klasyczny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11571,7 +11571,7 @@
     <Cell><Data ss:Type="String">索尼克</Data></Cell>
     <Cell><Data ss:Type="String">索尼克</Data></Cell>
     <Cell><Data ss:Type="String">소닉</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Соник</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sonic</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11586,7 +11586,7 @@
     <Cell><Data ss:Type="String">经典索尼克</Data></Cell>
     <Cell><Data ss:Type="String">經典索尼克</Data></Cell>
     <Cell><Data ss:Type="String">클래식 소닉</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Классический Соник</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Sonic Clássico</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sonic Klasyczny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11601,7 +11601,7 @@
     <Cell><Data ss:Type="String">SEGA（圣光）</Data></Cell>
     <Cell><Data ss:Type="String">SEGA（光明）</Data></Cell>
     <Cell><Data ss:Type="String">세가(라이트)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (светлый)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Claro)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (jasne)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11616,7 +11616,7 @@
     <Cell><Data ss:Type="String">SEGA（暗影）</Data></Cell>
     <Cell><Data ss:Type="String">SEGA（黑暗）</Data></Cell>
     <Cell><Data ss:Type="String">세가(다크)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (темный)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Escuro)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (ciemne)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11631,7 +11631,7 @@
     <Cell><Data ss:Type="String">SEGA（亚洲版）</Data></Cell>
     <Cell><Data ss:Type="String">SEGA（亞洲版）</Data></Cell>
     <Cell><Data ss:Type="String">세가(아시아 버전)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (восток)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Leste)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (wschód)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11646,7 +11646,7 @@
     <Cell><Data ss:Type="String">SEGA（亚洲版）</Data></Cell>
     <Cell><Data ss:Type="String">SEGA（亞洲版）</Data></Cell>
     <Cell><Data ss:Type="String">세가(아시아 버전)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Азия)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Oeste)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Azja)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11661,7 +11661,7 @@
     <Cell><Data ss:Type="String">SEGA（蔚蓝）</Data></Cell>
     <Cell><Data ss:Type="String">SEGA（藍色）</Data></Cell>
     <Cell><Data ss:Type="String">세가(블루)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (яркий)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Brilhante)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (jaskrawe)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11676,7 +11676,7 @@
     <Cell><Data ss:Type="String">圣光纹章</Data></Cell>
     <Cell><Data ss:Type="String">光明徽章</Data></Cell>
     <Cell><Data ss:Type="String">라이트 엠블럼</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Светлая эмблема</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Emblema Claro</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Jasne logo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11691,7 +11691,7 @@
     <Cell><Data ss:Type="String">暗影纹章</Data></Cell>
     <Cell><Data ss:Type="String">黑暗徽章</Data></Cell>
     <Cell><Data ss:Type="String">다크 엠블럼</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Темная эмблема</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Emblema Escuro</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ciemne logo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11706,7 +11706,7 @@
     <Cell><Data ss:Type="String">蔚蓝纹章</Data></Cell>
     <Cell><Data ss:Type="String">藍色徽章</Data></Cell>
     <Cell><Data ss:Type="String">블루 엠블럼</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Яркая эмблема</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Emblema Brilhante</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Jaskrawe logo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11721,7 +11721,7 @@
     <Cell><Data ss:Type="String">圣光头像</Data></Cell>
     <Cell><Data ss:Type="String">光明頭像</Data></Cell>
     <Cell><Data ss:Type="String">라이트 아이콘</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Светлый значок</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ícone Claro</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Klasyczne jasne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11736,7 +11736,7 @@
     <Cell><Data ss:Type="String">暗影头像</Data></Cell>
     <Cell><Data ss:Type="String">黑暗頭像</Data></Cell>
     <Cell><Data ss:Type="String">다크 아이콘</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Темный значок</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ícone Escuro</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Klasyczne ciemne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11751,7 +11751,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">蔚蓝头像</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">藍色頭像</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">블루 아이콘</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Яркий значок</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ícone Claro</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Klasyczne jaskrawe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11766,7 +11766,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA（欧美版：亮）</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA（歐美版：明）</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">세가(미국 유럽 버전:밝음)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (запад&#160;– светлый)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Oeste : Claro)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (zachód: jasne)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s71">
@@ -11781,7 +11781,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA（欧美版：暗）</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA（歐美版：暗）</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">세가(미국 유럽 버전:어두움)</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (запад&#160;– темный)</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Oeste : Escuro)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (zachód: ciemne)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11796,7 +11796,7 @@
     <Cell ss:StyleID="s166"><Data ss:Type="String">游戏币</Data></Cell>
     <Cell ss:StyleID="s167"><Data ss:Type="String">樂園代幣</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Жетоны парка</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Park Tokens</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Parkowych żetonów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11811,7 +11811,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">游戏币不足。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">樂園代幣不足。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰이 부족합니다</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Необходимо больше жетонов парка.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você precisa coletar mais Park Tokens.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Musisz zebrać więcej parkowych żetonów.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11826,7 +11826,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">在设置卫星，你可以用游戏币买东西哦！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">在選項衛星可以使用樂園代幣購物喔！</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">옵션 새틀라이트에서는 파크 토큰을 사용해 쇼핑을 할 수 있어</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Жетоны парка можно потратить на спутнике настроек, чтобы купить новые предметы для изменения облика. </Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Você pode gastar suas Park Tokens em novos cosméticos no Satélite de Opções. </Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Możesz wydawać parkowe żetony na przedmioty dostosowywania w satelicie opcji. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11841,7 +11841,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">自定义索尼克的外观</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">自訂索尼克造型</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">소닉 커스터마이즈</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Изменение облика Соника</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Mudando a aparencia do Sonic</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zmiana wyglądu Sonica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11856,7 +11856,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">来看一看自定义菜单里都有些什么好东西可以买吧。</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">打開自訂選單看看有哪些道具可以購買吧！</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">커스터마이즈 메뉴에서 구입할 수 있는 아이템을 확인해 보자</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Теперь у тебя достаточно жетонов парка, пора взглянуть на предметы, которые можно купить в меню изменения облика.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Agora que você tem algumas Park Tokens, vamos ver os itens que você pode comprar no menu &quot;Customizar&quot;.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Masz już trochę parkowych żetonów, zobaczmy przedmioty, które można kupić w menu Dostosuj.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11871,7 +11871,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">移动到商品列表之后，你可以按[button]来选择分类。</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">前往道具清單後，按下[button]選擇類別！</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">아이템 목록으로 이동해 [button]으로 그룹을 선택하자</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Перейди в список предметов и используй кнопку [button], чтобы выделить группу «Значок».</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Vá para a lista de itens e use o [button] para selecionar a catégoria de Ícones.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przejdź do listy przedmiotów i użyj [button], aby podświetlić grupę Ikona.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11886,7 +11886,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">这里的东西你应该能买下来，&#10;赶快把它收入囊中吧。</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">有可以購買的道具喔！&#10;趕快試著購買看看吧！</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">살 수 있는 아이템이 있나 봐&#10;지금 바로 구입해 보자</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Эй, ты даже можешь кое-что купить. Ну же, смелее.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ei, tem um que você pode comprar, por que não experimentar?.</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">O, to można kupić. Może spróbujesz?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11901,7 +11901,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">你可以在自定义里随时换上已经购买的道具。</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">在自訂畫面中&#10;可以隨時更換購買過的道具喔！</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">한번 구입해 놓으면 언제든 바꿔서 장착할 수가 있어&#10;커스터마이즈에서 선택만 하면 돼</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Купленный предмет можно использовать в любое время. Просто перейди на страницу изменения облика и выбери предмет, который хочешь использовать.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Uma vez que você comprou um item, você pode equipar a qualquer hora, só vir no menu &quot;Customizar&quot;, selecione o item e equipe-o, exatamente como você fez com seu Ícone.</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Z kupionego przedmiotu można zacząć korzystać w dowolnym momencie. Wystarczy przejść do strony Dostosuj, wybrać przedmiot, który ma być używany, tak jak przed chwilą w przypadku ikony.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11916,7 +11916,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">快去收集更多的游戏币吧！</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">來收集更多樂園代幣吧！</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">파크 토큰을 좀 더 모아 보자!</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Что ж, пора найти больше жетонов парка!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Agora vá achar mais Park Tokens!</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Ruszaj po więcej parkowych żetonów!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11931,7 +11931,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">金属组合包</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">金屬風組合包</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">메탈릭 팩</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Набор «Два металла»</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pack Metálico</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Pakiet Metaliczny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11946,7 +11946,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">独家玩家头像</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">限定玩家頭像</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">특별 한정 플레이어 아이콘</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Уникальные значки игрока</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ícones de Usuário exclusivos</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Wyjątkowe ikony gracza</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11961,7 +11961,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">电影版索尼克头像</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">電影版索尼克頭像</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">소닉 영화 아이콘</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Значки «Соник в кино»</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ícones de &quot;Sonic o Filme&quot;</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Ikony z filmu Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11976,7 +11976,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">电影版索尼克特效</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">電影版索尼克特效</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">소닉 영화 효과</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Спецэффекты «Соник в кино»</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Efeitos de &quot;Sonic o Filme&quot;</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Efekty z filmu Sonic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
@@ -11991,7 +11991,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">精选音乐礼包</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">終極音樂組合包</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">얼티밋 뮤직 팩</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Полный музыкальный набор</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pack de Música Ultimate</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Pakiet Ultimate Music Pack</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -12006,7 +12006,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">零售商独家头像</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">店鋪限定頭像</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">리테일러 특별 한정 아이콘</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Эксклюзивные значки компании-продавца</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ícones Exclusivos de Pré-venda</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Wyjątkowe ikony sklepów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -12021,7 +12021,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">极速竞争者</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">勁敵對決</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">라이벌 러시</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Гонка с соперником</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">RIVAL RUSH</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">STARCIE RYWALI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
@@ -12036,7 +12036,7 @@
     <Cell ss:StyleID="s169"><Data ss:Type="String">要再次挑战吗？</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">要再次挑戰嗎？</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">재도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">Еще одна гонка?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Correr de novo?</Data></Cell>
     <Cell ss:StyleID="s169"><Data ss:Type="String">Powtórzyć wyścig?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12051,7 +12051,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要开始挑战吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">確定要挑戰嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Принять?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Você aceita?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przyjmujesz?</Data></Cell>
     <Cell ss:StyleID="s77"/>
    </Row>
@@ -12067,7 +12067,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">完成</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">完成</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">완료</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Выполнено</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Completo</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończono</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12082,7 +12082,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">无法使用塔尔斯救援</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">無法使用塔爾斯救援。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">테일즈 세이브 불가</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Нет сохранений Тейлза</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">SEM Tails Saves</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">BRAK pomocy Tailsa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12097,7 +12097,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">一旦坠落则被判定落败。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">一旦墜落即為落敗。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">낙하하면 패배입니다</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Если упадешь, проиграешь</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Se você cair, você irá perder</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przegrasz, jeśli spadniesz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12112,7 +12112,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">坠落无效</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">不可墜落。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">낙하 없음</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Не падай</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">SEM cair</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">NIE spadnij</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12127,7 +12127,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">太好了！&#10;在收集了不少红星环之后，我们终于探测到金属索尼克的位置了！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">太棒了！&#10;因為你收集到了足夠的紅星環，所以我們終於找出金屬索尼克的出現地點囉！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">해냈구나!&#10;레드스타 링을 모아서 메탈 소닉의 출현 장소를 알아냈어!</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Поздравляем!&#10;У тебя достаточно колец Red Star,&#10;чтобы открыть секретный участок&#10;этой области – гонки с соперником!</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Parabéns! Você coletou Red Star Rings o suficiente para&#10; desbloquear o Rival Rush dessa área!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Gratulacje! Masz wystarczająco dużo Pierścieni z Czerwoną Gwiazdką,&#10;aby ujawnić lokalizację starcia rywali dla tego obszaru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12142,7 +12142,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！！&#10;看起来，金属索尼克想抢走你的红星环呢……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">索尼克！&#10;金屬索尼克好像盯上你的紅星環了……</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">소닉!!&#10;메탈 소닉이 소닉의 레드스타 링을 노리고 있는 것 같아…</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Ох, Соник, твои кольца Red Star&#10;привлекли внимание Метал Соника.&#10;Похоже, он бросает тебе вызов.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Uh oh, Sonic, sua coleção de Red Star Rings chamou a atenção do Metal Sonic. Parece que ele é seu rival.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">O nie, Sonicu, twoja kolekcja czerwonych pierścieni gwiezdnych ściągnęła uwagę Metal Sonica. Chyba jest twoim rywalem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12157,7 +12157,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">快去区域地图里选择极速竞争者，&#10;用你的速度打败他吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">在對決中贏過他吧！&#10;在區域地圖中選擇勁敵對決！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">레이스로 녀석을 쓰러트려!&#10;지역 지도에서 라이벌 러시를 선택해야 해</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Тебе придется победить его в гонке!&#10;Перейди в испытание на карте области,&#10;чтобы узнать подробности.&#10;У тебя все получится, Соник!</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Você vai ter que vencê-lo numa corrida! Vá para desafio no Mapa da Área para descobrir mais sobre. Você conseguê Sonic!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Musisz go pokonać podczas wyścigu! Przejdź do wyzwania na mapie obszaru, aby poznać szczegóły. Dasz radę, Sonic!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12172,7 +12172,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">你已在该竞速关卡中取得过胜利，&#10;是否再次挑战？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">已經在這場對決中獲勝。&#10;確定要再次挑戰嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이미 레이스에서 승리했습니다&#10;재도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Это испытание «Гонка с соперником»&#10;уже выполнено. Не хочешь поучаствовать&#10;еще в одной гонке?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Você já completou esse Rival Rush. Você quer correr de novo?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">To starcie rywali zostało już ukończone. Chcesz powtórzyć wyścig?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12187,7 +12187,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">极速竞争者</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">勁敵對決</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">라이벌 러시</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Заверши Гонку с соперником</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Complete o Rival Rush</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończ starcie rywali</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12202,7 +12202,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">获胜后解锁</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">以獲勝解鎖</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">승리하면 잠금 해제</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">чтобы открыть</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">para desbloquear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">aby odblokować</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12217,7 +12217,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">要进行竞争者挑战吗？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">要進行勁敵挑戰嗎？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">라이벌 챌린지에 도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Согласиться на испытание с соперником?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Aceitar Rival Challenge?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przyjąć wyzwanie rywalizacji?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12232,7 +12232,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">与幽灵和竞争者对战，收集游戏币吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">與鬼魂和勁敵對戰&#10;來獲得樂園代幣吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">고스트나 라이벌과 대전해서&#10;파크 토큰을 획득하자</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Участвуй в гонках с призраками и испытаниях с соперниками, чтобы получать жетоны парка!</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Participe de Ghost Races e Rival Challenges para ganhar Park Tokens!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Bierz udział w wyścigach z duchami oraz wyzwaniach rywalizacji i zdobywaj parkowe żetony!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12247,7 +12247,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">挑战竞速幽灵和竞争者吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">試試鬼魂競速與&#10;勁敵挑戰吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">고스트 레이스나&#10;라이벌 챌린지에 도전하자</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Участвуй в гонках с призраками и испытаниях с соперниками!</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Participe de Ghost Races e Rival Challenges!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Bierz udział w wyścigach z duchami i wyzwaniach rywalizacji!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12262,7 +12262,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">必须通过最初的两个关卡才能挑战竞速幽灵。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">必須通過前2個關卡&#10;才能使用鬼魂跑者功能。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">고스트 레이서를 플레이하려면 처음&#10;두 스테이지를 클리어해야 합니다</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Заверши первые два уровня «Тропикал Резорт», чтобы разблокировать призрачных гонщиков.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Complete as primeiras duas fases da Tropical Resort para desbloquear a Ghost Racers.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończ dwa pierwsze poziomy Tropical Resort, aby odblokować duchy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12277,7 +12277,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">请按[Start Button]。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">請按下[Start Button]。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">[Start Button]을 누르기</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Нажми [Start Button], чтобы начать</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Aperte [Start Button] para iniciar</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Wciśnij [Start Button], aby rozpocząć</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12292,7 +12292,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">设置个人资料头像</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">設置個人資料頭像</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">프로필 아이콘 설정</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Выбери аватар для своего профиля игры. </Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Selecione um avatar para seu Usuário. </Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ustaw awatara dla swojego profilu w grze. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12307,7 +12307,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">选择要在竞速幽灵中展示给其他玩家看的头像吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">選擇要在鬼魂競速中&#10;展現給其他玩家看的頭像吧。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">고스트 레이스에서 다른 플레이어에게&#10;보여줄 아이콘을 선택해 보세요</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Выбери аватар, который другие игроки будут видеть в виде твоего призрачного гонщика!</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Selecione um avatar para os outros jogadores verem como seu Ghost Racer!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ustaw awatara, którego inni gracze będą widzieli jako twojego ducha!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12322,7 +12322,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">您喜欢哪个头像？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">喜歡哪個頭像呢？</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">어떤 아이콘이 마음에 드나요?</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Какой аватар подходит тебе лучше всего?</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Que avatar te melhor representa?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Który awatar najlepiej cię reprezentuje?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12337,7 +12337,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">俄文</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">俄文</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">러시아어</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Colete Park Tokens para gastar em customizáveis ou para participar do Challenge Mode!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12352,7 +12352,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">波兰文</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">波蘭文</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">폴란드어</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Hint Rings</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s145">
@@ -12367,7 +12367,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">想要游玩故事的后续请完成下载！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">完成下載以遊玩故事的後續吧！</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">이어지는 스토리를 플레이하기 전에 다운로드를 완료하세요</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Закончи загрузку, чтобы узнать, что было дальше!</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Complete o download para jogar o resto da história!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zakończ pobieranie, aby zagrać w resztę historii!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12382,7 +12382,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1的控制器断开连接。请连接控制器。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">플레이어 1의 컨트롤러를 다시 연결해 주세요</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Геймпад игрока 1 отсоединен. Подключи геймпад, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O controle do Jogador 1 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12397,7 +12397,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1的手柄断开连接。请连接手柄。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">플레이어 1의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Контроллер игрока 1 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O controle do Jogador 1 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -12412,7 +12412,7 @@
     <Cell><Data ss:Type="String">玩家1的控制器断开连接。请连接控制器。</Data></Cell>
     <Cell><Data ss:Type="String">玩家1的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell><Data ss:Type="String">플레이어 1의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Контроллер игрока 1 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O controle do Jogador 1 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12427,7 +12427,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1.5的控制器断开连接。请连接控制器。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1.5的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">플레이어 1.5의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Геймпад игрока 1.5 отсоединен. Подключи геймпад, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O controle do Jogador 1.5 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1,5. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12442,7 +12442,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1.5的手柄断开连接。请连接手柄。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1.5的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">플레이어 1.5의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Контроллер игрока 1.5 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">O controle do Jogador 1.5 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1,5. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12457,7 +12457,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">玩家1.5的控制器断开连接。请连接控制器。</Data></Cell>
     <Cell ss:StyleID="s133"><Data ss:Type="String">玩家1.5的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">플레이어 1.5의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Контроллер игрока 1.5 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">O controle do Jogador 1.5 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Odłączono kontroler gracza 1,5. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12472,7 +12472,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">玩家2的控制器断开连接。请连接控制器。</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">玩家2的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어 2의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Геймпад игрока 2 отсоединен. Подключи геймпад, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">O controle do Jogador 2 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Odłączono kontroler gracza 2. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12487,7 +12487,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">玩家2的手柄断开连接。请连接手柄。</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">玩家2的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">플레이어 2의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Контроллер игрока 2 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">O controle do Jogador 2 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Odłączono kontroler gracza 2. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12502,7 +12502,7 @@
     <Cell ss:StyleID="s173"><Data ss:Type="String">玩家2的控制器断开连接。请连接控制器。</Data></Cell>
     <Cell ss:StyleID="s173"><Data ss:Type="String">玩家2的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
     <Cell ss:StyleID="s173"><Data ss:Type="String">플레이어 2의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s173"><Data ss:Type="String">Контроллер игрока 2 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">O controle do Jogador 2 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s173"><Data ss:Type="String">Odłączono kontroler gracza 2. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12517,7 +12517,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">正在使用访客个人资料</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">使用訪客個人資料中</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">게스트 프로필 사용 중</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">Выбран гостевой профиль.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Usuário Convidado ativado</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">Aktywowano profil gościa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12532,7 +12532,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">01：缤纷世界</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">01：彩色世界</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">01: 월드 오브 컬러즈</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">01:  Цветные миры</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#01:  Mundo de Cores</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#01:  Światy kolorów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12547,7 +12547,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">02：欢迎！</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">02：歡迎！</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">02: 어서 오세요!</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">02:  Добро пожаловать!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#02:  Bem-vindo!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#02:  Witaj!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12562,7 +12562,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">03：神奇的力量</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">03：神奇的力量</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">03: 신비한 힘</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">03:  Дикая энергия  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#03:  Energia Selvagem  </Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#03:  Dzika energia  </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12577,7 +12577,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">04：你挡不住我</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">04：儘管來阻止我看看啊</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">04: 멈춰 보시지</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">04:  Время покупок</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#04:  Hora de começar a parar</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#04:  Pora zacząć zatrzymywanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12592,7 +12592,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">05：他叫亚克</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">05：他的名字是亞克</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">05: 이름은 얘커</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">05:  Его зовут Яккер</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#05:  O nome dele é Yacker</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#05:  Mówi, że ma na imię Yacker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12607,7 +12607,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">06：善后</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">06：收拾殘局</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">06: 뒷정리</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">06:  Уборка</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#06:  Faxina</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#06:  Sprzątanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12622,7 +12622,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">07：甜滋滋的决战</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">07：甜蜜對決</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">07: 스위트한 결전</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">07:  Схватка в «Свит Маунтин»</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#07:  Disputa na Sweet Mountain</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#07:  Ustawka na Sweet Mountain</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12637,7 +12637,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">08：胡子蛋</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">08：鬍子蛋</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">08: 수염 달걀</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">08:  Лысый Ноздрепух</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#08:  Careca Bigodudo</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#08:  Łysy McWłoch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12652,7 +12652,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">09：精神控制</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">09：控制心靈</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">09: 마인드 컨트롤</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">09:  Подчинение сознания</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#09:  Controle Mental</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#09:  Kontrola umysłów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12667,7 +12667,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">10：最后的发电机</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">10：剩餘的引力產生器</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">10: 나머지 제너레이터</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">10:  Осталось три генератора</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#10:  Três geradores faltando</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#10:  Zostały trzy generatory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12682,7 +12682,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">11：蛋头博士的野心</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">11：蛋頭博士的野心</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">11: 에그맨의 야망</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">11:  Зловещий план доктора Эггмана</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#11:  O plano do Dr. Eggman</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#11:  Plan Dr. Eggmana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12697,7 +12697,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">12：威斯行星</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">12：威斯星球</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">12: 위스프의 혹성</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">12:  Планета виспов</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#12:  Planeta dos Wisps</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#12:  Planeta wispów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12712,7 +12712,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">13：行星大解放</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">13：奪回星球</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">13: 혹성 탈환</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">13:  Спасение «Плэнет Висп»</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#13:  Salvando a Planet Wisp</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#13:  Na ratunek Planet Wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12727,7 +12727,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">14：好傻哦</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">14：一臉呆滯</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">14: 얼빠진 얼굴</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">14:  Отдых после боя</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#14:  O refrescante pós-luta</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#14:  Odświeżenie po walce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12742,7 +12742,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">15：水族馆</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">15：水族館</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">15: 수족관</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">15:  Суши с рыбой</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#15:  Sushi feito com peixes</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#15:  Sushi z rybami</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12757,7 +12757,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">16：为什么会肚子疼？</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">16：肚子痛的原因</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">16: 복통의 원인</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">16:  Стараясь из всех сил</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#16:  Procurar agradar</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#16:  Staram się pomagać</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12772,7 +12772,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">17：神秘的建筑物</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">17：秘密設施</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">17: 비밀 시설</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">17:  Что это за место? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#17:  Que lugar é esse? </Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#17:  Co to za miejsce? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12787,7 +12787,7 @@
     <Cell ss:StyleID="s174"><Data ss:Type="String">18：Come On!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">18：Come on!</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">18: Come On!</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">18:  Честное предупреждение</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#18:  Comunicado</Data></Cell>
     <Cell ss:StyleID="s174"><Data ss:Type="String">#18:  Ostrzeżenie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12802,7 +12802,7 @@
     <Cell><Data ss:Type="String">19：营救威斯</Data></Cell>
     <Cell><Data ss:Type="String">19：拯救威斯</Data></Cell>
     <Cell><Data ss:Type="String">19: 위스프 구출</Data></Cell>
-    <Cell><Data ss:Type="String">19:  Освобождение инопланетян</Data></Cell>
+    <Cell><Data ss:Type="String">#19:  Libertando Aliens</Data></Cell>
     <Cell><Data ss:Type="String">#19:  Ratując obcych</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12817,7 +12817,7 @@
     <Cell><Data ss:Type="String">20：激光锁链的消失</Data></Cell>
     <Cell><Data ss:Type="String">20：鎖鍊光束消失</Data></Cell>
     <Cell><Data ss:Type="String">20: 체인 빔의 소멸</Data></Cell>
-    <Cell><Data ss:Type="String">20:  Сбросить оковы</Data></Cell>
+    <Cell><Data ss:Type="String">#20:  Quebrando as correntes</Data></Cell>
     <Cell><Data ss:Type="String">#20:  Łamiąc kajdany</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12832,7 +12832,7 @@
     <Cell><Data ss:Type="String">21：看谁笑到最后</Data></Cell>
     <Cell><Data ss:Type="String">21：誰是最後贏家？</Data></Cell>
     <Cell><Data ss:Type="String">21: 마지막에 웃는 자는?</Data></Cell>
-    <Cell><Data ss:Type="String">21:  Кто смеется последним</Data></Cell>
+    <Cell><Data ss:Type="String">#21:  A última risada</Data></Cell>
     <Cell><Data ss:Type="String">#21:  Będę się śmiał ostatni</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12847,7 +12847,7 @@
     <Cell><Data ss:Type="String">22：不祥的预感</Data></Cell>
     <Cell><Data ss:Type="String">22：不好的預感</Data></Cell>
     <Cell><Data ss:Type="String">22: 안 좋은 예감</Data></Cell>
-    <Cell><Data ss:Type="String">22:  Катись отсюда</Data></Cell>
+    <Cell><Data ss:Type="String">#22:  Hora de dar o fora daqui</Data></Cell>
     <Cell><Data ss:Type="String">#22:  Wynoś się stąd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12862,7 +12862,7 @@
     <Cell><Data ss:Type="String">23：最终武器</Data></Cell>
     <Cell><Data ss:Type="String">23：終極兵器</Data></Cell>
     <Cell><Data ss:Type="String">23: 최종 병기</Data></Cell>
-    <Cell><Data ss:Type="String">23:  Абсолютное оружие</Data></Cell>
+    <Cell><Data ss:Type="String">#23:  A arma suprema</Data></Cell>
     <Cell><Data ss:Type="String">#23:  Broń ostateczna</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12877,7 +12877,7 @@
     <Cell><Data ss:Type="String">24：最终决战之后</Data></Cell>
     <Cell><Data ss:Type="String">24：最終決戰之後</Data></Cell>
     <Cell><Data ss:Type="String">24: 최종 결전 후</Data></Cell>
-    <Cell><Data ss:Type="String">24:  Прорыв</Data></Cell>
+    <Cell><Data ss:Type="String">#24:  O colapso</Data></Cell>
     <Cell><Data ss:Type="String">#24:  Rozpad</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12892,7 +12892,7 @@
     <Cell><Data ss:Type="String">25：命悬一线</Data></Cell>
     <Cell><Data ss:Type="String">25：岌岌可危</Data></Cell>
     <Cell><Data ss:Type="String">25: 절체절명</Data></Cell>
-    <Cell><Data ss:Type="String">25:  Полный разгром</Data></Cell>
+    <Cell><Data ss:Type="String">#25:  Um golpe de desespero</Data></Cell>
     <Cell><Data ss:Type="String">#25:  Środek ostateczny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12907,7 +12907,7 @@
     <Cell><Data ss:Type="String">26：告别</Data></Cell>
     <Cell><Data ss:Type="String">26：道別</Data></Cell>
     <Cell><Data ss:Type="String">26: 작별</Data></Cell>
-    <Cell><Data ss:Type="String">26:  Прощание</Data></Cell>
+    <Cell><Data ss:Type="String">#26:  Adeus</Data></Cell>
     <Cell><Data ss:Type="String">#26:  Pożegnanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
@@ -12922,13 +12922,14 @@
     <Cell><Data ss:Type="String">27：丧家犬</Data></Cell>
     <Cell><Data ss:Type="String">27：輸家</Data></Cell>
     <Cell><Data ss:Type="String">27: 패배자</Data></Cell>
-    <Cell><Data ss:Type="String">27:  Жалкий неудачник</Data></Cell>
+    <Cell><Data ss:Type="String">#27:  Um mau perdedor</Data></Cell>
     <Cell><Data ss:Type="String">#27:  Przegrany</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"/>
    </Row>
+   <!--FLAG-->
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_001</Data></Cell>
