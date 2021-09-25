@@ -1499,8 +1499,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ATO</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ATO</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">ACT</Data></Cell>
@@ -9321,7 +9321,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">Jade Shoes</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chaussures jades</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Jade-Schuhe</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos de jade</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sapatos jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Scarpe giada</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧绿鞋子</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧綠鞋子</Data></Cell>
@@ -9486,7 +9486,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">Jade Gloves</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Gants de jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Blaue Handschuhe</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas de jade</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Luvas jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Guanti giada</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧绿手套</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">碧綠手套</Data></Cell>
@@ -9950,7 +9950,7 @@
     <Cell ss:StyleID="s86"><Data ss:Type="String">custom_056</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ジェイドウィスプ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Jade Wisp</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp de jade</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Jade-Wisp</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Jade</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp giada</Data></Cell>
