@@ -1,3 +1,6 @@
+## Colors Ultimate: Brazilian Localization v2.1
+- Bugs encontrados e corrigidos. Caso encontre mais algum bug, reporte para o Skyer: Skyer#6020
+
 ## Colors Ultimate: Brazilian Location v2.0
 - O idioma substituído agora é o Espanhol. Fizemos essa alteração por causa da fonte usada no Russo, que era muito grande.
 - Alguns textos das cutscenes foram alterados. Créditos ao TioIlluminati pelas modificações.
