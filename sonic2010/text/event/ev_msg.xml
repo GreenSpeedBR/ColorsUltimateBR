@@ -621,7 +621,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Everyone and their brother is gonna want&#10;to come here.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tout le monde va vouloir&#10;venir ici en famille.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Die Leute werden ihm die Bude&#10;einrennen.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Todo mundo vai&#10;querer vir aqui.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Todo mundo e o mundo todo&#10;vão querer vir aqui.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tutti vorranno venire in questo posto!</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">我們可要小心點。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">得小心一点。</Data></Cell>
@@ -681,7 +681,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Lucky for us he's not very good&#10;at keeping things hidden.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Heureusement qu'il n'est pas&#10;très doué pour cacher&#10;ses projets.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Zum Glück kommen seine&#10;Geheimnisse aber immer&#10;schnell ans Licht.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">E pra nossa sorte, ele não sabe&#10;manter nada em segredo.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Pra nossa sorte, ele não sabe&#10;manter nada escondido.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Per fortuna non è bravo&#10;a tenere nascoste le cose.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">這背後一定有什麼不可告人的原因。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">肯定不是为了什么好事。</Data></Cell>
@@ -741,7 +741,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Plot or not, you can't be mad at this view.&#10;This place is takin' beauty to the next level.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Diabolique ou pas, impossible&#10;de rester indifférent devant ce&#10;spectacle. C'est magnifique.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Übler Plan oder nicht, dieser&#10;Ort ist eine wahre Augenweide.&#10;So was hat's noch nie gegeben.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Sendo um plano ou não, é impossível&#10;ficar bravo com essa vista.&#10;Esse lugar tá uma beleza de outro mundo.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Plano ou não, é impossível&#10;ficar bravo com essa vista.&#10;Esse lugar tá uma beleza de outro mundo.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Wow! Piano o non piano, bisogna&#10;dire che il panorama di questo posto è mozzafiato, &#10;ridefinisce il concetto di bellezza.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">這個待會再慢慢想吧，看看這片風景……&#10;都讓我把蛋頭博士拋諸腦後了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">这个我们之后再慢慢想吧。瞧瞧这景色……&#10;看了就觉得蛋头博士什么的根本无所谓了。</Data></Cell>
@@ -875,7 +875,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">This amusement park has been constructed entirely&#10;out of a sense of remorse for my past </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ce parc d'attractions a été&#10;conçu uniquement pour me faire&#10;pardonner mes actes passés et</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Dieser Vergnügungspark wurde&#10;nur aus Reue für meine einstigen&#10;Missetaten errichtet</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Esse parque de diversões foi&#10;construído por eu me arrepender </Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Esse parque de diversões foi&#10;construído sem nenhum remorso sobre </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ho voluto costruire questo parco&#10;dei divertimenti spinto dal profondo&#10;rimorso per il mio</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">蛋頭行星樂園&#10;全面禁止壞蛋進入！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">蛋头行星乐园&#10;谢绝一切恶人进入！</Data></Cell>
@@ -888,7 +888,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">transgressions and is in no way associated with&#10;any sort of evil plot or premeditated misdeeds.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">n'a absolument rien à voir&#10;avec un plan diabolique ou&#10;un acte prémédité.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">und ist in keinster Weise mit&#10;irgendwelchen ... bösen Plänen oder&#10;vorsätzlichen Verbrechen verbunden.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">do que já fiz no passado. E não possui&#10;nenhum envolvimento com qualquer tipo de plano maligno&#10;ou crime premeditado. </Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">o que já fiz no passado, e não possui&#10;nenhum envolvimento com qualquer tipo de plano maligno&#10;ou crime premeditado. </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">passato da fuorilegge. Non si&#10;tratta assolutamente di un piano malvagio&#10;o di una qualche losca cospirazione.</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">我已經用監視器確認過了，&#10;電梯裡沒有比我更壞的人，請各位放心！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">电梯里已装上摄像头时刻防范，&#10;确保没有比我更坏的人搭乘，敬请安心！</Data></Cell>
@@ -1005,7 +1005,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, what's going on?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Mais qu'est-ce qui se passe ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, was ist los?</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Diz aí, o que tá acontecendo?</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Hey, o que tá acontecendo?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ehi, che sta succedendo?</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">HEY！你們在幹嘛！？</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">HEY，在干什么呢！？</Data></Cell>
@@ -1306,7 +1306,11 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yeah, that's pretty much how we spend our time.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ouais, c'est généralement&#10;comme ça que ça marche.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ja, unsere Lieblings-&#10;beschäftigung!</Data></Cell>
+<<<<<<< Updated upstream
     <Cell ss:StyleID="s69"><Data ss:Type="String">Exato, é assim que&#10;a gente passa o tempo.</Data></Cell>
+=======
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Exato, é assim que&#10;a gente gasta o nosso tempo.</Data></Cell>
+>>>>>>> Stashed changes
     <Cell ss:StyleID="s69"><Data ss:Type="String">Giusto! in fondo è così che &#10;passiamo il tempo.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿嘿，大概吧，我不會放任他做壞事的！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿嘿，可能吧，总之我不会放过他的！</Data></Cell>
@@ -2286,7 +2290,7 @@
     <Cell ss:StyleID="s101"><Data ss:Type="String">Bah! Not nearly enough aliens! </Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Bah !&#10;Y a pas assez d'aliens !</Data></Cell>
     <Cell ss:StyleID="s102"><Data ss:Type="String">Pah! Die Aliens reichen ja&#10;hinten und vorne nicht!</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">Bah! Nem perto de ter&#10;aliens o suficiente!  </Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Bah! Nem perto de ter&#10;aliens o suficiente!</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Bah! Non ci sono abbastanza&#10;alieni!</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">嗯──！還完全不夠！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">哇啊啊！根本就不够啊！</Data></Cell>
@@ -2346,7 +2350,7 @@
     <Cell ss:StyleID="s101"><Data ss:Type="String">IDIOT! Get me more aliens!</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">IDIOT ! Bien sûr qu'il me&#10;faut plus d'aliens !</Data></Cell>
     <Cell ss:StyleID="s102"><Data ss:Type="String">Du Dummkopf! Hol - mir - mehr - Aliens!</Data></Cell>
-    <Cell ss:StyleID="s101"><Data ss:Type="String">IDIOTA! Me traga mais aliens!</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">Idiota! Me traga mais ALIENS!</Data></Cell>
     <Cell ss:StyleID="s101"><Data ss:Type="String">Incapace! &#10;Dovete portarmi altri alieni!</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">還敢開玩笑……知道了還不快去！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">怎么还在鬼混……那还不赶紧去！</Data></Cell>
@@ -2421,7 +2425,7 @@
     <Cell ss:StyleID="s105"><Data ss:Type="String">Wait a minute, I need to go over yonder! ...Sorry.</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Oups, je dois aller là-bas&#160;! ...Désolé.</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Einen Moment, ich muss gehen ... Sorry.</Data></Cell>
-    <Cell ss:StyleID="s104"><Data ss:Type="String">Espera, não é por aqui que eu tenho que ir! ...Desculpa..</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Espera, não é por aqui que eu tenho que ir! ...Desculpa.</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Aspetta... io devo andare di là! ...Scusa.</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">唉～真是的……&#10;肚子好餓啊～</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">唉～真是的……&#10;肚子饿了～</Data></Cell>
@@ -2541,7 +2545,7 @@
     <Cell ss:StyleID="s98"><Data ss:Type="String">He means since the boss said&#10;&quot;nothing will stop me&quot;&#10; and Sonic here is going to stop him,</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Puisque le patron a dit :&#10;&quot;rien ne m'arrêtera&quot; et que&#10;Sonic est ici pour l'arrêter,</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Er meint, weil der Chef gesagt&#10;hat, nichts wird ihn aufhalten,&#10;und Sonic ihn aufhalten will,</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">Ele quis dizer que já que o&#10;chefe disse &quot;nada vai me parar&quot;&#10; e o Sonic aqui vai parar ele,</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Ele quis dizer que já que o&#10;chefe disse &quot;nada vai me parar&quot;&#10; e o Sonic estando aqui vai parar ele,</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Visto che il capo ha detto &#10;&quot;nessuno potrà fermarmi&quot; e &#10;Sonic è qui per farlo, </Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">因為老大說「就來阻止看看啊」，&#10;所以索尼克才會來啦。</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">因为头目刚才说“来阻止看看啊”，&#10;所以索尼克就来了。</Data></Cell>
@@ -2582,7 +2586,7 @@
     <Cell ss:StyleID="s98"><Data ss:Type="String">Fine! You're so smart,&#10;robot, you take care of this mess!&#10;Release the Big Boy!</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Bien ! Puisque tu es aussi&#10;futé, cher robot, occupe-toi&#10;de tout ça ! À toi, Big Boy !</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Prima! Da du ja so clever bist,&#10;kannst du den Schlamassel wieder&#10;gutmachen! Setz den Großen ein!</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">Tá legal... Já que você é tão esperto,&#10;robô, é VOCÊ que vai dar conta dessa sujeira!&#10;Soltem o grandão!</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Tá legal... Já que você é tão esperto,&#10;robô, é VOCÊ que vai dar conta dessa sujeira!&#10;Soltem o Big Boy!</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Bene, visto che sei così intelligente&#10;occupati di questo guaio!&#10;Libera il Ragazzone!</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">你說這種機器人是我的忍者！？&#10;太小看我了……</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">这破机器人是我的忍者？&#10;说什么蠢话呢……</Data></Cell>
@@ -2608,7 +2612,7 @@
     <Cell ss:StyleID="s101"><Data ss:Type="String">Hasta la bye bye, suckers!</Data></Cell>
     <Cell ss:StyleID="s101"><Data ss:Type="String">Hasta la bye bye, les pignoufs !</Data></Cell>
     <Cell ss:StyleID="s101"><Data ss:Type="String">Tschüsschen, ihr Nulpen!</Data></Cell>
-    <Cell ss:StyleID="s101"><Data ss:Type="String">Hasta la vista, trouxas!</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">Até mais falou, trouxas!</Data></Cell>
     <Cell ss:StyleID="s101"><Data ss:Type="String">Ciao ciao!&#10;Ci vediamo, tontoloni!</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">記得坐一次150塊哦！</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">每次50元哦——！</Data></Cell>
@@ -3513,7 +3517,11 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Okay, he says his name is &quot;Talks-a-lot&quot;&#10;and he's from a far away soda and</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">OK. Il dit qu'il s'appelle&#10;&quot;Tchatcheur&quot; et qu'il vient&#10;d'un soda lointain</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Okay ... Er sagt, er heißt&#10;Quassel und kommt von einer&#10;fernen Brause,</Data></Cell>
+<<<<<<< Updated upstream
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ok, ele disse que se chama &quot;Bilu&quot;&#10;e ele é de um refri distante,</Data></Cell>
+=======
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ok, ele disse que se chama &quot;Fala-fala&quot;&#10;e ele é de um refrigerante distante,</Data></Cell>
+>>>>>>> Stashed changes
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ok. Dice che il suo nome è &quot;Ciarlone&quot;, &#10;viene da una lontana bibita...</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯……他說他叫做足球。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">呃……它说它叫雅客。</Data></Cell>
@@ -5751,7 +5759,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Visitors are cautioned to avoid&#10;feeding, petting, or saving any aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Nous prévenons les visiteurs&#10;qu'il ne faut pas nourrir,&#10;caresser ou sauver les aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Besuchern ist es untersagt, die&#10;Aliens zu füttern, zu streicheln,&#10;oder zu retten.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Visitantes são orientados a evitar alimentar,&#10;acariciar, ou salvar qualquer alienígena.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Visitantes são orientados a evitar alimentar,&#10;acariciar, ou salvar qualquer alien.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ai visitatori non è concesso&#10;dar da mangiare, accarezzare&#10;o salvare gli alieni.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">各位來賓請注意，&#10;請勿任意觸摸、餵食或捕捉外星人。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">各位来宾，请不要随便抚摸外星人，&#10;也不要擅自喂食，或把外星人带回家。</Data></Cell>
@@ -5796,7 +5804,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Let's dance!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">C'est parti, mon kiki !</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Darf ich bitten?!</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Cai pro pau!</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cai dentro!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Diamoci dentro!</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">那就開心玩吧！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">那就痛痛快快玩吧！</Data></Cell>
@@ -6878,7 +6886,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Let's dance!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">C'est parti, mon kiki !</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Darf ich bitten?!</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Cai pro pau!</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cai dentro!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Diamoci dentro!</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">那就開心玩吧！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">那就痛痛快快玩吧！</Data></Cell>
@@ -7914,7 +7922,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Well first, remember this&#10;translation stuff isn't 100%.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">D'abord, n'oublie pas que mon&#10;traducteur est un prototype.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Du weißt ja, das&#10;Übersetzungsgerät ist noch nicht&#10;ganz ausgereift.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Primeiramente, lembre-se de que esse&#10;negócio de tradução ainda não é 100% fiel.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Primeiramente, lembre-se de que esse&#10;negócio de tradução ainda não é 100%.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Prima di tutto, ricorda che&#10;il software di traduzione &#10;non è ancora perfetto.</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">我盡量試了……&#10;但是這台機器很難用。</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">我很努力了……&#10;但这台机器用起来太难了。</Data></Cell>
@@ -8109,7 +8117,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">ALL their power, and using&#10;it for an evil... aquatic mammal?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">TOUT leur pouvoir pour&#10;un méchant... mammifère&#10;aquatique ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">ALL ihre Kraft. Und er verwendet&#10;sie für ein böses ... Brötchen?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">TODO o poder deles! E tá usando pra&#10;um maligno... mamífero aquático?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">TODO o poder deles! E tá usando pra&#10;um maligno... animal aquático?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">di TUTTA la loro energia, &#10;e la usa per un... &#10;mammifero acquatico?</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">「圓圓的警察」？&#10;「邪惡的個性」？好像都不對……</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">“圆形警察”？&#10;“邪恶技法”？好像都不对……</Data></Cell>
@@ -8967,7 +8975,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Well first, remember this&#10;translation stuff isn't 100%.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">D'abord, n'oublie pas que mon&#10;traducteur est un prototype.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Du weißt ja, das&#10;Übersetzungsgerät ist noch nicht&#10;ganz ausgereift.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Primeiramente, lembre-se de que esse&#10;negócio de tradução ainda não é 100% fiel.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Primeiramente, lembre-se de que esse&#10;negócio de tradução ainda não é 100%.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Prima di tutto, ricorda che&#10;il software di traduzione &#10;non è ancora perfetto.</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">我盡量試了……&#10;但是這台機器很難用。</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">我很努力了……&#10;但这台机器用起来太难了。</Data></Cell>
@@ -9162,7 +9170,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">ALL their power, and using&#10;it for an evil... aquatic mammal?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">TOUT leur pouvoir pour&#10;un méchant... mammifère&#10;aquatique ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">ALL ihre Kraft. Und er verwendet&#10;sie für ein böses ... Brötchen?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">TODO o poder deles! E tá usando pra&#10;um maligno... mamífero aquático?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">TODO o poder deles! E tá usando pra&#10;um maligno... animal aquático?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">di TUTTA la loro energia, &#10;e la usa per un... &#10;mammifero acquatico?</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">「圓圓的警察」？&#10;「邪惡的個性」？好像都不對……</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">“圆形警察”？&#10;“邪恶技法”？好像都不对……</Data></Cell>
@@ -10126,7 +10134,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Me? I did nothing at all.&#10;Unless shooting him with my mind control beam</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Moi ? Mais rien du tout.&#10;Par contre, mon rayon&#10;hypnotique</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ich? Gar nichts! Es sei denn,&#10;die Tatsache, dass ich meinen&#10;mit Alien-Energie betriebenen</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Eu? Eu não fiz nada.&#10;A não ser atirar nele com o meu&#10;raio controlador de mentes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Eu? Eu não fiz nada.&#10;A não ser que atirar nele com o meu&#10;raio controlador de mentes</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Io? Non gli ho fatto proprio niente. &#10;A meno che tu ti riferisca a quando l'ho &#10;colpito con il raggio per il controllo</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我什麼都沒做啊。&#10;是他自己衝過來，</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我可什么都没做，&#10;是这家伙自己突然冲出来。</Data></Cell>
@@ -10141,7 +10149,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">that runs on alien energy counts&#10;as doing something to him.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">alimenté par de l'énergie alien&#10;y est peut-être pour quelque&#10;chose.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Gedankenkontrollstrahl auf ihn&#10;abgefeuert habe, ist irgendwie&#10;relevant.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">que funciona com a energia dos aliens&#10;e transforma ele nisso.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">que funciona com a energia dos aliens&#10;conte como fazer algo a ele.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">mentale che sfrutta l'energia&#10;aliena.</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">又自己被從外星人身上&#10;抽出的能量照到。</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">擅自承受了我从外星人身上&#10;抽取的能量而已。</Data></Cell>
@@ -10156,7 +10164,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Does it?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Se pourrait-il ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ist sie das?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não é?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Conta?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">È così?</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">看著吧。</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">你看。</Data></Cell>
@@ -10260,7 +10268,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Huh? Where am I?&#10;Why is my nose hair tingling?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hein ? Où suis-je ?&#10;Pourquoi est-ce que mes&#10;moustaches frémissent ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Wo bin ich?&#10;Woher kommt dieses Kitzeln in&#10;meiner Nase?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Hã? Onde é que eu tô?&#10;Por que o meu nariz tá formigando?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Hã? Onde é que eu estou?&#10;Por que o meu bigode tá formigando?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Eh? Ma dove sono? E perché &#10;mi bruciano i peli del naso?</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">咦？我是怎麼了？&#10;好像突然眼前一黑……</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">咦？我怎么了？&#10;感觉突然眼前一黑……</Data></Cell>
@@ -10273,7 +10281,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Lousy cheap alien energy.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Fichue énergie alien&#10;de bas de gamme.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Miese, billige Alien-Energie.</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Sua energia alienígena de camelô!</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Droga de energia alienígena de camelô!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Stupida energia aliena&#10;difettosa!</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">可惡！到底是怎麼回事！？</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">可恶！怎么回事！？</Data></Cell>
@@ -11182,7 +11190,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Me? I did nothing at all.&#10;Unless shooting him with my mind control beam</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Moi ? Mais rien du tout.&#10;Par contre, mon rayon&#10;hypnotique</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ich? Gar nichts! Es sei denn,&#10;die Tatsache, dass ich meinen&#10;mit Alien-Energie betriebenen</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Eu? Eu não fiz nada.&#10;A não ser atirar nele com o meu&#10;raio controlador de mentes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Eu? Eu não fiz nada.&#10;A não ser que atirar nele com o meu&#10;raio controlador de mentes</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Io? Non gli ho fatto proprio niente. &#10;A meno che tu ti riferisca a quando l'ho &#10;colpito con il raggio per il controllo</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我什麼都沒做啊。&#10;是他自己衝過來，</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我可什么都没做，&#10;是这家伙自己突然冲出来。</Data></Cell>
@@ -11197,7 +11205,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">that runs on alien energy counts&#10;as doing something to him.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">alimenté par de l'énergie alien&#10;y est peut-être pour quelque&#10;chose.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Gedankenkontrollstrahl auf ihn&#10;abgefeuert habe, ist irgendwie&#10;relevant.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">que funciona com a energia dos aliens&#10;e transforma ele nisso.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">que funciona com a energia dos aliens&#10;conte como fazer algo a ele.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">mentale che sfrutta l'energia&#10;aliena.</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">又自己被從外星人身上&#10;抽出的能量照到。</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">擅自承受了我从外星人身上&#10;抽取的能量而已。</Data></Cell>
@@ -11212,7 +11220,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Does it?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Se pourrait-il ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ist sie das?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não é?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Conta?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">È così?</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">看著吧。</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">你看。</Data></Cell>
@@ -11316,7 +11324,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Huh? Where am I?&#10;Why is my nose hair tingling?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hein ? Où suis-je ?&#10;Pourquoi est-ce que mes&#10;moustaches frémissent ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Wo bin ich?&#10;Woher kommt dieses Kitzeln in&#10;meiner Nase?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Hã? Onde é que eu tô?&#10;Por que o meu nariz tá formigando?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Hã? Onde é que eu estou?&#10;Por que o meu bigode tá formigando?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Eh? Ma dove sono? E perché &#10;mi bruciano i peli del naso?</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">咦？我是怎麼了？&#10;好像突然眼前一黑……</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">咦？我怎么了？&#10;感觉突然眼前一黑……</Data></Cell>
@@ -12069,7 +12077,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, Sonic!&#10;Did you give the guide your complaint?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hé, Sonic !&#10;Alors tu as porté plainte&#10;auprès du guide ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, Sonic!&#10;Hast du dich beim&#10;Reiseleiter beschwert?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ei, Sonic!&#10;Você fez uma reclamação ao guia?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ei, Sonic!&#10;Você fez sua reclamação ao guia?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ehi, Sonic!&#10;Allora, com'è andata&#10;con la guida?</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">索尼克！&#10;大船遊樂設施好玩嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">索尼克！&#10;在巨大的船型游乐设施里玩得开心吗？</Data></Cell>
@@ -12084,7 +12092,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Oh, I gave it to him pretty good.&#160; </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Oui, je crois qu'il n'est pas&#10;près de l'oublier.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Oh ja ... und zwar nicht zu knapp.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, ele teve o que merecia. </Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, ele ouviu poucas e boas.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Oh, gliele ho suonate di santa ragione!</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯，還滿好玩的。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">还行吧。</Data></Cell>
@@ -12099,7 +12107,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String" x:Ticked="1"> 'Sup Yacker?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hé, Yacker !</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Na, Yacker?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não é mesmo, Yacker?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">De boa, Yacker?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Come va, Yacker?</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿，亞克！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">你好，亚克！</Data></Cell>
@@ -12114,7 +12122,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">So did you get any more info out of him?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Au fait, il t'en a dit plus ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Und, hast du noch irgendwas&#10;von ihm rausbekommen?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Você conseguiu mais alguma informação?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Então, você conseguiu mais alguma informação?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hai ottenuto altre informazioni?</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">你還有問出什麼嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">你还打听出了什么信息？</Data></Cell>
@@ -12309,7 +12317,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">in orbit while he scoops the aliens all up.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">en orbite pendant qu'il prélève&#10;les aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">während er sich die ganzen&#10;Aliens schnappt.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">na órbita enquanto ele pega os alienígenas.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">na órbita enquanto ele pega os aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">pianeta nell'orbita, mentre&#10;cattura gli alieni.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">似乎就是利用這個方式把威斯抓起來的。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">然后抓捕威斯。</Data></Cell>
@@ -12339,7 +12347,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Well, it's tiny, but still... yeah.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Elle est toute petite mais...&#10;oui.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Na ja, er ist winzig klein, aber&#10;trotzdem.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Se bem que eles são pequenos, mas... é.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bem, eles são pequenos, mas... é.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Beh, è molto piccolo, ma... Sì.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">沒錯，不過那顆星球好像很小。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">是啊，因为是很小的星球。</Data></Cell>
@@ -12354,7 +12362,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">OK fine. Five generators?&#10;Well, I've already leveled two.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">OK. Cinq générateurs ?&#10;Eh bien, j'en ai déjà démoli&#10;deux.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Also gut. Fünf Generatoren?&#10;Zwei hab ich schon plattgemacht.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ok. Cinco geradores?&#10;Bem, eu já desativei dois.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ok. Cinco geradores?&#10;Bem, eu já acabei com dois.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ok, bene. Cinque generatori? &#10;Beh, ne ho già distrutti due.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">算了，你說引力產生器有五台對吧？&#10;其中兩台已經被我破壞掉了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">这话先搁一边。发电机有5个是吧？&#10;其中2个已经破坏掉了。</Data></Cell>
@@ -12408,7 +12416,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker says the aliens don't have much time. </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker m'a dit que les aliens&#10;n'avaient pas beaucoup de&#10;temps.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker sagt, den Aliens bleibt&#10;wenig Zeit.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker disse que os alienígenas não tem muito tempo.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker disse que os aliens não tem muito tempo.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker dice che non resta molto &#10;tempo agli alieni.</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">要是悠悠哉哉的，&#10;說不定就來不及了！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">再磨磨蹭蹭&#10;可就来不及了！</Data></Cell>
@@ -13359,7 +13367,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, Sonic!&#10;Did you give the guide your complaint?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hé, Sonic !&#10;Alors tu as porté plainte&#10;auprès du guide ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, Sonic!&#10;Hast du dich beim&#10;Reiseleiter beschwert?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ei, Sonic!&#10;Você fez uma reclamação ao guia?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ei, Sonic!&#10;Você fez sua reclamação ao guia?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ehi, Sonic!&#10;Allora, com'è andata&#10;con la guida?</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">索尼克！&#10;大船遊樂設施好玩嗎？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">索尼克！&#10;在巨大的船型游乐设施里玩得开心吗？</Data></Cell>
@@ -13374,7 +13382,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Oh, I gave it to him pretty good.&#160; </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Oui, je crois qu'il n'est pas&#10;près de l'oublier.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Oh ja ... und zwar nicht zu knapp.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, ele teve o que merecia. </Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, ele ouviu poucas e boas. </Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Oh, gliele ho suonate di santa ragione!</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嗯，還滿好玩的。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">还行吧。</Data></Cell>
@@ -13389,7 +13397,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String" x:Ticked="1"> 'Sup Yacker?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hé, Yacker !</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Na, Yacker?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não é mesmo, Yacker?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">De boa, Yacker?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Come va, Yacker?</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿，亞克！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">你好，亚克！</Data></Cell>
@@ -13464,7 +13472,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Do we know how Eggman is getting all these aliens?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Est-ce qu'on sait comment&#10;Eggman attrape tous ces aliens ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Wissen wir auch, wie Eggman all&#10;die Aliens einfängt?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">A gente já sabe como o Eggman tá&#10;conseguindo todos esses alienígenas?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">A gente já sabe como o Eggman tá&#10;conseguindo todos esses aliens?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">E sappiamo come Eggman &#10;cattura questi alieni?</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">他是怎麼&#10;抓到這些威斯的？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">他到底是怎么&#10;抓到那些威斯的啊？</Data></Cell>
@@ -13599,7 +13607,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">in orbit while he scoops the aliens all up.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">en orbite pendant qu'il prélève&#10;les aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">während er sich die ganzen&#10;Aliens schnappt.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">na órbita enquanto ele pega os alienígenas.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">na órbita enquanto ele pega os aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">pianeta nell'orbita, mentre&#10;cattura gli alieni.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">似乎就是利用這個方式把威斯抓起來的。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">然后抓捕威斯。</Data></Cell>
@@ -13629,7 +13637,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Well, it's tiny, but still... yeah.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Elle est toute petite mais...&#10;oui.</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Na ja, er ist winzig klein, aber&#10;trotzdem.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Se bem que eles são pequenos, mas... é.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bem, eles são pequenos, mas... é.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Beh, è molto piccolo, ma... Sì.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">沒錯，不過那顆星球好像很小。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">是啊，因为是很小的星球。</Data></Cell>
@@ -13644,7 +13652,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">OK fine. Five generators?&#10;Well, I've already leveled two.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">OK. Cinq générateurs ?&#10;Eh bien, j'en ai déjà démoli&#10;deux.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Also gut. Fünf Generatoren?&#10;Zwei hab ich schon plattgemacht.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ok. Cinco geradores?&#10;Bem, eu já desativei dois.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ok. Cinco geradores?&#10;Bem, eu já acabei com dois.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ok, bene. Cinque generatori? &#10;Beh, ne ho già distrutti due.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">算了，你說引力產生器有五台對吧？&#10;其中兩台已經被我破壞掉了。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">这话先搁一边。发电机有5个是吧？&#10;其中2个已经破坏掉了。</Data></Cell>
@@ -13698,7 +13706,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker says the aliens don't have much time. </Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker m'a dit que les aliens&#10;n'avaient pas beaucoup de&#10;temps.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker sagt, den Aliens bleibt&#10;wenig Zeit.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker disse que os alienígenas não tem muito tempo.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker disse que os aliens não tem muito tempo.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yacker dice che non resta molto &#10;tempo agli alieni.</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">要是悠悠哉哉的，&#10;說不定就來不及了！</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">再磨磨蹭蹭&#10;可就来不及了！</Data></Cell>
@@ -14694,7 +14702,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Y'all reckon you'll be able to get yerself 'nuff&#10;o' that energy to take over the whole dang planet?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tu crois que t'arriveras à&#10;récolter assez d'énergie pour&#10;dominer toute la planète ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Glaubste, du kriegst genug&#10;Energie, um die Macht über den&#10;ganzen Planeten zu übernehmen?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">'Cê tem certeza de que vai conseguir esse tanto&#10;de energia pra dominar todo o planeta?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">'Cê tem certeza de que vai conseguir esse tantão&#10;de energia pra dominar todo o planeta?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Pensa davvero di riuscire a sottrarre &#10;così tanta energia da poter &#10;dominare tutto il pianeta?</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">你收集這麼多能量&#10;原來是想把世界據為己有嗎？</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">汝收集那么多能量&#10;难道是想操纵全世界吗？</Data></Cell>
@@ -14709,7 +14717,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yes, I &quot;reckon&quot; I will.&#10;Where is your new voice chip?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Bien sûr que je vais y arriver.&#10;Où est ta nouvelle puce vocale ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ja, das glaube ich.&#10;Wo ist dein neuer Stimmenchip?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Sim, eu tenho mais do que certeza.&#10;Onde está o seu novo chip de voz?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Sim, eu vou conseguir esse &quot;tantão&quot;.&#10;Onde está o seu novo chip de voz?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Si, penso proprio di riuscirci. &#10;Dov'è il nuovo chip vocale?</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我剛剛就說了吧……&#10;想辦法處理一下這傢伙！</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我刚才不就说了吗……&#10;能不能修一下这家伙啊！</Data></Cell>
@@ -14739,7 +14747,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">The think bone's connected to the talk bone,</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">L'os de la pensée est connecté&#10;à l'os de la parole,</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Der Denkknochen ist mit dem&#10;Sprechknochen verbunden,</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">♪ Minha boneca de lata, bateu a cabeça no chão ♪</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">♪ O fio da cabeça, encaixa na fala,&#10;um cabo na frente, outro atrás... ♪</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">L'osso del pensiero con &#10;quello della parola che </Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">忍者的語音～變更～♪&#10;啊，另一個地方也順便～變更～♪</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">忍者的声音，变更～♪&#10;啊，再附送一个福利，变更～♪</Data></Cell>
@@ -14754,7 +14762,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">the talk bone's connected to the mouth bone...</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">l'os de la parole&#10;est connecté à l'os de la bouche...</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">und der Sprechknochen mit dem&#10;Kieferknochen ...</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">♪ Levou mais de uma hora pra fazer a arrumação... ♪</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">♪ ...agora ele vai poder falar... ♪</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">va collegato con &#10;l'osso della bocca...</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">（ダミー）</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">（ダミー）</Data></Cell>
@@ -14799,7 +14807,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yar!&#10;Feelin' ship-shape with me new voice chip, I am.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Mille sabords ! Je m'sens&#10;d'aplomb avec cette nouvelle&#10;puce vocale, moussaillon.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ahoi!&#10;Endlich kann ich wieder richtig&#10;schnacken!</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Yar! Me sinto muito bem com esse&#10;novo chip de voz.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Yar! Me sentindo novo em folha igual um navio&#10;com meu novo chip de voz, eu estou.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Aaah! Mi sento benissimo &#10;con questo nuovo chip vocale!</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">非常感謝！&#10;我會努力拿下優勝！</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">非常感谢！&#10;我要努力夺得头筹！</Data></Cell>
@@ -14814,7 +14822,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ah-beggin' yer pardon, Squire,&#10;but me and my matey are going to&#10;sail off an' search fer that lubber</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Désolé, matelot, mais moi&#10;et mon équipage, on met les&#10;voiles en quête de butin.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Verzeihen Sie, Käpt'n ...&#10;Mein Kumpel und ich stechen&#10;in See, um Sonic zu finden,</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Me perdoe, capitão, mas eu e meu compadre&#10;vamos procurar aquele maldito</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Perdoa eu, escudeiro, mas eu e meu compadre vamos&#10;procurar esse marinheiro de água doce</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Mi scusi, signore. &#10;Io e i miei fratelli partiamo &#10;alla ricerca di quel </Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我會全心遵從師父的教導，走出自己的相撲人生！</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我会谨遵师傅的教诲，在相扑场上赛出风格！</Data></Cell>
@@ -14829,7 +14837,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Sonic. Arr!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Arr !</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">die Landratte. Arr!</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Sonic. Arr!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">que se diz chamar Sonic. Arr!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">riccio di terra di Sonic. Arr!</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我立刻去找索尼克練習！</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">我去找索尼克切磋切磋！</Data></Cell>
@@ -15785,7 +15793,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">It sounds like they're in shock because of public&#10;transportation and a loony nurse.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ils sont tous choqués à cause&#10;des transports publics et d'une&#10;infirmière folle.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Sie sind schockiert wegen dem&#10;öffentlichen Verkehr und einer &#10;verrückten Krankenschwester.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Eles estão chocados com o preço da passagem e com a qualidade dos hospitais.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Eles estão em choque por causa de um&#10;animal de estimação e um assunto controverso.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Sembrano sotto shock a causa&#10;dei trasporti pubblici e di&#10;un'infermiera matta.</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">他們好像都很害怕。</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">大家好像都很害怕。</Data></Cell>
@@ -15800,7 +15808,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Oh, no wait, scratch that.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Oh non, oublie ce que je viens&#10;de dire.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Oh, halt. Vergiss das.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não, espera, esquece o que eu falei.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Não, espera, risca isso.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">No, come non detto.</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">他們一直說「生氣了、生氣了」&#10;是誰生氣了呢？</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">它们在说“生气了，生气了”。&#10;可到底是谁生气了呢？</Data></Cell>
@@ -15815,7 +15823,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">They're in shock because of their&#10;planet's strange transformation</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ils sont tous choqués à cause&#10;de la transformation étrange&#10;de leur planète</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Sie sind schockiert über die&#10;Verwandlung ihres Planeten,&#10;und darüber,</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Eles estão chocados&#10;com a estranha transformação feita nesse planeta</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Eles estão em choque pela&#10;estranha transformação do planeta</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Sono sotto shock a causa&#10;della strana trasformazione&#10;del loro pianeta</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">啊，不對……</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">啊，搞错了……</Data></Cell>
@@ -15830,7 +15838,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">and having been dragged across&#10;the universe!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">qui a été traînée à travers&#10;l'univers.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">dass man sie einmal quer durch&#10;die Galaxis geschleppt hat.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">e por terem sido arrastados&#10;por todo o universo!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">e por terem sido arrastados&#10;através do universo!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">e per aver attraversato &#10;mezzo universo...</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">這些威斯說他們的星球發生了一件事，&#10;讓整顆星球都飛到非常遙遠的地方去了。</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">说是威斯们的星球上发生了一些事&#10;然后整个星球都被拽到很远的地方来了。</Data></Cell>
@@ -16737,7 +16745,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">All unauthorized photography,&#10;video reproduction, or shutting</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Toute photographie, reproduction&#10;vidéo non autorisée ou</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Die unerlaubte Aufnahme von Bild&#10;und Ton ist strengstens verboten,</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Todas fotografias, reproduções&#10;de vídeo ou a desativação</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Todas as fotografias, reproduções&#10;de vídeo ou a desativação</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tutte le foto non autorizzate,&#10;le riproduzioni video</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">所有的星球、空氣、水、樹木、草&#10;通通都是屬於我的。</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">所有星球、空气、水、花草树木，&#10;一切的一切都是我的东西。</Data></Cell>
@@ -16797,7 +16805,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">No copyright law in the universe is&#10;going to stop me.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Et aucune loi de copyright dans&#10;l'univers ne va m'en empêcher.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Kein Urheberrechtsgesetz des&#10;ganzen Universums wird mich&#10;davon abhalten.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Nenhuma leizinha de copyright&#10;no universo vai me parar!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Nenhuma lei de copyright&#10;no universo vai me parar!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Non ci sono leggi sul copyright&#10;in tutto l'universo che mi&#10;potranno fermare.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿，蛋頭博士！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">哟，蛋头博士！</Data></Cell>
@@ -16812,7 +16820,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">We can save a lot of time and&#10;broken robots if you just quit now!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">On gagnerait du temps et il y&#10;aurait moins de robots cassés&#10;si tu abandonnais maintenant !</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ergib dich einfach, und wir&#10;sparen uns 'ne Menge Zeit und&#10;kaputte Roboter!</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Podemos poupar o nosso tempo e&#10;alguns robôs quebrados se você desistir agora!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Podemos poupar bastante tempo e&#10; robôs quebrados se você desistir agora!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Possiamo risparmiare un sacco di&#10;tempo e robot se decidi di arrenderti ora!</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">竟敢對威斯他們做出這麼過分的事，&#10;你才該給我好好注意！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">对威斯们做了那么过分的事，&#10;你才需要做好思想准备！</Data></Cell>
@@ -16827,7 +16835,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">You try to be reasonable...</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Sois un peu raisonnable...</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Da will man vernünftig reden ...</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Eu tento ser sensato...</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Você tenta ser sensato...</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Uno prova a essere ragionevole...</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">就算這裡的一切都屬於你，&#10;那也跟我沒有關係！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">就算这里的东西全是你的财产，&#10;那和我有什么关系！</Data></Cell>
@@ -17830,7 +17838,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Uh, maybe.&#10;That's between me and the robot.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Euh, peut-être bien.&#10;Ça reste entre moi et lui.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Äh, das geht wirklich nur mich&#10;und den Roboter was an.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ãh, talvez?&#10;Isso é algo entre o robô e eu.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ãh, talvez?&#10;Isso é algo entre mim e o robô.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ehm, forse. È una cosa&#10;fra me e il robot.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">沒有啦……我只是確認一下他是不是完全壞了。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">不是……我只是在确认它是不是真的坏了。</Data></Cell>
@@ -17845,7 +17853,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">See, the important thing here is&#10;the alien planet is free.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tu vois, l'important ici, c'est&#10;que la planète des aliens soit&#10;libérée.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Das Wichtige ist doch, dass&#10;dieser Planet befreit wurde.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">O importante é que&#10;o planeta alienígena foi libertado.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">O importante é que&#10;o planeta alienígena está livre.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">La cosa più importante&#10;è che il pianeta alieno sia&#10;libero.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">反正，我們救了威斯他們的星球，&#10;其他小細節就別在意了。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">不过，反正已经救了威斯们的星球，&#10;怎样都好吧？</Data></Cell>
@@ -17860,7 +17868,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Absolutely.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Absolument.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Natürlich.</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Tá bom mano.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Com certeza.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Ma certo.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">你說得也對。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">话是没错啦。</Data></Cell>
@@ -17920,7 +17928,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Well, come on,&#10;I've seen you save the day a lot of times.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tu sais, je t'ai déjà vu sauver&#10;la mise plein de fois par le&#10;passé.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Na komm. Ich hab dich&#10;schon oft die Welt retten&#10;sehen.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, qualé! Eu já te vi&#10;salvar o dia várias vezes,</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, qual é! Eu já te vi&#10;salvar o dia várias vezes,</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Beh, ti ho visto salvare il&#10;mondo diverse volte.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我見識過好幾次&#10;索尼克渡過難關的樣子。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">虽然我见过很多次&#10;索尼克你跨越难关的情景，</Data></Cell>
@@ -18925,7 +18933,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">I doubt Eggman had the decency to&#10;put a good sushi joint in this park.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Je doute qu'Eggman ait eu&#10;l'amabilité de construire un&#10;bar à sushi dans ce parc.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ob Eggman wohl auch an eine&#10;ordentliche Sushi-Bude für&#10;seinen Park gedacht hat?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Eu duvido que o Eggman teve a decência&#10;de colocar um bom Sushi-Bar nesse parque.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Eu duvido que o Eggman teve a decência&#10;de colocar um bom sushi bar nesse parque.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ma dubito che Eggman abbia aperto&#10;un ristorante giapponese &#10;nel luna park.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">不過看著蛋頭博士&#10;我也不會想吃蛋就是了……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">不过嘛，就算看见蛋头博士&#10;我也不会想吃鸡蛋就是了……</Data></Cell>
@@ -20077,7 +20085,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">You know me.&#10;I aim to please.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Tu me connais.&#10;J'aime faire plaisir.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Du kennst mich doch! Ich&#10;will anderen halt gefallen.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Você me conhece.&#10;Eu procuro sempre agradar.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Você me conhece.&#10;Eu procuro agradar.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Mi conosci: voglio &#10;fare tutti contenti!</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">沒什麼啦，這也是為了大家嘛。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">这也算是为了大家嘛。</Data></Cell>
@@ -20137,7 +20145,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">His cruelty knows no bounds.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Sa cruauté est sans bornes.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Die Grausamkeit kennt keine&#10;Grenzen.</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">A crueldade dele não tem limite.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">A crueldade dele não tem limites.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">È un posto davvero, &#10;davvero... crudo.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">蛋頭博士開的餐廳……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">蛋头博士的餐厅……</Data></Cell>
@@ -21157,7 +21165,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">strange... negative... &#10;aliens with the freaky energy.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">aliens négatifs... et bizarres&#10;avec l'énergie effrayante.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">in diese komischen ... negativen&#10;Wesen mit den unheimlichen Kräften.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">estranhos... negativos...&#10;alienígenas com essa energia medonha.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">estranhos... negativos...&#10;aliens com essa energia medonha.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">strani... alieni... negativi...&#10;con della strana energia.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">看起來……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">看来，</Data></Cell>
@@ -21202,7 +21210,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Look at all of them.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Regarde-les tous.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Sieh dir das an!</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Olhe pra todos eles.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Olha pra todos eles.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Guarda quanti sono!</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">看起來你發現了什麼……&#10;有趣的東西……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">你好像发现了什么有趣的……&#10;东西……</Data></Cell>
@@ -21217,7 +21225,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">He's captured thousands of aliens.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Il a capturé des milliers&#10;d'aliens.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Er hat tausende Aliens gefangen.</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Ele capturou milhares de alienígenas.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ele capturou milhares de aliens.</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Ha catturato migliaia di alieni.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">太過分了……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">好过分……</Data></Cell>
@@ -21232,7 +21240,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Don't worry.&#10;We'll get 'em out.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ne t'en fais pas.&#10;On va les sortir de là.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Keine Angst.&#10;Wir kriegen sie da raus.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não se preocupe, eu irei libertá-los.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Não se preocupa, a gente vai soltar eles.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Non preoccuparti.&#10;Li libereremo.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">居然把這麼多威斯給……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">竟然对这么多的威斯……</Data></Cell>
@@ -22250,7 +22258,7 @@
     <Cell ss:StyleID="s127"><Data ss:Type="String">You know, I don't like what you're&#10;doing to my friends in there.</Data></Cell>
     <Cell ss:StyleID="s127"><Data ss:Type="String">Tu sais, je n'aime pas du tout&#10;ce que tu fais à mes amis.</Data></Cell>
     <Cell ss:StyleID="s127"><Data ss:Type="String">Hey, mir gefällt nicht,&#10;was du da mit meinen&#10;Freunden anstellst.</Data></Cell>
-    <Cell ss:StyleID="s127"><Data ss:Type="String">Você sabe, eu não gosto do que você&#10;tá fazendo com os meus amigos.</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">Sabe, eu não gosto do que você&#10;tá fazendo com os meus amigos.</Data></Cell>
     <Cell ss:StyleID="s127"><Data ss:Type="String">Vedi, non mi piace quello&#10;che fai ai miei amici.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">嘿，可惡的刺刺機器人！&#10;你還真讓我吃了不少苦頭啊。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">哟，你这尖刺机器人！&#10;你做的好事啊。</Data></Cell>
@@ -22295,7 +22303,7 @@
     <Cell ss:StyleID="s127"><Data ss:Type="String">I want to be able to fully enjoy taking you apart&#10;without some pulled muscle slowing me down.</Data></Cell>
     <Cell ss:StyleID="s127"><Data ss:Type="String">Je veux te détruire sans me&#10;faire mal. Pas envie d'avoir&#10;un muscle froissé plus tard.</Data></Cell>
     <Cell ss:StyleID="s127"><Data ss:Type="String">Sonst bekomm ich Muskelkater,&#10;nachdem ich dich Stück für Stück&#10;auseinander genommen habe.</Data></Cell>
-    <Cell ss:StyleID="s127"><Data ss:Type="String">Eu quero me divertir acabando com a sua raça&#10;sem nenhum músculo me desacelerando.</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">Eu quero me divertir acabando com a sua raça&#10;sem nenhuma distensão me desacelerando.</Data></Cell>
     <Cell ss:StyleID="s127"><Data ss:Type="String">Voglio godermi la parte in cui ti smonto &#10;pezzo per pezzo senza aver paura&#10;di stirarmi un muscolo.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我可不想為了拆解你多花力氣，&#10;搞得自己很累。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我可不想为了把你砸烂而多费力气，&#10;把自己搞得更累</Data></Cell>
@@ -23408,7 +23416,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ha ha, right.&#10;But, one that's, y'know, less evil than this one.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ah ah, d'accord. Mais un parc un&#10;peu moins diabolique que&#10;celui-là, hein.&#10;</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Genau. Aber einen,&#10;der etwas vergnüglicher ist.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Haha, certo.&#10;Mas, dessa vez saberemos que será um&#10;menos maligno do que esse aqui.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Haha, certo.&#10;Mas, dessa vez, sabe, um&#10;menos maligno do que esse aqui.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ahahah, giusto. &#10;Ma magari... Uno, sai, un po'... &#10;meno &quot;malvagio&quot; di questo.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">哈哈，不會有比這裡更糟的遊樂園了。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">啊哈哈，不可能有比这里&#10;更糟糕的游乐园啦。</Data></Cell>
@@ -23423,7 +23431,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">So, are all the aliens getting free?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Alors, tous les aliens sont&#10;libres ?</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Und? Haben wir alle Aliens befreit?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Então, todos os alienígenas estão se libertando?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Então, todos os aliens estão se libertando?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Allora... Tutti gli alieni sono&#10;liberi?</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">那些威斯應該沒事了吧？</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">威斯们已经没事了吧？</Data></Cell>
@@ -23498,7 +23506,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Not without power flowing to it.&#10;I think we're all good.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Pas sans pouvoir pour la faire&#10;fonctionner.&#10;Je pense que tout va bien.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Nicht ohne Stromzufuhr.&#10;Ich glaube, wir sind sicher.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Não sem nenhum poder para nutrí-la.&#10;Acho que estamos indo bem.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Não sem nenhum poder para nutrí-la.&#10;Acho que estamos de boa.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Senza la corrente non credo.&#10;Dovremmo essere salvi.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">已經沒有能量了，所以光線槍應該沒辦法用了。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">能量已经用完了，应该用不了的。</Data></Cell>
@@ -24510,7 +24518,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">SWEET!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">COOL !</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">SUPER!</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">É isso aí!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">É ISSO AÍ!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">FANTASTICO!</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">太好了！</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">成功了！</Data></Cell>
@@ -24540,7 +24548,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Was there ever any doubt?&#10;I mean, really?&#10;Great job, buddy.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Pourquoi ? Tu en doutais ?&#10;Vraiment ?&#10;Bravo, mon ami.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hast du etwa daran gezweifelt?&#10;Ich meine, wirklich?&#10;Tolle Arbeit, Kumpel.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Você ainda tinha dúvida?&#10;Sério?&#10;Bom trabalho, mano.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Você ainda tinha dúvida?&#10;Tipo, sério?&#10;Bom trabalho, mano.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Perché, avevi qualche dubbio? &#10;Cioè, davvero? Ottimo lavoro, amico.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">這對我來說只不過是小事一樁。&#10;就跟之前一樣。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">这点小事都不够我塞牙缝的。&#10;都习以为常了，不是吗？</Data></Cell>
@@ -26047,7 +26055,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, there's the sweet sound&#10;my auditory processors know and love.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, voilà le doux son que &#10;mes récepteurs auditifs adorent.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, wie meine Gehörprozessoren&#10;diesen süßen Klang vermisst&#10;haben!</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, nada como o doce som que&#10;meus processadores auditivos conhecem e amam.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, aí está o doce som que&#10;meus processadores auditivos conhecem e amam.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ah, il dolce suono tanto&#10;familiare ai miei processori&#10;acustici!</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">好像變回原本的「冷笑話大叔」模式了。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">啊，好像又回到之前的“冷笑话大叔”模式了。</Data></Cell>
@@ -26112,7 +26120,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">The man gets an A for effort, that's for sure.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ses efforts ont du mérite,&#10;ça c'est sûr.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Man kann nicht sagen, er würde&#10;es nicht versuchen.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Esse cara merece um &quot;A&quot; pelo esforço, com certeza.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">No esforço, ele é um cara assim nota 10, com certeza!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Non si può negare che ci &#10;metta tutto l'impegno possibile...</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">有靈感了！我們要去收十個！</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">好嘞！去把他干掉！</Data></Cell>
@@ -26790,7 +26798,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Hey Tails?</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Hé Tails !</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Hey, Tails ...</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Ei, Tails.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ei, Tails?</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Ehi, Tails?</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我說，塔爾斯……</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我说，塔尔斯……</Data></Cell>
@@ -26865,7 +26873,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">running for their lives, yeah,&#10;I get a bad feeling.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">grand fracas et que je vois des&#10;aliens courant pour sauver leur&#10;vie, ouais, je le sens mal.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">und Aliens um ihr Leben rennen,&#10;ja, da beschleicht mich ein&#10;ungutes Gefühl.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">correndo por suas vidas... é,&#10;acho que o pau vai comer.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">correndo por suas vidas... é,&#10;eu tive um mau pressentimento.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">alieni correre per salvarsi &#10;la pelle... beh, non è &#10;un buon segno.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">看到這樣誰都會有不好的預感吧？</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">不管是谁都会有不祥的预感吧。</Data></Cell>
@@ -26880,7 +26888,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">So, how about you and me make&#10;like Eggman's hairline and recede?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Alors, pourquoi on ne ferait pas&#10;comme les cheveux d'Eggman,&#10;en s'arrachant ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Was hältst du davon, wenn&#10;wir beide uns wie Eggmans&#10;Haaransatz zurückziehen?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Então, o que acha de agirmos&#10;igual o Eggman e recuarmos?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Então, o que acha de agirmos&#10;igual o cabelo do Eggman e recuarmos?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ehi, che ne dici se ci ritiriamo&#10;anche noi come i capelli &#10;di Eggman?</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我們還是不要在這裡聊天了，&#10;趕快逃跑比較好吧？</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">我们还是别待在这闲聊了&#10;快点跑吧？</Data></Cell>
@@ -26925,7 +26933,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Yeah! Running now!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Ouais ! C'est parti !</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Ja. Ab geht die Post!</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Sim, eu já tô indo!</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">É, tipo agora!</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Sì. E di corsa pure!</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">嗯！我先走了！</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">嗯！我先走了！</Data></Cell>
@@ -27935,7 +27943,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">At least let me STAMP your hand&#10;so you can come back in.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Laissez-moi au moins vous mettre&#10;un COUP de tampon si vous souhaitez&#10;revenir.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ich verpasse euren Händen&#10;nur einen STEMPEL, damit ihr&#10;wieder reinkommt.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Pelo menos me deixe carimbar a sua mão&#10;para que você possa voltar!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Pelo menos me deixe CARIMBAR a sua mão&#10;para que você possa voltar!</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Lasciate che vi timbri la mano, &#10;così potrete tornare un'altra volta.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">為了讓你之後能重新入場，還要幫你蓋上手章。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">再给你敲个印章，让你之后也能再次入场呢。</Data></Cell>
@@ -31139,7 +31147,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">A hedgehog's got to do what&#10;a hedgehog's got to do.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Un hérisson doit faire ce qu'il&#10;doit faire.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ein Igel muss tun, was ein Igel&#10;tun muss.</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Um ouriço sempre faz&#10;o que deve ser feito.</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Um ouriço tem que fazer&#10;o que ele tem que fazer.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Un porcospino deve fare &#10;quello che deve fare.</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">你應該很清楚吧？&#10;我在緊要關頭時可是很強的。</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">你也知道吧？&#10;我该出手时就会出手。</Data></Cell>
@@ -32221,7 +32229,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, remember when we were&#10;chasing all the little alien guys?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hé, tu te souviens quand on&#10;poursuivait tous les petits&#10;aliens ?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Hey, weißt du noch,&#10;wie wir die kleinen&#10;Alien-Kerle gejagt haben?</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Ei, lembra quando a gente tava&#10;caçando aqueles alienígenas?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ei, lembra quando a gente tava&#10;caçando aqueles aliens?</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ehi, ti ricordi quando inseguivamo &#10;quegli alieni?</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">就算讓外星人逃走也不可以沮喪難過！</Data></Cell>
     <Cell ss:StyleID="s121"><Data ss:Type="String">外星人都跑啦，我也不在意！</Data></Cell>
