@@ -1,3 +1,6 @@
+## Colors Ultimate: Brazilian Localization v2.2
+- Correção de textos (Skyer)
+
 ## Colors Ultimate: Brazilian Localization v2.1
 - Bugs encontrados e corrigidos. Caso encontre mais algum bug, reporte para o Skyer: Skyer#6020
 
