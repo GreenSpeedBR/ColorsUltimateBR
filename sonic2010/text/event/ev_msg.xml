@@ -1306,11 +1306,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yeah, that's pretty much how we spend our time.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ouais, c'est généralement&#10;comme ça que ça marche.</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Ja, unsere Lieblings-&#10;beschäftigung!</Data></Cell>
-<<<<<<< Updated upstream
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Exato, é assim que&#10;a gente passa o tempo.</Data></Cell>
-=======
     <Cell ss:StyleID="s69"><Data ss:Type="String">Exato, é assim que&#10;a gente gasta o nosso tempo.</Data></Cell>
->>>>>>> Stashed changes
     <Cell ss:StyleID="s69"><Data ss:Type="String">Giusto! in fondo è così che &#10;passiamo il tempo.</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿嘿，大概吧，我不會放任他做壞事的！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">嘿嘿，可能吧，总之我不会放过他的！</Data></Cell>
