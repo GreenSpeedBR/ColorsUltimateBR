@@ -1,3 +1,6 @@
+## Colors Ultimate: Brazilian Localization v2.3
+- Pequeno erro em cutscene consertado (Skyer)
+
 ## Colors Ultimate: Brazilian Localization v2.2
 - Correção de textos (Skyer)
 
