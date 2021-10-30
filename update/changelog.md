@@ -1,3 +1,6 @@
+## Colors Ultimate: Brazilian Localization v2.5
+- Migração do repositório para a organização da Green Speed Studio
+
 ## Colors Ultimate: Brazilian Localization v2.4
 - Erro em dica consertado. (Cauan)
 
