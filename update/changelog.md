@@ -1,3 +1,6 @@
+## Colors Ultimate: Brazilian Localization v3.0
+- Com a chegada do patch de dezembro, o mod quebrou na parte do "new_dynamic_text" (os textos novos referentes a configurações, botões de menu e etc). Por enquanto, essa parte foi removida pra evitar que o mod fique quebrado. Cutscenes e dicas ainda estão 100%.
+
 ## Colors Ultimate: Brazilian Localization v2.5
 - Migração do repositório para a organização da Green Speed Studio
 

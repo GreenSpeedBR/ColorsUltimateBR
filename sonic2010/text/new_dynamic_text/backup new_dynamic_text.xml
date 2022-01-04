@@ -7,9 +7,9 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Author>k.tommy</Author>
-  <LastAuthor>Júlio Almeida</LastAuthor>
+  <LastAuthor>Sarah Kakusho</LastAuthor>
   <Created>2007-10-05T08:14:26Z</Created>
-  <LastSaved>2021-12-17T18:48:03Z</LastSaved>
+  <LastSaved>2021-06-17T01:31:16Z</LastSaved>
   <Company>SEGA</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -17,8 +17,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11520</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>18150</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
@@ -887,12 +887,12 @@
    <Alignment ss:Vertical="Center" ss:WrapText="1"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s165">
+  <Style ss:ID="s164">
    <Alignment ss:Vertical="Center" ss:WrapText="1"/>
    <Font ss:FontName="Microsoft JhengHei" x:Family="Swiss" ss:Size="11"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s166">
+  <Style ss:ID="s165">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
@@ -902,7 +902,7 @@
    </Borders>
    <Interior/>
   </Style>
-  <Style ss:ID="s167" ss:Parent="s63">
+  <Style ss:ID="s166" ss:Parent="s63">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
@@ -913,7 +913,18 @@
    <Font ss:FontName="NSimSun" x:Family="Swiss" ss:Size="11"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s168" ss:Parent="s63">
+  <Style ss:ID="s167" ss:Parent="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous"/>
+   </Borders>
+   <Font ss:FontName="ＭＳ Ｐゴシック" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s168">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
@@ -926,26 +937,10 @@
   </Style>
   <Style ss:ID="s169">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous"/>
-   </Borders>
-   <Font ss:FontName="ＭＳ Ｐゴシック" x:Family="Swiss" ss:Size="11"/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s170">
-   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s171">
-   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Underline="Single"/>
-   <Interior/>
-  </Style>
-  <Style ss:ID="s172">
+  <Style ss:ID="s170">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous"/>
@@ -956,13 +951,13 @@
    <Interior/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s173">
+  <Style ss:ID="s171">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s174" ss:Parent="s63">
+  <Style ss:ID="s172" ss:Parent="s63">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
@@ -972,37 +967,26 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s175">
+  <Style ss:ID="s173">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008080"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s176">
+  <Style ss:ID="s174">
    <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008080"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s177">
+  <Style ss:ID="s175">
    <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008080"/>
    <Interior/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s180">
-   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous"/>
-   </Borders>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Underline="Single"/>
-   <Interior/>
-  </Style>
  </Styles>
  <Worksheet ss:Name="text">
-  <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="980" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="970" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s69" ss:DefaultColumnWidth="54"
    ss:DefaultRowHeight="12">
    <Column ss:StyleID="s70" ss:AutoFitWidth="0" ss:Width="91.5"/>
@@ -9226,97 +9210,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Lewo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_325</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">その他</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Others</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Autres</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Andere</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Outros</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Altri</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">其他</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">其他</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">기타</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Другие</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Inni</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_326</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">ブーストブラー</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Boost blur</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">augmenter le flou</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">Unschärfe verstärken</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Borrão de boost</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">aumenta la sfocatura</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">增强模糊</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">增強模糊</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">부스트 블러</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">усилить размытие</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">zwiększyć rozmycie</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_327</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Trilha sonora</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_328</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Mix Ultimate</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_329</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Música original</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">optsat_330</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Música remix</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Custom</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_001</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ピンクシューズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Pink Shoes</Data></Cell>
@@ -9331,7 +9225,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Różowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_002</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">グリーンシューズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Green Shoes</Data></Cell>
@@ -9346,7 +9240,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zielone buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_003</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">イエローシューズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Yellow Shoes</Data></Cell>
@@ -9361,7 +9255,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Żółte buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_004</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">オレンジシューズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Orange Shoes</Data></Cell>
@@ -9376,7 +9270,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pomarańczowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_005</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">パープルシューズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Purple Shoes</Data></Cell>
@@ -9391,7 +9285,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fioletowe buty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_006</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ブルーシューズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Blue Shoes</Data></Cell>
@@ -9750,7 +9644,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Светлая аура</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura jasności</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_034</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ファイアーオーラ</Data></Cell>
@@ -9764,9 +9658,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">파이어 오라</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Огненная аура</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura ognia</Data></Cell>
-    <Cell ss:StyleID="s145"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_035</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">エレクトリックオーラ</Data></Cell>
@@ -9781,7 +9674,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Электрическая аура</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura elektryczności</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_036</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">アイスオーラ</Data></Cell>
@@ -9796,7 +9689,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ледяная аура</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura lodu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_037</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">フローラルオーラ</Data></Cell>
@@ -9811,7 +9704,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Цветочная аура</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aura kwiatów</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_038</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Blind Squirrel Games</Data></Cell>
@@ -9826,7 +9719,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Blind Squirrel Games</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Blind Squirrel Games</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_039</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">SEGA</Data></Cell>
@@ -9855,9 +9748,10 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">소닉 팀</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Команда Соника</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Drużyna Sonica</Data></Cell>
+    <Cell ss:StyleID="s145"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
-    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_043</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ナックルズ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Knuckles</Data></Cell>
@@ -9872,7 +9766,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Knuckles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
-    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_044</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">エミー</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Amy</Data></Cell>
@@ -9886,8 +9780,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Эми</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amy</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_045</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">シャドウ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Shadow</Data></Cell>
@@ -9901,8 +9795,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Шэдоу</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Shadow</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_046</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">オーボット</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Orbot</Data></Cell>
@@ -9916,8 +9810,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Орбот</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Orbot</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_047</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">キューボット</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Cubot</Data></Cell>
@@ -9931,8 +9825,8 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">Кубот</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Cubot</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_048</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ヤッカー</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Yacker</Data></Cell>
@@ -9946,8 +9840,8 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">Яккер</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Yacker</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_049</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">シアンウィスプ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Cyan Wisp</Data></Cell>
@@ -9961,8 +9855,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Бирюзовый висп</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Turkusowy wisp</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_050</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">イエローウィスプ</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">Yellow Wisp</Data></Cell>
@@ -9976,8 +9870,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Желтый висп</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Żółty wisp</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_051</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">オレンジウィスプ</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">Orange Wisp</Data></Cell>
@@ -9991,8 +9885,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Оранжевый висп</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pomarańczowy wisp</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">custom_052</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ブルーウィスプ</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">Blue Wisp</Data></Cell>
@@ -10006,8 +9900,9 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Синий висп</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Niebieski wisp</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">custom_053</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">custom_053</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">グリーンウィスプ</Data></Cell>
     <Cell ss:StyleID="s135"><Data ss:Type="String">Green Wisp</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp vert</Data></Cell>
@@ -10020,8 +9915,9 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Зеленый висп</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Zielony wisp</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">custom_054</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_054</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ピンクウィスプ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Pink Wisp</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp rose</Data></Cell>
@@ -10034,8 +9930,9 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Розовый висп</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Różowy wisp</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">custom_055</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_055</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">パープルウィスプ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Purple Wisp</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp violet</Data></Cell>
@@ -10049,7 +9946,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fioletowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">custom_056</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_056</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">ジェイドウィスプ</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Jade Wisp</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wisp Jade</Data></Cell>
@@ -10063,7 +9961,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Nefrytowy wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">custom_057</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_057</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">エッグポーン</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Egg Pawn</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Egg Pawn</Data></Cell>
@@ -10077,7 +9976,8 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Egg Pawn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">custom_058</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_058</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">エッグマン</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Eggman</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Eggman</Data></Cell>
@@ -11140,9 +11040,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Биг</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Big</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">custom_133</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">custom_133</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ブレイズ</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Blaze</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Blaze</Data></Cell>
@@ -11155,9 +11054,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Блейз</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Blaze</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">custom_134</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">custom_134</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">シルバー</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Silver</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Silver</Data></Cell>
@@ -11170,9 +11068,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Сильвер</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Silver</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">custom_135</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">custom_135</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ベクター</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Vector</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Vector</Data></Cell>
@@ -11185,9 +11082,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Вектор</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Vector</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">custom_136</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">custom_136</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">黄ぷよ</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Puyo Yellow</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo jaune</Data></Cell>
@@ -11200,9 +11096,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Желтый пуйо</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Żółty puyo</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">custom_137</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">custom_137</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">紫ぷよ</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Puyo Purple</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo violet</Data></Cell>
@@ -11215,9 +11110,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Фиолетовый пуйо</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Fioletowy puyo</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">custom_138</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">custom_138</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">赤ぷよ</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Puyo Red</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Puyo rouge</Data></Cell>
@@ -11230,7 +11124,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Красный пуйо</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Czerwony puyo</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s71">
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_139</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">緑ぷよ</Data></Cell>
@@ -11387,7 +11281,7 @@
     <Cell><Data ss:Type="String">Shining Force</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Shining Force</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Shining Force</Data></Cell>
-    <Cell ss:StyleID="s180"><Data ss:Type="String">Shining Force</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Shining Force</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Shining Force</Data></Cell>
     <Cell><Data ss:Type="String">Shining Force</Data></Cell>
     <Cell><Data ss:Type="String">Shining Force</Data></Cell>
@@ -11426,7 +11320,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Clockwork Knight</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_152</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">シェンムー</Data></Cell>
     <Cell><Data ss:Type="String">Shenmue</Data></Cell>
@@ -11441,7 +11335,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Shenmue</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_153</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">クレイジータクシー</Data></Cell>
     <Cell><Data ss:Type="String">Crazy Taxi</Data></Cell>
@@ -11456,7 +11350,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Crazy Taxi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_154</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ジェット セット ラジオ</Data></Cell>
     <Cell><Data ss:Type="String">Jet Grind Radio</Data></Cell>
@@ -11471,7 +11365,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Jet Set Radio</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_155</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">パンツァードラグーン II</Data></Cell>
     <Cell><Data ss:Type="String">Panzer Dragoon II</Data></Cell>
@@ -11486,7 +11380,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Panzer Dragoon II</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_156</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">パンツァードラグーン オルタ</Data></Cell>
     <Cell><Data ss:Type="String">Panzer Dragoon Orta</Data></Cell>
@@ -11501,7 +11395,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Panzer Dragoon Orta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">custom_157</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">REZ</Data></Cell>
     <Cell><Data ss:Type="String">Rez</Data></Cell>
@@ -11644,7 +11538,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wächter</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Guardião</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Guardiano</Data></Cell>
-    <Cell ss:StyleID="s165"><Data ss:Type="String">经典纳克</Data></Cell>
+    <Cell ss:StyleID="s164"><Data ss:Type="String">经典纳克</Data></Cell>
     <Cell><Data ss:Type="String">經典納克</Data></Cell>
     <Cell><Data ss:Type="String">클래식 너클즈</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Страж</Data></Cell>
@@ -11756,7 +11650,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Azja)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">custom_174</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">セガ（ブルー）</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">SEGA (Bright)</Data></Cell>
@@ -11785,7 +11679,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Светлая эмблема</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Jasne logo</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">custom_176</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ダークエンブレム</Data></Cell>
@@ -11846,7 +11740,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Klasyczne ciemne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">custom_180</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ブルーアイコン</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Iconic Bright</Data></Cell>
@@ -11875,10 +11769,10 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (запад&#160;– светлый)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (zachód: jasne)</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">custom_182</Data></Cell>
-    <Cell ss:StyleID="s166"><Data ss:Type="String">セガ（欧米版：暗）</Data></Cell>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">セガ（欧米版：暗）</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">SEGA (West: Dark)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (Ouest : sombre)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SEGA (West: dunkel)</Data></Cell>
@@ -11892,66 +11786,6 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_183</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Sapatos explosivos</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_184</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Luvas explosivas</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_185</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Boost fogos de artifício</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s86"><Data ss:Type="String">custom_186</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Aura de fogos de artifício</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">ParkTokens</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">パークトークン</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Park Token</Data></Cell>
@@ -11959,8 +11793,8 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Spielmarken</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Park Tokens</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Gettoni luna park</Data></Cell>
-    <Cell ss:StyleID="s167"><Data ss:Type="String">游戏币</Data></Cell>
-    <Cell ss:StyleID="s168"><Data ss:Type="String">樂園代幣</Data></Cell>
+    <Cell ss:StyleID="s166"><Data ss:Type="String">游戏币</Data></Cell>
+    <Cell ss:StyleID="s167"><Data ss:Type="String">樂園代幣</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">파크 토큰</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Жетоны парка</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Parkowych żetonów</Data></Cell>
@@ -11983,7 +11817,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">park_001</Data></Cell>
-    <Cell ss:StyleID="s169"><Data ss:Type="String">オプションサテライトではパークトークンを使って買い物ができるよ</Data></Cell>
+    <Cell ss:StyleID="s168"><Data ss:Type="String">オプションサテライトではパークトークンを使って買い物ができるよ</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">You can spend your Park Tokens on new custom items in the Options Satellite. </Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dépense tes Jetons du parc contre de nouveaux objets de personnalisation dans les Options Satellite. </Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Du kannst deine Spielmarken unter Optionen für neue Anpassungen eintauschen. </Data></Cell>
@@ -12010,7 +11844,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Изменение облика Соника</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zmiana wyglądu Sonica</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">park_003</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">カスタマイズメニューで購入できるアイテムを見てみよう</Data></Cell>
@@ -12025,8 +11859,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Теперь у тебя достаточно жетонов парка, пора взглянуть на предметы, которые можно купить в меню изменения облика.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Masz już trochę parkowych żetonów, zobaczmy przedmioty, które można kupić w menu Dostosuj.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
-    <Cell ss:StyleID="s86"><Data ss:Type="String">rivalrush</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">park_004</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">アイテムリストに移動して[button]でグループを選ぼう</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Go to the list of items and use [button] to highlight the &quot;Icon&quot; group.</Data></Cell>
@@ -12040,171 +11874,170 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Перейди в список предметов и используй кнопку [button], чтобы выделить группу «Значок».</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przejdź do listy przedmiotów i użyj [button], aby podświetlić grupę Ikona.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">park_005</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">買えるものがあるみたいだね&#10;さっそく購入してみよう</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Hey, there's one you can buy. Why don't you try it out?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Regarde, en voilà un que tu peux acheter. Pourquoi ne pas l'essayer&#160;?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Hey, du kannst dir eins kaufen. Warum versuchst du es nicht?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ei, tem um que você pode comprar, por que não experimentar?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Eccone uno che puoi comprare. Provalo!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">这里的东西你应该能买下来，&#10;赶快把它收入囊中吧。</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">有可以購買的道具喔！&#10;趕快試著購買看看吧！</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">살 수 있는 아이템이 있나 봐&#10;지금 바로 구입해 보자</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Эй, ты даже можешь кое-что купить. Ну же, смелее.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">O, to można kupić. Może spróbujesz?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">買えるものがあるみたいだね&#10;さっそく購入してみよう</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Hey, there's one you can buy. Why don't you try it out?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Regarde, en voilà un que tu peux acheter. Pourquoi ne pas l'essayer&#160;?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Hey, du kannst dir eins kaufen. Warum versuchst du es nicht?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ei, tem um que você pode comprar, por que não experimentar?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Eccone uno che puoi comprare. Provalo!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">这里的东西你应该能买下来，&#10;赶快把它收入囊中吧。</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">有可以購買的道具喔！&#10;趕快試著購買看看吧！</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">살 수 있는 아이템이 있나 봐&#10;지금 바로 구입해 보자</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Эй, ты даже можешь кое-что купить. Ну же, смелее.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">O, to można kupić. Może spróbujesz?</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">park_006</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">一度購入したものはいつでも付け替えることができるんだ&#10;カスタマイズで選ぶだけだよ</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Once you buy an item, you can put it on at any time. Just come here to the &quot;Customize&quot; page, select the item to equip it, like you just did with your icon.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Une fois que tu as acheté un objet, tu peux l'équiper à tout moment. Pour cela, va sur la page de Personnalisation et sélectionne l'objet à mettre, comme tu viens de faire avec ton icône.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Sobald du eine Anpassung gekauft hast, kannst du sie jederzeit nutzen. Öffne einfach diesen Bildschirm und wähle die gewünschte Anpassung, genau wie du es mit dem Symbol gemacht hast.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Uma vez que você comprou um item, você pode equipar a qualquer hora, só vir no menu &quot;Customizar&quot;, selecione o item e equipe-o, exatamente como você fez com seu Ícone.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Una volta comprato, puoi metterlo quando vuoi. Vieni qui nella pagina Personalizza, seleziona l'oggetto da equipaggiare, come hai fatto con l'icona.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">你可以在自定义里随时换上已经购买的道具。</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">在自訂畫面中&#10;可以隨時更換購買過的道具喔！</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">한번 구입해 놓으면 언제든 바꿔서 장착할 수가 있어&#10;커스터마이즈에서 선택만 하면 돼</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Купленный предмет можно использовать в любое время. Просто перейди на страницу изменения облика и выбери предмет, который хочешь использовать.</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Z kupionego przedmiotu można zacząć korzystać w dowolnym momencie. Wystarczy przejść do strony Dostosuj, wybrać przedmiot, który ma być używany, tak jak przed chwilą w przypadku ikony.</Data></Cell>
-    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">一度購入したものはいつでも付け替えることができるんだ&#10;カスタマイズで選ぶだけだよ</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Once you buy an item, you can put it on at any time. Just come here to the &quot;Customize&quot; page, select the item to equip it, like you just did with your icon.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Une fois que tu as acheté un objet, tu peux l'équiper à tout moment. Pour cela, va sur la page de Personnalisation et sélectionne l'objet à mettre, comme tu viens de faire avec ton icône.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Sobald du eine Anpassung gekauft hast, kannst du sie jederzeit nutzen. Öffne einfach diesen Bildschirm und wähle die gewünschte Anpassung, genau wie du es mit dem Symbol gemacht hast.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Uma vez que você comprou um item, você pode equipar a qualquer hora, só vir no menu &quot;Customizar&quot;, selecione o item e equipe-o, exatamente como você fez com seu Ícone.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Una volta comprato, puoi metterlo quando vuoi. Vieni qui nella pagina Personalizza, seleziona l'oggetto da equipaggiare, come hai fatto con l'icona.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">你可以在自定义里随时换上已经购买的道具。</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">在自訂畫面中&#10;可以隨時更換購買過的道具喔！</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">한번 구입해 놓으면 언제든 바꿔서 장착할 수가 있어&#10;커스터마이즈에서 선택만 하면 돼</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Купленный предмет можно использовать в любое время. Просто перейди на страницу изменения облика и выбери предмет, который хочешь использовать.</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Z kupionego przedmiotu można zacząć korzystać w dowolnym momencie. Wystarczy przejść do strony Dostosuj, wybrać przedmiot, który ma być używany, tak jak przed chwilą w przypadku ikony.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">park_007</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">パークトークンをもっと集めよう！</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Now go find more Park Tokens!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">À présent, tu dois trouver d'autres Jetons du parc&#160;!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Jetzt hole dir noch mehr Spielmarken!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Agora vá achar mais Park Tokens!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ora vai a cercare altri gettoni luna park!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">快去收集更多的游戏币吧！</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">來收集更多樂園代幣吧！</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">파크 토큰을 좀 더 모아 보자!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Что ж, пора найти больше жетонов парка!</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ruszaj po więcej parkowych żetonów!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">パークトークンをもっと集めよう！</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Now go find more Park Tokens!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">À présent, tu dois trouver d'autres Jetons du parc&#160;!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Jetzt hole dir noch mehr Spielmarken!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Agora vá achar mais Park Tokens!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ora vai a cercare altri gettoni luna park!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">快去收集更多的游戏币吧！</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">來收集更多樂園代幣吧！</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">파크 토큰을 좀 더 모아 보자!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Что ж, пора найти больше жетонов парка!</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ruszaj po więcej parkowych żetonów!</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">entitlement_000</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">メタリックパック</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Metallic Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Pack métallique</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Metallic-Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Pacote Metálico</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Metallic Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">金属组合包</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">金屬風組合包</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">메탈릭 팩</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Набор «Два металла»</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Pakiet Metaliczny</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">メタリックパック</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Metallic Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pack métallique</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Metallic-Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pacote Metálico</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Metallic Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">金属组合包</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">金屬風組合包</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">메탈릭 팩</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Набор «Два металла»</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pakiet Metaliczny</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">entitlement_001</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">限定プレイヤーアイコン</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Exclusive Player Icons</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Icônes de joueur exclusives</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Exklusive Spielersymbole</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ícones de Usuário exclusivos</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Icone giocatore esclusive</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">独家玩家头像</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">限定玩家頭像</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">특별 한정 플레이어 아이콘</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Уникальные значки игрока</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Wyjątkowe ikony gracza</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">限定プレイヤーアイコン</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Exclusive Player Icons</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Icônes de joueur exclusives</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Exklusive Spielersymbole</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ícones de Usuário exclusivos</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Icone giocatore esclusive</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">独家玩家头像</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">限定玩家頭像</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">특별 한정 플레이어 아이콘</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Уникальные значки игрока</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Wyjątkowe ikony gracza</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">entitlement_002</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">ソニックムービーアイコン</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Sonic Movie Icons</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Icônes du film Sonic</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Sonic-Film-Symbole</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ícones de &quot;Sonic o Filme&quot;</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Icone film di Sonic</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">电影版索尼克头像</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">電影版索尼克頭像</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">소닉 영화 아이콘</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Значки «Соник в кино»</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ikony z filmu Sonic</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">ソニックムービーアイコン</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Sonic Movie Icons</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Icônes du film Sonic</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Sonic-Film-Symbole</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ícones de &quot;Sonic o Filme&quot;</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Icone film di Sonic</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">电影版索尼克头像</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">電影版索尼克頭像</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">소닉 영화 아이콘</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Значки «Соник в кино»</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ikony z filmu Sonic</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">entitlement_003</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">ソニックムービーエフェクト</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Sonic Movie FX</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Effets du film Sonic</Data></Cell>
-    <Cell ss:StyleID="s171"><Data ss:Type="String">Sonic-Film-Effekte</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Efeitos de &quot;Sonic o Filme&quot;</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Effetti del film di Sonic</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">电影版索尼克特效</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">電影版索尼克特效</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">소닉 영화 효과</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Спецэффекты «Соник в кино»</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Efekty z filmu Sonic</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">ソニックムービーエフェクト</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Sonic Movie FX</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Effets du film Sonic</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Sonic-Film-Effekte</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Efeitos de &quot;Sonic o Filme&quot;</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Effetti del film di Sonic</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">电影版索尼克特效</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">電影版索尼克特效</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">소닉 영화 효과</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Спецэффекты «Соник в кино»</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Efekty z filmu Sonic</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">entitlement_004</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">アルティメットミュージックパック</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Pacote de Música Ultimate</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">精选音乐礼包</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">終極音樂組合包</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">얼티밋 뮤직 팩</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Полный музыкальный набор</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Pakiet Ultimate Music Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">アルティメットミュージックパック</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pacote de Música Ultimate</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ultimate Music Pack</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">精选音乐礼包</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">終極音樂組合包</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">얼티밋 뮤직 팩</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Полный музыкальный набор</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Pakiet Ultimate Music Pack</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">entitlement_005</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">販売店限定アイコン</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Retailer Exclusive Icons</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Icônes exclusives à certains points de vente</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Händler-exklusive Symbole</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Ícones exclusivos de pré-venda</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Icone esclusive dei negozi specializzati</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">零售商独家头像</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">店鋪限定頭像</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">리테일러 특별 한정 아이콘</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Эксклюзивные значки компании-продавца</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Wyjątkowe ikony sklepów</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">販売店限定アイコン</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Retailer Exclusive Icons</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Icônes exclusives à certains points de vente</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Händler-exklusive Symbole</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Ícones exclusivos de pré-venda</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Icone esclusive dei negozi specializzati</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">零售商独家头像</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">店鋪限定頭像</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">리테일러 특별 한정 아이콘</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Эксклюзивные значки компании-продавца</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Wyjątkowe ikony sklepów</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">rivalrush</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">rivalrush_001</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">ライバルラッシュ</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">RIVAL RUSH</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">DUEL DE RIVAUX</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">RIVALENDUELL</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">RIVAL RUSH</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">DUELLO TRA RIVALI</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">极速竞争者</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">勁敵對決</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">라이벌 러시</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Гонка с соперником</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">STARCIE RYWALI</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">ライバルラッシュ</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">RIVAL RUSH</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">DUEL DE RIVAUX</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">RIVALENDUELL</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">RIVAL RUSH</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">DUELLO TRA RIVALI</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">极速竞争者</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">勁敵對決</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">라이벌 러시</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Гонка с соперником</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">STARCIE RYWALI</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s77">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">rivalrush_002</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">再挑戦しますか？</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Race Again?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Refaire la course&#160;?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Erneut antreten?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Correr de novo?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Vuoi gareggiare di nuovo?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">要再次挑战吗？</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">要再次挑戰嗎？</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">재도전하시겠습니까?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Еще одна гонка?</Data></Cell>
-    <Cell ss:StyleID="s170"><Data ss:Type="String">Powtórzyć wyścig?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">再挑戦しますか？</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Race Again?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Refaire la course&#160;?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Erneut antreten?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Correr de novo?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Vuoi gareggiare di nuovo?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">要再次挑战吗？</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">要再次挑戰嗎？</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">재도전하시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Еще одна гонка?</Data></Cell>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">Powtórzyć wyścig?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s78"/>
@@ -12220,6 +12053,7 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">도전하시겠습니까?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Принять?</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Przyjmujesz?</Data></Cell>
+    <Cell ss:StyleID="s77"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s78"/>
@@ -12371,7 +12205,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">чтобы открыть</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">aby odblokować</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s145">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ライバルチャレンジに挑戦しますか？</Data></Cell>
@@ -12416,8 +12250,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Участвуй в гонках с призраками и испытаниях с соперниками!</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Bierz udział w wyścigach z duchami i wyzwaniach rywalizacji!</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s172"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ゴーストレーサーを遊ぶには最初の&#10;２ステージをクリアする必要があります</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Complete the first two levels of Tropical Resort to unlock Ghost Racers.</Data></Cell>
@@ -12425,14 +12259,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Schließe die ersten zwei Level von Tropical Resort ab, um Geister freizuschalten.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Complete as primeiras duas fases da Tropical Resort para desbloquear Ghost Racers.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Completa i primi due livelli di Tropical Resort per sbloccare i fantasmi.</Data></Cell>
-    <Cell><Data ss:Type="String">必须通过最初的两个关卡才能挑战竞速幽灵。</Data></Cell>
-    <Cell><Data ss:Type="String">必須通過前2個關卡&#10;才能使用鬼魂跑者功能。</Data></Cell>
-    <Cell><Data ss:Type="String">고스트 레이서를 플레이하려면 처음&#10;두 스테이지를 클리어해야 합니다</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">必须通过最初的两个关卡才能挑战竞速幽灵。</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">必須通過前2個關卡&#10;才能使用鬼魂跑者功能。</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">고스트 레이서를 플레이하려면 처음&#10;두 스테이지를 클리어해야 합니다</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Заверши первые два уровня «Тропикал Резорт», чтобы разблокировать призрачных гонщиков.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ukończ dwa pierwsze poziomy Tropical Resort, aby odblokować duchy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">[Start Button]を押してください</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Press [Start Button] to Start</Data></Cell>
@@ -12447,7 +12281,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Wciśnij [Start Button], aby rozpocząć</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">プロフィールのアイコン設定</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Set the Avatar for your game profile. </Data></Cell>
@@ -12462,7 +12296,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ustaw awatara dla swojego profilu w grze. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ゴーストレースで 他のプレイヤーに&#10;アピールするアイコンを選びましょう</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Set the Avatar for other players to see as your Ghost Racer identity!</Data></Cell>
@@ -12507,7 +12341,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">PLACEHOLDER(日本語)</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Hint Rings </Data></Cell>
@@ -12521,8 +12355,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(русский)</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">PLACEHOLDER(Polski)</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s145">
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ストーリーの続きをプレイする前に&#10;ダウンロードを完了させてください</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Complete your download to play the rest of the story!</Data></Cell>
@@ -12537,7 +12371,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Zakończ pobieranie, aby zagrać w resztę historii!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"><Data ss:Type="String">Extras</Data></Cell>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">(insert CellID)_XB1</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">プレイヤー１のコントローラを&#10;再接続してから続けてください</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Player 1 Controller disconnected.  Please reconnect to continue.</Data></Cell>
@@ -12552,7 +12386,7 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"><Data ss:Type="String">(insert CellID)_NX</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">プレイヤー１のコントローラを&#10;再接続してから続けてください</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Player 1 Controller disconnected.  Please reconnect to continue.</Data></Cell>
@@ -12566,8 +12400,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Контроллер игрока 1 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s170"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">(insert CellID)_PS4</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">プレイヤー１のコントローラを&#10;再接続してから続けてください</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Player 1 Controller disconnected.  Please reconnect to continue.</Data></Cell>
@@ -12575,9 +12409,9 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Verbindung zu Controller von Spieler 1 verloren. Bitte schließe den Controller wieder an, um fortzufahren.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">O controle do Jogador 1 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Controller del giocatore 1 non collegato. Ricollegalo per continuare.</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1的控制器断开连接。请连接控制器。</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">玩家1的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">플레이어 1의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
+    <Cell><Data ss:Type="String">玩家1的控制器断开连接。请连接控制器。</Data></Cell>
+    <Cell><Data ss:Type="String">玩家1的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
+    <Cell><Data ss:Type="String">플레이어 1의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Контроллер игрока 1 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
@@ -12612,11 +12446,11 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Odłączono kontroler gracza 1,5. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">(insert CellID)_PS4</Data></Cell>
-    <Cell ss:StyleID="s173"><Data ss:Type="String">プレイヤー１.５のコントローラを&#10;再接続してから続けてください</Data></Cell>
-    <Cell ss:StyleID="s173"><Data ss:Type="String">Player 1.5 Controller disconnected.  Please reconnect to continue.</Data></Cell>
-    <Cell ss:StyleID="s174"><Data ss:Type="String">La manette du joueur 1.5 a été déconnectée. Reconnectez-la pour continuer.</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">プレイヤー１.５のコントローラを&#10;再接続してから続けてください</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Player 1.5 Controller disconnected.  Please reconnect to continue.</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">La manette du joueur 1.5 a été déconnectée. Reconnectez-la pour continuer.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Verbindung zu Controller von Spieler 1.5 verloren. Bitte schließe den Controller wieder an, um fortzufahren.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">O controle do Jogador 1.5 foi desconectado.  Reconecte para continuar.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Controller del giocatore 1.5 non collegato. Ricollegalo per continuare.</Data></Cell>
@@ -12627,7 +12461,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Odłączono kontroler gracza 1,5. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">(insert CellID)_XB1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">プレイヤー２のコントローラを&#10;再接続してから続けてください</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Player 2 Controller disconnected.  Please reconnect to continue.</Data></Cell>
@@ -12642,7 +12476,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Odłączono kontroler gracza 2. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">(insert CellID)_NX</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">プレイヤー２のコントローラを&#10;再接続してから続けてください</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Player 2 Controller disconnected.  Please reconnect to continue.</Data></Cell>
@@ -12659,302 +12493,302 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">(insert CellID)_PS4</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">プレイヤー２のコントローラを&#10;再接続してから続けてください</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">Player 2 Controller disconnected.  Please reconnect to continue.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">La manette du joueur 2 a été déconnectée. Reconnectez-la pour continuer.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">Verbindung zu Controller von Spieler 2 verloren. Bitte schließe den Controller wieder an, um fortzufahren.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">O controle do Jogador 2 foi desconectado.  Reconecte para continuar.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">Controller del giocatore 2 non collegato. Ricollegalo per continuare.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">玩家2的控制器断开连接。请连接控制器。</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">玩家2的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">플레이어 2의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">Контроллер игрока 2 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
-    <Cell ss:StyleID="s175"><Data ss:Type="String">Odłączono kontroler gracza 2. Podłącz kontroler, aby kontynuować.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">プレイヤー２のコントローラを&#10;再接続してから続けてください</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Player 2 Controller disconnected.  Please reconnect to continue.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">La manette du joueur 2 a été déconnectée. Reconnectez-la pour continuer.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Verbindung zu Controller von Spieler 2 verloren. Bitte schließe den Controller wieder an, um fortzufahren.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">O controle do Jogador 2 foi desconectado.  Reconecte para continuar.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Controller del giocatore 2 non collegato. Ricollegalo per continuare.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">玩家2的控制器断开连接。请连接控制器。</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">玩家2的控制器未成功連接。請重新檢查連接狀態。</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">플레이어 2의 컨트롤러를 다시 연결해 주세요.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Контроллер игрока 2 отсоединен. Подключи контроллер, чтобы продолжить.</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Odłączono kontroler gracza 2. Podłącz kontroler, aby kontynuować.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">ゲストプロフィール有効</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Guest Profile activated.</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Profil d'invité activé.</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Gastprofil aktiviert.</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Usuário Convidado ativado</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Profilo ospite attivato.</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">正在使用访客个人资料</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">使用訪客個人資料中</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">게스트 프로필 사용 중</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Выбран гостевой профиль.</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">Aktywowano profil gościa.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">ゲストプロフィール有効</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Guest Profile activated.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Profil d'invité activé.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Gastprofil aktiviert.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Usuário Convidado ativado</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Profilo ospite attivato.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">正在使用访客个人资料</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">使用訪客個人資料中</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">게스트 프로필 사용 중</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Выбран гостевой профиль.</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">Aktywowano profil gościa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Extras</Data></Cell>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_1</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">01：ワールド・オブ・カラーズ</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#01:  Worlds of Colors</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#01&#160;: Des mondes en couleurs</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#01:  Farbwelten</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#01:  Mundo de Cores</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">01: Mondi di colori</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">01：缤纷世界</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">01：彩色世界</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">01: 월드 오브 컬러즈</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">01:  Цветные миры</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#01:  Światy kolorów</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">01：ワールド・オブ・カラーズ</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#01:  Worlds of Colors</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#01&#160;: Des mondes en couleurs</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#01:  Farbwelten</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#01:  Mundo de Cores</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">01: Mondi di colori</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">01：缤纷世界</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">01：彩色世界</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">01: 월드 오브 컬러즈</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">01:  Цветные миры</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#01:  Światy kolorów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_2</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">02：ようこそ！</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#02:  Welcome!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#02&#160;: Bienvenue&#160;!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#02:  Willkommen!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#02:  Bem-vindo!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">02: Benvenuto!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">02：欢迎！</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">02：歡迎！</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">02: 어서 오세요!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">02:  Добро пожаловать!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#02:  Witaj!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">02：ようこそ！</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#02:  Welcome!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#02&#160;: Bienvenue&#160;!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#02:  Willkommen!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#02:  Bem-vindo!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">02: Benvenuto!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">02：欢迎！</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">02：歡迎！</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">02: 어서 오세요!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">02:  Добро пожаловать!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#02:  Witaj!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_3</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">03：不思議なパワー</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#03:  Wild Energy  </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#03&#160;: Énergie sauvage  </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#03:  Wilde Energie  </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#03:  Energia Selvagem  </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">03: Una strana energia  </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">03：神奇的力量</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">03：神奇的力量</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">03: 신비한 힘</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">03:  Дикая энергия  </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#03:  Dzika energia  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">03：不思議なパワー</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#03:  Wild Energy  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#03&#160;: Énergie sauvage  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#03:  Wilde Energie  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#03:  Energia Selvagem  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">03: Una strana energia  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">03：神奇的力量</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">03：神奇的力量</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">03: 신비한 힘</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">03:  Дикая энергия  </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#03:  Dzika energia  </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_4</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">04：止めてみるがいい</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#04:  Time to Start Stopping</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#04&#160;: Le début de la fin</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#04:  Zeit zum Stoppen</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#04:  Hora de começar a parar</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">04: Bisogna fermarlo</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">04：你挡不住我</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">04：儘管來阻止我看看啊</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">04: 멈춰 보시지</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">04:  Время покупок</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#04:  Pora zacząć zatrzymywanie</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">04：止めてみるがいい</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#04:  Time to Start Stopping</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#04&#160;: Le début de la fin</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#04:  Zeit zum Stoppen</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#04:  Hora de começar a parar</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">04: Bisogna fermarlo</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">04：你挡不住我</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">04：儘管來阻止我看看啊</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">04: 멈춰 보시지</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">04:  Время покупок</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#04:  Pora zacząć zatrzymywanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_5</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">05：名前はヤッカー</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#05:  His name is Yacker</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#05&#160;: Il s'appelle Yacker</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#05:  Sein Name ist Yacker</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#05:  O nome dele é Yacker</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">05: Si chiama Yacker</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">05：他叫亚克</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">05：他的名字是亞克</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">05: 이름은 얘커</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">05:  Его зовут Яккер</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#05:  Mówi, że ma na imię Yacker</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">05：名前はヤッカー</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#05:  His name is Yacker</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#05&#160;: Il s'appelle Yacker</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#05:  Sein Name ist Yacker</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#05:  O nome dele é Yacker</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">05: Si chiama Yacker</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">05：他叫亚克</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">05：他的名字是亞克</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">05: 이름은 얘커</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">05:  Его зовут Яккер</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#05:  Mówi, że ma na imię Yacker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_6</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">06：後かたづけ</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#06:  Cleaning Up</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#06&#160;: Nettoyage</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#06:  Reinemachen</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#06:  Faxina</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">06: Pulizie</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">06：善后</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">06：收拾殘局</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">06: 뒷정리</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">06:  Уборка</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#06:  Sprzątanie</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">06：後かたづけ</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#06:  Cleaning Up</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#06&#160;: Nettoyage</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#06:  Reinemachen</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#06:  Faxina</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">06: Pulizie</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">06：善后</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">06：收拾殘局</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">06: 뒷정리</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">06:  Уборка</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#06:  Sprzątanie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_7</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">07：スウィートな決戦</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#07:  Sweet Mountain Showdown</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#07&#160;: Duel à Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#07:  Showdown am Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#07:  Disputa na Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">07: Scontro a Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">07：甜滋滋的决战</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">07：甜蜜對決</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">07: 스위트한 결전</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">07:  Схватка в «Свит Маунтин»</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#07:  Ustawka na Sweet Mountain</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">07：スウィートな決戦</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#07:  Sweet Mountain Showdown</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#07&#160;: Duel à Sweet Mountain</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#07:  Showdown am Sweet Mountain</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#07:  Disputa na Sweet Mountain</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">07: Scontro a Sweet Mountain</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">07：甜滋滋的决战</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">07：甜蜜對決</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">07: 스위트한 결전</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">07:  Схватка в «Свит Маунтин»</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#07:  Ustawka na Sweet Mountain</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_8</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">08：ヒゲたまご</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#08:  Baldy McNosehair</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#08&#160;: Le Chauve Poilu</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#08:  Eierkopf Nasenhaar</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#08:  Robochilique</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">08: Testa d'uovo</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">08：胡子蛋</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">08：鬍子蛋</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">08: 수염 달걀</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">08:  Лысый Ноздрепух</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#08:  Łysy McWłoch</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">08：ヒゲたまご</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#08:  Baldy McNosehair</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#08&#160;: Le Chauve Poilu</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#08:  Eierkopf Nasenhaar</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#08:  Robochilique</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">08: Testa d'uovo</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">08：胡子蛋</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">08：鬍子蛋</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">08: 수염 달걀</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">08:  Лысый Ноздрепух</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#08:  Łysy McWłoch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_9</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">09：マインドコントロール</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#09:  Mind Controlled</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#09&#160;: Contrôle mental</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#09:  Gedankenkontrolle</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#09:  Controle Mental</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">09: Controllo mentale</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">09：精神控制</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">09：控制心靈</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">09: 마인드 컨트롤</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">09:  Подчинение сознания</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#09:  Kontrola umysłów</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">09：マインドコントロール</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#09:  Mind Controlled</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#09&#160;: Contrôle mental</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#09:  Gedankenkontrolle</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#09:  Controle Mental</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">09: Controllo mentale</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">09：精神控制</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">09：控制心靈</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">09: 마인드 컨트롤</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">09:  Подчинение сознания</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#09:  Kontrola umysłów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_10</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">10：残りのジェネレーター</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#10:  Three Generators Left</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#10&#160;: Trois générateurs</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#10:  Noch drei Generatoren</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#10:  Três geradores faltando</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">10: Mancano tre generatori</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">10：最后的发电机</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">10：剩餘的引力產生器</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">10: 나머지 제너레이터</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">10:  Осталось три генератора</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#10:  Zostały trzy generatory</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">10：残りのジェネレーター</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#10:  Three Generators Left</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#10&#160;: Trois générateurs</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#10:  Noch drei Generatoren</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#10:  Três geradores faltando</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">10: Mancano tre generatori</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">10：最后的发电机</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">10：剩餘的引力產生器</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">10: 나머지 제너레이터</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">10:  Осталось три генератора</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#10:  Zostały trzy generatory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_11</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">11：エッグマンの野望</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#11:  Dr. Eggman's Master Plan</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#11&#160;: Le grand coup de maître</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#11:  Dr. Eggmans großer Plan</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#11:  O plano do Dr. Eggman</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">11: Il piano del Dr. Eggman</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">11：蛋头博士的野心</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">11：蛋頭博士的野心</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">11: 에그맨의 야망</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">11:  Зловещий план доктора Эггмана</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#11:  Plan Dr. Eggmana</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">11：エッグマンの野望</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#11:  Dr. Eggman's Master Plan</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#11&#160;: Le grand coup de maître</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#11:  Dr. Eggmans großer Plan</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#11:  O plano do Dr. Eggman</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">11: Il piano del Dr. Eggman</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">11：蛋头博士的野心</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">11：蛋頭博士的野心</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">11: 에그맨의 야망</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">11:  Зловещий план доктора Эггмана</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#11:  Plan Dr. Eggmana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_12</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">12：ウィスプの惑星</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#12:  Planet of the Wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#12&#160;: Planète des Wisps</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#12:  Planet der Wisps</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#12:  Planeta dos Wisps</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">12: Pianeta dei wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">12：威斯行星</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">12：威斯星球</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">12: 위스프의 혹성</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">12:  Планета виспов</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#12:  Planeta wispów</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">12：ウィスプの惑星</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#12:  Planet of the Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#12&#160;: Planète des Wisps</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#12:  Planet der Wisps</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#12:  Planeta dos Wisps</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">12: Pianeta dei wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">12：威斯行星</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">12：威斯星球</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">12: 위스프의 혹성</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">12:  Планета виспов</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#12:  Planeta wispów</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_13</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">13：惑星の奪還</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#13:  Saving Planet Wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#13&#160;: Sauver la Planet Wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#13:  Rettet Planet Wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#13:  Salvando a Planet Wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">13: Salvare Planet Wisp</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">13：行星大解放</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">13：奪回星球</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">13: 혹성 탈환</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">13:  Спасение «Плэнет Висп»</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#13:  Na ratunek Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">13：惑星の奪還</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#13:  Saving Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#13&#160;: Sauver la Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#13:  Rettet Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#13:  Salvando a Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">13: Salvare Planet Wisp</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">13：行星大解放</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">13：奪回星球</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">13: 혹성 탈환</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">13:  Спасение «Плэнет Висп»</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#13:  Na ratunek Planet Wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_14</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">14：マヌケな顔</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#14:  After-Fight Refreshment</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#14&#160;: Réconfort post-combat</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#14:  Erfrischung nach dem Kampf</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#14:  O refresco da pós-luta</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">14: Spuntino post-battaglia</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">14：好傻哦</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">14：一臉呆滯</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">14: 얼빠진 얼굴</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">14:  Отдых после боя</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#14:  Odświeżenie po walce</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">14：マヌケな顔</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#14:  After-Fight Refreshment</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#14&#160;: Réconfort post-combat</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#14:  Erfrischung nach dem Kampf</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#14:  O refresco da pós-luta</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">14: Spuntino post-battaglia</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">14：好傻哦</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">14：一臉呆滯</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">14: 얼빠진 얼굴</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">14:  Отдых после боя</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#14:  Odświeżenie po walce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_15</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">15：水族館</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#15:  Sushi with Fish</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#15&#160;: J'adooore les Sushi</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#15:  Sushi mit Fisch</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#15:  Sushi feito com peixes</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">15: Sushi con pesce</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">15：水族馆</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">15：水族館</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">15: 수족관</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">15:  Суши с рыбой</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#15:  Sushi z rybami</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">15：水族館</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#15:  Sushi with Fish</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#15&#160;: J'adooore les Sushi</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#15:  Sushi mit Fisch</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#15:  Sushi feito com peixes</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">15: Sushi con pesce</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">15：水族馆</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">15：水族館</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">15: 수족관</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">15:  Суши с рыбой</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#15:  Sushi z rybami</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_16</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">16：腹痛の原因</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#16:  Aim to Please</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#16&#160;: Plaisir de plaire</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#16:  Stets bestrebt</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#16:  Procuro agradar</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">16: Do sempre il meglio di me</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">16：为什么会肚子疼？</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">16：肚子痛的原因</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">16: 복통의 원인</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">16:  Стараясь из всех сил</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#16:  Staram się pomagać</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">16：腹痛の原因</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#16:  Aim to Please</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#16&#160;: Plaisir de plaire</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#16:  Stets bestrebt</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#16:  Procuro agradar</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">16: Do sempre il meglio di me</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">16：为什么会肚子疼？</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">16：肚子痛的原因</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">16: 복통의 원인</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">16:  Стараясь из всех сил</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#16:  Staram się pomagać</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_17</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">17：秘密の施設</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#17:  What Is This Place? </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#17&#160;: Quel est cet endroit&#160;? </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#17:  Was ist das für ein Ort? </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#17:  Que lugar é esse? </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">17: Che posto è mai questo? </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">17：神秘的建筑物</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">17：秘密設施</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">17: 비밀 시설</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">17:  Что это за место? </Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#17:  Co to za miejsce? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">17：秘密の施設</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#17:  What Is This Place? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#17&#160;: Quel est cet endroit&#160;? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#17:  Was ist das für ein Ort? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#17:  Que lugar é esse? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">17: Che posto è mai questo? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">17：神秘的建筑物</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">17：秘密設施</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">17: 비밀 시설</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">17:  Что это за место? </Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#17:  Co to za miejsce? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">extras_movies_18</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">18：Ｃｏｍｅ　Ｏｎ！</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#18:  Fair Warning</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#18&#160;: Avertissement</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#18:  Ich hab dich gewarnt</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#18:  Comunicado</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">18: Avvertimento</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">18：Come On!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">18：Come on!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">18: Come On!</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">18:  Честное предупреждение</Data></Cell>
-    <Cell ss:StyleID="s176"><Data ss:Type="String">#18:  Ostrzeżenie</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">18：Ｃｏｍｅ　Ｏｎ！</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#18:  Fair Warning</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#18&#160;: Avertissement</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#18:  Ich hab dich gewarnt</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#18:  Comunicado</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">18: Avvertimento</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">18：Come On!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">18：Come on!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">18: Come On!</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">18:  Честное предупреждение</Data></Cell>
+    <Cell ss:StyleID="s174"><Data ss:Type="String">#18:  Ostrzeżenie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
@@ -13187,7 +13021,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_007</Data></Cell>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_007</Data></Cell>
     <Cell><Data ss:Type="String">Tropical Resort - Act 4 (Remix)</Data></Cell>
     <Cell><Data ss:Type="String">Tropical Resort - Act 4 (Remix)</Data></Cell>
     <Cell><Data ss:Type="String">Tropical Resort - Act 4 (Remix)</Data></Cell>
@@ -13995,7 +13829,7 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Result Screen</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_061</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Out Of Breath</Data></Cell>
@@ -14010,7 +13844,7 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Out Of Breath</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Out Of Breath</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_061_alt</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Drowning</Data></Cell>
@@ -14025,69 +13859,69 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Drowning</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Land - Drowning</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_062</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Mapa</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">World Map</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_063</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Mapa da Área - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_064</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Mapa da Área - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s76"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_065</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Mapa da Área - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
-    <Cell ss:StyleID="s145"><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">Mapa</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
+    <Cell><Data ss:Type="String">World Map</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_066</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_063</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Mapa da Área - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Tropical Resort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_064</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Mapa da Área - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Sweet Mountain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_065</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Mapa da Área - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+    <Cell><Data ss:Type="String">Area Map - Starlight Carnival</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_066</Data></Cell>
     <Cell><Data ss:Type="String">Area Map - Planet Wisp</Data></Cell>
     <Cell><Data ss:Type="String">Area Map - Planet Wisp</Data></Cell>
     <Cell><Data ss:Type="String">Area Map - Planet Wisp</Data></Cell>
@@ -14101,8 +13935,8 @@
     <Cell><Data ss:Type="String">Area Map - Planet Wisp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_067</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_067</Data></Cell>
     <Cell><Data ss:Type="String">Area Map - Aquarium Park</Data></Cell>
     <Cell><Data ss:Type="String">Area Map - Aquarium Park</Data></Cell>
     <Cell><Data ss:Type="String">Area Map - Aquarium Park</Data></Cell>
@@ -14116,8 +13950,8 @@
     <Cell><Data ss:Type="String">Area Map - Aquarium Park</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_068</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_068</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Asteroid Coaster</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Asteroid Coaster</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Asteroid Coaster</Data></Cell>
@@ -14131,8 +13965,8 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Asteroid Coaster</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_069</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_069</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Terminal Velocity</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Terminal Velocity</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Terminal Velocity</Data></Cell>
@@ -14145,10 +13979,10 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Terminal Velocity</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Area Map - Terminal Velocity</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
-    <Cell ss:StyleID="s177"><Data ss:Type="String">bgm_070</Data></Cell>
-    <Cell><Data ss:Type="String">Title Screen</Data></Cell>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s175"><Data ss:Type="String">bgm_070</Data></Cell>
+    <Cell ss:StyleID="s145"><Data ss:Type="String">Title Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Title Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Title Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Title Screen</Data></Cell>
@@ -14160,10 +13994,10 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Title Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Title Screen</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_071</Data></Cell>
-    <Cell><Data ss:Type="String">Options Satellite</Data></Cell>
+    <Cell ss:StyleID="s145"><Data ss:Type="String">Options Satellite</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Options Satellite</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Options Satellite</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Options Satellite</Data></Cell>
@@ -14175,10 +14009,10 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Options Satellite</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Options Satellite</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_072</Data></Cell>
-    <Cell><Data ss:Type="String">Save Screen</Data></Cell>
+    <Cell ss:StyleID="s145"><Data ss:Type="String">Save Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Save Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Save Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Save Screen</Data></Cell>
@@ -14190,23 +14024,23 @@
     <Cell ss:StyleID="s77"><Data ss:Type="String">Save Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Save Screen</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s76"><Data ss:Type="String">bgm_073</Data></Cell>
-    <Cell><Data ss:Type="String">Result Screen</Data></Cell>
+    <Cell ss:StyleID="s145"><Data ss:Type="String">Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Tela de Resultados</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Result Screen</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Result Screen</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Result Screen</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Result Screen</Data></Cell>
+    <Cell><Data ss:Type="String">Result Screen</Data></Cell>
+    <Cell><Data ss:Type="String">Result Screen</Data></Cell>
+    <Cell><Data ss:Type="String">Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Result Screen</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Result Screen</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
-    <Cell ss:StyleID="s70"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">bgm_074</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Stage Clear</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Stage Clear</Data></Cell>
@@ -14214,14 +14048,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Stage Clear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Fase Concluída</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Stage Clear</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Stage Clear</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Stage Clear</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Stage Clear</Data></Cell>
+    <Cell><Data ss:Type="String">Stage Clear</Data></Cell>
+    <Cell><Data ss:Type="String">Stage Clear</Data></Cell>
+    <Cell><Data ss:Type="String">Stage Clear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Stage Clear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Stage Clear</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">bgm_075</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Boss Stage Clear</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Boss Stage Clear</Data></Cell>
@@ -14235,8 +14069,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Boss Stage Clear</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Boss Stage Clear</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
-    <Cell ss:StyleID="s70"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">bgm_076</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
@@ -14244,13 +14078,13 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Yellow Drill</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_077</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
@@ -14259,13 +14093,13 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Yellow Drill Submerso</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Yellow Drill Underwater ver.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_078</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
@@ -14274,14 +14108,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Pink Spikes</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Pink Spikes</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_079</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
@@ -14289,14 +14123,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Green Hover</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Green Hover</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_080</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
@@ -14304,14 +14138,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Purple Frenzy</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Purple Frenzy</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_081</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
@@ -14319,14 +14153,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Cyan Laser</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Cyan Laser</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_082</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
@@ -14334,14 +14168,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Orange Rocket</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Orange Rocket</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_083</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
@@ -14349,14 +14183,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Poder Colorido - Blue Cube</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
-    <Cell><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Color Power - Blue Cube</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s145">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_084</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Out Of Breath </Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Out Of Breath </Data></Cell>
@@ -14364,14 +14198,14 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Out Of Breath </Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Sem fôlego </Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Out Of Breath </Data></Cell>
-    <Cell><Data ss:Type="String">Out Of Breath </Data></Cell>
-    <Cell><Data ss:Type="String">Out Of Breath </Data></Cell>
-    <Cell><Data ss:Type="String">Out Of Breath </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Out Of Breath </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Out Of Breath </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Out Of Breath </Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Out Of Breath </Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Out Of Breath </Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_084_alt</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Drowning</Data></Cell>
     <Cell><Data ss:Type="String">Drowning</Data></Cell>
@@ -14385,8 +14219,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Drowning</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Drowning</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_085</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Game Land - Color Power 1</Data></Cell>
     <Cell><Data ss:Type="String">Game Land - Color Power 1</Data></Cell>
@@ -14400,8 +14234,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Game Land - Color Power 1</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Game Land - Color Power 1</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_086</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Game Land - Color Power 2 </Data></Cell>
     <Cell><Data ss:Type="String">Game Land - Color Power 2 </Data></Cell>
@@ -14415,8 +14249,8 @@
     <Cell ss:StyleID="s90"><Data ss:Type="String">Game Land - Color Power 2 </Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Game Land - Color Power 2 </Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s71">
+    <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">bgm_087</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Super Sonic</Data></Cell>
     <Cell><Data ss:Type="String">Super Sonic</Data></Cell>
@@ -14700,8 +14534,8 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">ПОДРОБНОСТИ</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">SZCZEGÓŁY</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
-    <Cell ss:StyleID="s86"><Data ss:Type="String">autosave</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">crm_002</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">さらに詳しく</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">SEE MORE</Data></Cell>
@@ -14715,7 +14549,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">УЗНАТЬ БОЛЬШЕ</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">ZOBACZ WIĘCEJ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">crm_003</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">閉じる</Data></Cell>
@@ -14730,7 +14564,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">ЗАКРЫТЬ</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">ZAMKNIJ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">crm_004</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Epic Store</Data></Cell>
@@ -14760,7 +14594,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">EPIC STORE</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">EPIC STORE</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">crm_006</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">PlayStation™Store</Data></Cell>
@@ -14775,7 +14609,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">PlayStation™Store</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">PlayStation™Store</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">crm_info_PS4</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">PlayStation™Store</Data></Cell>
@@ -14790,7 +14624,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">PlayStation™Store</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">PlayStation™Store</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">crm_008</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">Microsoft Store</Data></Cell>
@@ -14850,8 +14684,8 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">NINTENDO ESHOP</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">NINTENDO ESHOP</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="59.25">
-    <Cell ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">autosave</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">autosave</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">このゲームはオートセーブ対応です&#10;画面右上にアイコンが表示されている間は電源を切らないで下さい</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">This game supports an autosave feature.  &#10;When the graphic in the top right is displayed, do not turn off the power.</Data></Cell>
@@ -14865,7 +14699,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">В этой игре используется функция автоматического &#10;сохранения. Не выключайте питание, когда видите &#10;соответствующий значок в правом верхнем углу экрана.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ta gra obsługuje funkcję automatycznego zapisu.&#10;Nie odłączaj zasilania, gdy w prawym górnym rogu wyświetlana jest ta grafika.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">autosave_XB1</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">このゲームはオートセーブ対応です&#10;画面右上にアイコンが表示されている間は電源を切らないで下さい</Data></Cell>
@@ -14880,7 +14714,7 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">В этой игре используется функция автоматического &#10;сохранения. Не выключайте питание, когда видите &#10;соответствующий значок в правом верхнем углу экрана.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ta gra obsługuje funkcję automatycznego zapisu.&#10;Nie odłączaj zasilania, gdy w prawym górnym rogu wyświetlana jest ta grafika.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s86"><Data ss:Type="String">autosave_NX</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">このゲームはオートセーブ対応です&#10;画面右上にアイコンが表示されている間は電源を切らないで下さい</Data></Cell>
@@ -14895,8 +14729,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">В этой игре используется функция автоматического &#10;сохранения. Не выключайте питание, когда видите &#10;соответствующий значок в правом верхнем углу экрана.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ta gra obsługuje funkcję automatycznego zapisu.&#10;Nie odłączaj zasilania, gdy w prawym górnym rogu wyświetlana jest ta grafika.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">autosave_PS4</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">autosave_PS4</Data></Cell>
     <Cell ss:StyleID="s151"><Data ss:Type="String">このゲームはオートセーブ対応です&#10;画面右上にアイコンが表示されている間は電源を切らないで下さい</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">This game supports an autosave feature.  &#10;When the graphic in the top right is displayed, do not turn off the power.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Le jeu utilise une fonction de sauvegarde automatique.&#10;Ne pas éteindre lorsque l'icône s'affiche en haut à droite de l'écran.</Data></Cell>
@@ -14909,8 +14744,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">В этой игре используется функция автоматического &#10;сохранения. Не выключайте питание, когда видите &#10;соответствующий значок в правом верхнем углу экрана.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ta gra obsługuje funkcję automatycznego zapisu.&#10;Nie odłączaj zasilania, gdy w prawym górnym rogu wyświetlana jest ta grafika.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">レース選択</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Select Race</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Choix de course</Data></Cell>
@@ -14923,8 +14759,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Выбери гонку</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wybierz wyścig</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ゴーストと対戦</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Race Ghost</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Course de fantôme</Data></Cell>
@@ -14937,8 +14774,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Гонка с призраком</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ścigaj się z duchem</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="28.6875" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">ライバルと対戦</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Race Rival</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Course de rival</Data></Cell>
@@ -14951,8 +14789,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Гонка с соперником</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ścigaj się z rywalem</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">カテゴリー選択</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Select Category</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Choix de catégorie</Data></Cell>
@@ -14965,8 +14804,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Выбери категорию</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wybierz kategorię</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">リスト選択</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Select List</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Choix de liste</Data></Cell>
@@ -14979,8 +14819,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Выбери список</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Wybierz listę</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s71">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">スーパーソニック有効</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Super Sonic Mode Enabled</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Mode Super Sonic activé</Data></Cell>
@@ -14993,8 +14834,9 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Режим Суперсоника включен</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Aktywowano tryb Super Sonica</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">メタルソニック有効</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Metal Sonic Mode Enabled</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Mode Metal Sonic activé</Data></Cell>
@@ -15008,7 +14850,8 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Aktywowano tryb Metal Sonica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">有効</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Enabled</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Activé</Data></Cell>
@@ -15022,7 +14865,8 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">Aktywowano</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s151"><Data ss:Type="String">なし</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">None</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Aucun(e)</Data></Cell>
@@ -15324,7 +15168,6 @@
     <Cell><Data ss:Type="String">Kucnięcie / Ślizg</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">InGameLabels</Data></Cell>
     <Cell ss:Index="3"><Data ss:Type="String">しゃがむ</Data></Cell>
     <Cell><Data ss:Type="String">Crouch</Data></Cell>
     <Cell><Data ss:Type="String">S'accroupir</Data></Cell>
@@ -15351,7 +15194,6 @@
     <Cell><Data ss:Type="String">Naskok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Sonic_Sim</Data></Cell>
     <Cell ss:Index="3"><Data ss:Type="String">しゃがむ&#10;スライディング&#10;ストンピング</Data></Cell>
     <Cell><Data ss:Type="String">Crouch / Slide / Stomp</Data></Cell>
     <Cell><Data ss:Type="String">S'accroupir / Glisser / Piétiner</Data></Cell>
@@ -15456,7 +15298,8 @@
     <Cell><Data ss:Type="String">Menu pauzy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">time_over</Data></Cell>
+    <Cell><Data ss:Type="String">InGameLabels</Data></Cell>
+    <Cell><Data ss:Type="String">time_over</Data></Cell>
     <Cell><Data ss:Type="String">タイムオーバー</Data></Cell>
     <Cell><Data ss:Type="String">TIME'S UP</Data></Cell>
     <Cell><Data ss:Type="String">TEMPS ÉCOULÉ</Data></Cell>
@@ -15484,7 +15327,8 @@
     <Cell><Data ss:Type="String">&gt;&gt;&gt; WYNIK</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">score</Data></Cell>
+    <Cell><Data ss:Type="String">Sonic_Sim</Data></Cell>
+    <Cell><Data ss:Type="String">score</Data></Cell>
     <Cell><Data ss:Type="String">&gt;&gt; スコア &lt;&lt;</Data></Cell>
     <Cell><Data ss:Type="String">&gt;&gt; SCORE &lt;&lt;</Data></Cell>
     <Cell><Data ss:Type="String">&gt;&gt; SCORE &lt;&lt;</Data></Cell>
@@ -15553,11 +15397,11 @@
    </Print>
    <Zoom>60</Zoom>
    <Selected/>
-   <LeftColumnVisible>4</LeftColumnVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>677</TopRowBottomPane>
+   <TopRowBottomPane>847</TopRowBottomPane>
    <ActivePane>2</ActivePane>
    <Panes>
     <Pane>
@@ -15565,15 +15409,16 @@
     </Pane>
     <Pane>
      <Number>2</Number>
-     <ActiveRow>697</ActiveRow>
-     <ActiveCol>6</ActiveCol>
+     <ActiveRow>898</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R899C3:R899C13</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
    <ProtectScenarios>False</ProtectScenarios>
   </WorksheetOptions>
   <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
-   <Range>R1C1:R1C13,R172C3:R174C13,R90C3:R95C13,R160C3:R161C13,R101C3:R101C13,R103C3:R103C13,R137C3:R138C13,R105C3:R117C13,R166C3:R170C13,R395C1:R466C1,R395C2:R482C2,R410C3:R410C13,R403C3:R405C13,R395C3:R401C13,R417C3:R424C13,R425C5:R426C13,R425C3:R426C3,R427C3:R453C13,R598C3:R601C3,R598C5:R601C13,R458C3:R459C8,R456C3:R457C13,R454C3:R455C8,R454C10:R455C13,R458C10:R459C13,R157C3:R157C13,R119C2,R480C14:R485C16384,R829C3:R838C13,R486C15:R491C16384,R131C3:R134C8,R131C12:R134C13,R483C5:R494C13,R483C3:R494C3,R602C3:R606C13,R682C14:R825C16384,R645C4,R176C3:R313C13,R1C14:R463C16384,R120C1:R394C2,R140C3:R155C13,R495C1:R496C13,R2C1:R68C2,R71C1:R118C2,R69C1:R70C13,R71C3:R88C13,R753C3:R783C13,R607C3:R645C3,R724C1:R828C1,R701C1:R722C1,R707C3:R714C13,R647C3:R706C3,R647C4:R690C4,R647C5:R706C13,R607C5:R645C13,R497C9:R497C11,R646C3:R646C13,R492C14:R597C16384,R840C3:R882C13,R119C3:R130C13,R57C3:R62C13,R64C3:R68C13,R517C5:R518C9,R517C11:R518C13,R498C3:R518C3,R498C5:R516C13,R460C3:R471C13,R473C3:R482C13,R315C3:R391C13,R2C3:R55C13,R715C3:R715C8,R715C10:R715C13,R883C2:R886C13,R887C5:R897C13,R887C2:R897C3,R981C2:R1048576C13,R980C2,R497C1:R548C2,R549C1:R600C1,R554C2:R606C2,R830C1:R1048576C1,R827C14:R1048576C16384,R898C2:R979C13,R519C3:R548C13,R555C3:R597C13,R707C2:R776C2,R716C3:R741C13,R549C2:R553C3,R554C3,R549C4:R554C13</Range>
+   <Range>R1C1:R1C13,R172C3:R174C13,R90C3:R95C13,R160C3:R161C13,R101C3:R101C13,R103C3:R103C13,R137C3:R138C13,R105C3:R117C13,R166C3:R170C13,R395C1:R466C1,R395C2:R482C2,R410C3:R410C13,R403C3:R405C13,R395C3:R401C13,R417C3:R424C13,R425C5:R426C13,R425C3:R426C3,R427C3:R453C13,R592C3:R595C3,R592C5:R595C13,R458C3:R459C8,R456C3:R457C13,R454C3:R455C8,R454C10:R455C13,R458C10:R459C13,R157C3:R157C13,R119C2,R480C14:R485C16384,R830C1:R872C1,R819C3:R828C13,R486C15:R491C16384,R131C3:R134C8,R131C12:R134C13,R483C5:R494C13,R483C3:R494C3,R596C3:R600C13,R701C2:R766C2,R682C14:R825C16384,R639C4,R176C3:R313C13,R1C14:R463C16384,R120C1:R394C2,R140C3:R155C13,R495C1:R496C13,R827C14:R878C16384,R2C1:R68C2,R71C1:R118C2,R69C1:R70C13,R71C3:R88C13,R743C3:R773C13,R601C3:R639C3,R724C1:R828C1,R701C1:R722C1,R701C3:R708C13,R641C3:R700C3,R641C4:R684C4,R641C5:R700C13,R601C5:R639C13,R497C9:R497C11,R640C3:R640C13,R492C14:R597C16384,R830C3:R872C13,R873C1:R876C13,R119C3:R130C13,R879C5:R887C16384,R877C1:R887C3,R877C5:R878C13,R57C3:R62C13,R64C3:R68C13,R517C5:R518C9,R517C11:R518C13,R498C3:R518C3,R498C5:R516C13,R460C3:R471C13,R473C3:R482C13,R971:R1048576,R970C1:R970C2,R970C14:R970C16384,R315C3:R391C13,R2C3:R55C13,R710C3:R731C13,R709C3:R709C8,R709C10:R709C13,R497C1:R600C2,R519C3:R591C13,R888:R969</Range>
    <Condition>
     <Value1>NOT(ISERROR(SEARCH(&quot;PLACEHOLDER&quot;,RC)))</Value1>
     <Format Style='color:#9C0006;background:#FFC7CE'/>
