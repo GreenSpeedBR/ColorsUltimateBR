@@ -1,3 +1,6 @@
+## Colors Ultimate: Brazilian Localization v3.1
+- Os únicos textos que permanecem "quebrados" são os textos dos itens novos adicionados no patch 3.0 do jogo (o patch de dezembro)
+
 ## Colors Ultimate: Brazilian Localization v3.0
 - Com a chegada do patch de dezembro, o mod quebrou na parte do "new_dynamic_text" (os textos novos referentes a configurações, botões de menu e etc). Por enquanto, essa parte foi removida pra evitar que o mod fique quebrado. Cutscenes e dicas ainda estão 100%.
 
