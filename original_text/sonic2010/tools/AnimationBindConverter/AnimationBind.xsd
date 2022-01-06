@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema targetNamespace="http://www.sega.co.jp/SONIC2010/AnimationBindFormat" elementFormDefault="qualified" xmlns="http://www.sega.co.jp/SONIC2010/AnimationBindFormat" xmlns:mstns="http://www.sega.co.jp/SONIC2010/AnimationBindFormat" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="AnimationBind">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="Target" maxOccurs="1" minOccurs="0">
+        </xsd:element>
+        <xsd:element ref="TriggerIDHeaderName" maxOccurs="1" minOccurs="0" />
+        <xsd:element ref="NameSpace" maxOccurs="1" minOccurs="0" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Target">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="TriggerIDPath" type="xsd:string" maxOccurs="1" minOccurs="0" />
+        <xsd:element name="OutputDir" type="xsd:string" maxOccurs="1" minOccurs="0" />
+        <xsd:element name="AnimationArray">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="Animation" maxOccurs="unbounded" minOccurs="1">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="ResourceName">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value" type="xsd:string" />
+                        <xsd:attribute name="share" type="xsd:boolean" use="optional" />
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="StartFrame" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value" type="xsd:float" />
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="EndFrame" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value" type="xsd:float" />
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="AnimationSpeed" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value" type="xsd:float" />
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="PlayMode" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value">
+                          <xsd:simpleType>
+                            <xsd:restriction base="xsd:string">
+                              <xsd:enumeration value="LOOP" />
+                              <xsd:enumeration value="RATE_SPEED_LOOP" />
+                              <xsd:enumeration value="NEXT_ANIMATION" />
+                              <xsd:enumeration value="STOP" />
+                            </xsd:restriction>
+                          </xsd:simpleType>
+                        </xsd:attribute>
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="NextAnimationID" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value" type="xsd:string" />
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="InterpolateMode" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value">
+                          <xsd:simpleType>
+                            <xsd:restriction base="xsd:string">
+                              <xsd:enumeration value="IMMEDIATE" />
+                              <xsd:enumeration value="FINISH_AND_START" />
+                              <xsd:enumeration value="STOP_AND_START" />
+                              <xsd:enumeration value="OVERLAP" />
+                              <xsd:enumeration value="FINISH_AND_START_OVERLAP" />
+                            </xsd:restriction>
+                          </xsd:simpleType>
+                        </xsd:attribute>
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="InterpolateTime" maxOccurs="1" minOccurs="0">
+                      <xsd:complexType>
+                        <xsd:sequence />
+                        <xsd:attribute name="value" type="xsd:float" />
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="Event" minOccurs="0" maxOccurs="1">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="Key" maxOccurs="unbounded" minOccurs="0">
+                            <xsd:complexType>
+                              <xsd:sequence />
+                              <xsd:attribute name="frame" type="xsd:float" />
+                              <xsd:attribute name="type" type="xsd:string" />
+                              <xsd:attribute name="value_type">
+                                <xsd:simpleType>
+                                  <xsd:restriction base="xsd:string">
+                                    <xsd:enumeration value="enum" />
+                                    <xsd:enumeration value="int" />
+                                    <xsd:enumeration value="float" />
+                                    <xsd:enumeration value="string" />
+                                  </xsd:restriction>
+                                </xsd:simpleType>
+                              </xsd:attribute>
+                              <xsd:attribute name="value" type="xsd:string" />
+                            </xsd:complexType>
+                          </xsd:element>
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                  <xsd:attribute name="name" type="xsd:string" />
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="TriggerIDHeaderName" type="xsd:string">
+  </xsd:element>
+  <xsd:element name="NameSpace">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="TriggerTypeArray" maxOccurs="1" minOccurs="0">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="TriggerType" minOccurs="1" maxOccurs="unbounded">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element ref="Enum" maxOccurs="unbounded" minOccurs="0" />
+                  </xsd:sequence>
+                  <xsd:attribute name="type" type="xsd:string" />
+                  <xsd:attribute name="value" type="xsd:int" />
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+      <xsd:attribute name="value" type="xsd:string" />
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Enum">
+    <xsd:complexType>
+      <xsd:sequence>
+      </xsd:sequence>
+      <xsd:attribute name="name" type="xsd:string" />
+      <xsd:attribute name="value" type="xsd:int" />
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

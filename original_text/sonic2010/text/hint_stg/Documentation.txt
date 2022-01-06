@@ -1,0 +1,9 @@
+For adding new hint files, add them to hint.xml
+make sure you close the xml/excel file before the next step
+checkout on p4 all of the files for ui_hint.arc
+	these are located in depot/content/sonic2010/dvd_builder_images/sonic2010/ui
+	there should be 12 of these for the 11 languages plus one for error text
+	for example you should have hint_stg_j.arc hint_stg_e.arc etc. etc. _g _i _s _f _chs _cht _k _r _p
+then you should be able to run hint_stg.bat in the same folder which should write out all the of data from the xml into xtb and push that xtb into the arc files
+	this should popup a cmd window and should end with Press any key to continue . . .
+	IF ANY DIALOGUE'S POPUP DURING THE BAT FILES RUNNING, THE PROCESS FAILED, RUN IT AGAIN

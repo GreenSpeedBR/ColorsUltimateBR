@@ -1,0 +1,1 @@
+NdevRun -enfw .\CsbFileViewer_NDEV.elf

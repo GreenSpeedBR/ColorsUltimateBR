@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema targetNamespace="http://www.sega.co.jp/SONIC2010/Flow" elementFormDefault="qualified" xmlns="http://www.sega.co.jp/SONIC2010/Flow" xmlns:mstns="http://www.sega.co.jp/SONIC2010/Flow" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Flow">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="TextureInfo" minOccurs="1" maxOccurs="unbounded" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="TextureInfo">
+    <xsd:complexType>
+      <xsd:sequence>
+      </xsd:sequence>
+      <xsd:attribute name="id" type="xsd:nonNegativeInteger" />
+      <xsd:attribute name="name" type="xsd:string" />
+      <xsd:attribute name="divide">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="None" />
+            <xsd:enumeration value="Four" />
+            <xsd:enumeration value="Sixteen" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:attribute>
+      <xsd:attribute name="blendMode">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="Opaque" />
+            <xsd:enumeration value="Modulate" />
+            <xsd:enumeration value="Add" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:attribute>
+      <xsd:attribute name="hdr" type="xsd:boolean" />
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

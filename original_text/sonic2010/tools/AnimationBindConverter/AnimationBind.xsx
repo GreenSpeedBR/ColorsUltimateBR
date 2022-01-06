@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--このファイルは XML スキーマ デザイナで自動生成されています。コンポーネントのレイアウト情報はデザイナ画面に保持されます。-->
+<XSDDesignerLayout Style="LeftRight" layoutVersion="2" viewPortLeft="111" viewPortTop="-818" zoom="100">
+    <AnimationBind_XmlElement left="1561" top="767" width="5292" height="4366" selected="0" zOrder="1" index="0" expanded="1">
+        <ref_x003D_Target_XmlElement left="7487" top="182" width="5291" height="2514" selected="0" zOrder="2" index="0" expanded="1">
+            <AnimationArray_XmlElement left="13412" top="182" width="5292" height="2514" selected="0" zOrder="5" index="2" expanded="0" />
+        </ref_x003D_Target_XmlElement>
+        <ref_x003D_NameSpace_XmlElement left="7487" top="3204" width="5291" height="2514" selected="0" zOrder="8" index="2" expanded="1">
+            <TriggerTypeArray_XmlElement left="13412" top="3204" width="5292" height="2514" selected="0" zOrder="11" index="0" expanded="0" />
+        </ref_x003D_NameSpace_XmlElement>
+    </AnimationBind_XmlElement>
+    <Target_XmlElement left="1502" top="15370" width="5292" height="2514" selected="0" zOrder="14" index="1" expanded="1">
+        <AnimationArray_XmlElement left="7428" top="15370" width="5292" height="2514" selected="0" zOrder="16" index="2" expanded="1">
+            <Animation_XmlElement left="13354" top="15370" width="5292" height="2514" selected="0" zOrder="19" index="0" expanded="1">
+                <ResourceName_XmlElement left="19280" top="3282" width="5292" height="2514" selected="0" zOrder="22" index="0" expanded="1" />
+                <StartFrame_XmlElement left="19280" top="6304" width="5292" height="2514" selected="0" zOrder="24" index="1" expanded="1" />
+                <EndFrame_XmlElement left="19280" top="9326" width="5292" height="2514" selected="0" zOrder="27" index="2" expanded="1" />
+                <AnimationSpeed_XmlElement left="19280" top="12348" width="5292" height="2514" selected="0" zOrder="30" index="3" expanded="1" />
+                <PlayMode_XmlElement left="19280" top="15370" width="5292" height="2514" selected="0" zOrder="33" index="4" expanded="1">
+                    <value_XmlAttribute left="25206" top="16296" width="5292" height="661" selected="0" zOrder="36" index="0" expanded="1">
+                        <_x0028_value_x0029__XmlSimpleType left="31132" top="15370" width="5292" height="2514" selected="0" zOrder="39" index="0" expanded="1" />
+                    </value_XmlAttribute>
+                </PlayMode_XmlElement>
+                <NextAnimationID_XmlElement left="19280" top="18392" width="5292" height="2514" selected="0" zOrder="42" index="5" expanded="1" />
+                <InterpolateMode_XmlElement left="19280" top="21414" width="5292" height="2514" selected="0" zOrder="45" index="6" expanded="1">
+                    <value_XmlAttribute left="25206" top="22274" width="5292" height="794" selected="0" zOrder="47" index="0" expanded="1">
+                        <_x0028_value_x0029__XmlSimpleType left="31132" top="21414" width="5292" height="2514" selected="0" zOrder="49" index="0" expanded="1" />
+                    </value_XmlAttribute>
+                </InterpolateMode_XmlElement>
+                <InterpolateTime_XmlElement left="19280" top="24436" width="5292" height="2514" selected="0" zOrder="51" index="7" expanded="1" />
+                <Event_XmlElement left="19280" top="27458" width="5292" height="2514" selected="0" zOrder="53" index="8" expanded="1">
+                    <Key_XmlElement left="25206" top="27458" width="5292" height="2514" selected="0" zOrder="55" index="0" expanded="1">
+                        <value_type_XmlAttribute left="31132" top="28318" width="5292" height="794" selected="0" zOrder="57" index="2" expanded="1">
+                            <_x0028_value_type_x0029__XmlSimpleType left="37058" top="27458" width="5292" height="2514" selected="0" zOrder="59" index="0" expanded="1" />
+                        </value_type_XmlAttribute>
+                    </Key_XmlElement>
+                </Event_XmlElement>
+            </Animation_XmlElement>
+        </AnimationArray_XmlElement>
+    </Target_XmlElement>
+    <TriggerIDHeaderName_XmlElement left="1640" top="32094" width="5292" height="794" selected="0" zOrder="61" index="2" expanded="1" />
+    <NameSpace_XmlElement left="1561" top="33416" width="5292" height="2514" selected="0" zOrder="62" index="3" expanded="1">
+        <TriggerTypeArray_XmlElement left="7487" top="33416" width="5292" height="2514" selected="0" zOrder="63" index="0" expanded="1">
+            <TriggerType_XmlElement left="13413" top="33416" width="5292" height="2514" selected="0" zOrder="65" index="0" expanded="1">
+                <ref_x003D_Enum_XmlElement left="19339" top="33416" width="5292" height="2514" selected="0" zOrder="67" index="0" expanded="0" />
+            </TriggerType_XmlElement>
+        </TriggerTypeArray_XmlElement>
+    </NameSpace_XmlElement>
+    <Enum_XmlElement left="1111" top="38287" width="5292" height="2514" selected="0" zOrder="69" index="4" expanded="1" />
+</XSDDesignerLayout>
