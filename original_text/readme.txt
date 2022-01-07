@@ -13,5 +13,5 @@ As these files came with version 1.0 of the game, the texts for the new cosmetic
 To convert, just run the corresponding "convert.bat"
 
 The subtitle files will be in "\dvd_builder_image\sonic2010\event" as "evXXX_seq.arc"
-The hint files will be in "ui" folder
+The hint files will be in "\dvd_builder_image\sonic2010\ui" folder
 The new interface texts will be named "new_dynamic_text.arc" inside "\dvd_builder_image\sonic2010"
