@@ -1,2 +1,0 @@
-decompress: darch.exe -txvV "folder" [file]
-compress: darch.exe -c "folder"\arc [file]
